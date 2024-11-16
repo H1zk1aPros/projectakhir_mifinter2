@@ -274,6 +274,7 @@
                     <a href="#" class="text-white mr-3"><i class="fa fa-tiktok"></i></a>
                     <a href="#" class="text-white"><i class="fa fa-instagram"></i></a>
                 </p>
+                <hr style="border: 2px solid white; width: 100%;">
                 <p>
                     <a href="#" class="text-white footer-link">FAQ</a> | 
                     <a href="../faiz/lokasi.html" class="text-white footer-link">Location</a>
