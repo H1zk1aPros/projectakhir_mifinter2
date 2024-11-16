@@ -6,6 +6,7 @@
     <title>Jember Combat Club</title>
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Old+Standard+TT&display=swap" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <style>
         .hero-section {
             background-image: url("asset/aseoooyy.png");
@@ -46,12 +47,24 @@
         .schedule-table {
             overflow-x: auto;
         }
-        footer {
+        .footer {
             background-color: #b60000;
             color: white;
             text-align: center;
             padding: 20px;
         }
+        footer .fa {
+            margin-right: 8px;
+            font-size: 20px;
+        }
+        footer a {
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+
     </style>
 </head>
 <body>
@@ -224,10 +237,28 @@
         </div>
     </section>
 
-    <footer>
-        <p>Contact us: 081336677567 | jember.combatclub@gmail.com</p>
-        <p>Jember Combat Club &copy; 2024</p>
-    </footer>
+    <footer style="background-color: #b60000; color: white;">
+    <div class="container py-4">
+        <div class="row">
+            <div class="col-md-6 text-left">
+                <p>
+                    <i class="fa fa-whatsapp"></i> 081336527767<br>
+                    <i class="fa fa-envelope"></i> jembercombatclub@gmail.com
+                </p>
+            </div>
+            <div class="col-md-6 text-right">
+                <p>
+                    <a href="#" class="text-white mr-3"><i class="fa fa-tiktok"></i></a>
+                    <a href="#" class="text-white"><i class="fa fa-instagram"></i></a>
+                </p>
+                <p>
+                    <a href="#" class="text-white footer-link">FAQ</a> | 
+                    <a href="../faiz/lokasi.html" class="text-white footer-link">Location</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
 
     <!-- Bootstrap JS, Popper.js, and jQuery -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
