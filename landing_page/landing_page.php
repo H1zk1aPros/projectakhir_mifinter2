@@ -44,6 +44,29 @@
             background-color: #f8f9fa;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
+        .btn-red {
+            background-color: #b60000;
+            color: white;
+            border: none;
+            width: 50%;
+            padding: 12px 16px;
+            font-size: 24px;
+            
+        }
+        .btn-red:hover {
+            background-color: #8e0000;
+            color: white;
+        }
+        .btn-primary {
+            background-color: #b60000;
+            border-color: #b60000;
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #8e0000;
+            border-color: #8e0000;
+            color: white;
+        }
         .schedule-table {
             overflow-x: auto;
         }
@@ -114,7 +137,7 @@
                     </div>
                 </div>
             </div>
-            <button class="btn btn-primary mt-3">Learn About our Coaches</button>
+            <button class="btn btn-red mt-3">Learn About our Coaches</button>
         </div>
     </section>
 
