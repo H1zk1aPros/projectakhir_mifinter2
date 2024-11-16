@@ -125,6 +125,90 @@
                     </thead>
                     <tbody>
                         <tr>
+                            <td>08:00 - 09:00</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td>09:00 - 10:00</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing</td>
+                            <td>Boxing</td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td>10:00 - 11:00</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing / MuayThai</td>
+                            <td>Boxing</td>
+                            <td>Boxing</td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td>11:00 - 12:00</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>Jiu Jitsu</td>
+                            <td>Jiu Jitsu</td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td>15:00 - 16:00</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>Karate Kyokushin</td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td>16:00 - 17:00</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>Karate Kyokushin</td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td>17:00 - 18:00</td>
+                            <td>Boxing</td>
+                            <td>Jiujitsu</td>
+                            <td>Karate Kyokushin</td>
+                            <td>Jiujitsu</td>
+                            <td>Competition Team Training (invite only)</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
                             <td>09:00 - 10:00</td>
                             <td>Jiu Jitsu</td>
                             <td></td>
@@ -134,14 +218,12 @@
                             <td>Muay Thai</td>
                             <td></td>
                         </tr>
-                        <!-- More rows as per the schedule -->
                     </tbody>
                 </table>
             </div>
         </div>
     </section>
 
-    <!-- Footer -->
     <footer>
         <p>Contact us: 081336677567 | jember.combatclub@gmail.com</p>
         <p>Jember Combat Club &copy; 2024</p>
