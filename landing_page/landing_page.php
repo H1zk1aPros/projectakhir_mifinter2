@@ -6,7 +6,7 @@
     <title>Jember Combat Club</title>
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Old+Standard+TT&display=swap" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         .hero-section {
             background-image: url("asset/aseoooyy.png");
@@ -51,7 +51,6 @@
             width: 50%;
             padding: 12px 16px;
             font-size: 24px;
-            
         }
         .btn-red:hover {
             background-color: #8e0000;
@@ -87,10 +86,10 @@
         footer a:hover {
             text-decoration: underline;
         }
-
     </style>
 </head>
 <body>
+    
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
@@ -120,19 +119,19 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="coach-card">
-                        <img src="./asset/akira.png" alt="Akira" class="img-fluid rounded-circle">
+                        <img src="../asset/akira.png" alt="Akira" class="img-fluid">
                         <h3>AKIRA</h3>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="coach-card">
-                        <img src="./asset/satria.png" alt="Satria" class="img-fluid rounded-circle">
+                        <img src="../asset/satria.png" alt="Satria" class="img-fluid">
                         <h3>SATRIA</h3>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="coach-card">
-                        <img src="./asset/nyo.png" alt="Nyo" class="img-fluid rounded-circle">
+                        <img src="../asset/nyo.png" alt="Nyo" class="img-fluid">
                         <h3>NYO</h3>
                     </div>
                 </div>
@@ -259,25 +258,24 @@
             </div>
         </div>
     </section>
-
     <footer style="background-color: #b60000; color: white;">
     <div class="container py-4">
         <div class="row">
             <div class="col-md-6 text-left">
                 <p>
-                    <i class="fa fa-whatsapp"></i> 081336527767<br>
+                    <a href=https://wa.me/+6281336527767 class="text-white mr-3"><i class="fa-brands fa-whatsapp fa-xl"></i> 081336527767<br></a>
                     <i class="fa fa-envelope"></i> jembercombatclub@gmail.com
                 </p>
             </div>
             <div class="col-md-6 text-right">
                 <p>
-                    <a href="#" class="text-white mr-3"><i class="fa fa-tiktok"></i></a>
-                    <a href="#" class="text-white"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.tiktok.com/@jembercombatclub" class="text-white mr-3"><i class="fa-brands fa-tiktok fa-xl"></i></a>
+                    <a href="https://www.instagram.com/jember.combat.club/" class="text-white"><i class="fa-brands fa-instagram fa-xl"></i></a>
                 </p>
                 <hr style="border: 2px solid white; width: 100%;">
                 <p>
-                    <a href="#" class="text-white footer-link">FAQ</a> | 
-                    <a href="../faiz/lokasi.html" class="text-white footer-link">Location</a>
+                    <a href="../faq/question.html" class="text-white footer-link fa-xl">FAQ</a> | 
+                    <a href="../faiz/lokasi.html" class="text-white footer-link fa-xl">Location</a>
                 </p>
             </div>
         </div>
