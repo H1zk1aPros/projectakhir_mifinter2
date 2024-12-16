@@ -1,3 +1,8 @@
+<?php  include "includes/header.php"; ?>
+
+<!-- Navigation -->
+<?php include "includes/navigation.php"; ?>
+
 <html>
   <head>
     <link
@@ -34,7 +39,6 @@
       }
       .container {
         text-align: center;
-        padding: 50px 20px;
       }
       .address {
         font-size: 24px;
@@ -74,23 +78,6 @@
         font-size: 40px;
         color: #25d366;
       }
-      .footer {
-        background-color: #b60000;
-        color: white;
-        text-align: center;
-        padding: 20px;
-      }
-      footer .fa {
-        margin-right: 8px;
-        font-size: 20px;
-      }
-      footer a {
-        text-decoration: none;
-        transition: 0.3s;
-      }
-      footer a:hover {
-        text-decoration: underline;
-      }
     </style>
   </head>
   <body>
@@ -120,36 +107,7 @@
       </div>
     </div>
   </body>
-  <footer style="background-color: #b60000; color: white">
-    <div class="container py-4">
-      <div class="row">
-        <div class="col-md-6 text-left">
-          <p>
-            <a href=https://wa.me/+6281336527767 class="text-white mr-3"><i class="fa-brands fa-whatsapp fa-xl"></i> 081336527767<br></a>
-            <i class="fa fa-envelope"></i> jembercombatclub@gmail.com
-          </p>
-        </div>
-        <div class="col-md-6 text-right">
-          <p>
-            <a href="https://www.tiktok.com/@jembercombatclub" class="text-white mr-3"
-              ><i class="fa-brands fa-tiktok fa-xl"></i
-            ></a>
-            <a href="https://www.instagram.com/jember.combat.club/" class="text-white"
-              ><i class="fa-brands fa-instagram fa-xl"></i
-            ></a>
-          </p>
-          <hr style="border: 2px solid white; width: 100%" />
-          <p>
-            <a href="../faq/question.html" class="text-white footer-link fa-xl"
-              >FAQ</a
-            >
-            |
-            <a href="../faiz/lokasi.html" class="text-white footer-link fa-xl"
-              >Location</a
-            >
-          </p>
-        </div>
-      </div>
-    </div>
-  </footer>
+
+  <?php  include "includes/footer.php"; ?>
+
 </html>
