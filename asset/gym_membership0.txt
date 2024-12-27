@@ -1,0 +1,1001 @@
+id	name	gender	birthday	Age	abonoment_type	visit_per_week	days_per_week	attend_group_lesson	fav_group_lesson	avg_time_check_in	avg_time_check_out	avg_time_in_gym	drink_abo	fav_drink	personal_training	name_personal_trainer	uses_sauna
+1	Abby	Female	1997-04-18	27	Premium	4	Mon, Sat, Tue, Wed	TRUE	Kickboxen, BodyPump, Zumba	19:31:00	21:27:00	116	FALSE		FALSE		TRUE
+2	Abigail	Female	1977-09-18	47	Standard	3	Mon, Sat, Wed	FALSE		19:31:00	20:19:00	48	FALSE		TRUE	Chantal	FALSE
+3	Aaron	Male	1983-03-30	41	Premium	1	Sat	TRUE	XCore	08:29:00	10:32:00	123	TRUE	berry_boost, lemon	TRUE	Mike	FALSE
+4	Ab	Male	1980-04-12	44	Premium	3	Sat, Tue, Wed	FALSE		09:54:00	11:33:00	99	TRUE	passion_fruit	TRUE	Mike	TRUE
+5	Abe	Male	1980-09-10	44	Standard	2	Thu, Wed	TRUE	Running, Yoga, Zumba	08:29:00	09:19:00	50	FALSE		TRUE	Mike	FALSE
+6	Ada	Female	2009-06-29	15	Standard	1	Mon	FALSE		17:19:00	20:19:00	180	FALSE		FALSE		TRUE
+7	Abner	Male	1994-08-07	30	Premium	3	Sat, Thu, Wed	TRUE	LesMiles, BodyPump	19:46:00	20:48:00	62	FALSE		FALSE		FALSE
+8	Abraham	Male	2003-11-13	20	Standard	2	Mon, Wed	TRUE	Yoga, XCore	17:45:00	19:20:00	95	TRUE	coconut_pineapple	FALSE		TRUE
+9	Absalom	Male	1978-07-28	46	Premium	3	Sat, Sun, Thu	TRUE	BodyPump	09:45:00	11:17:00	92	TRUE	orange, lemon	TRUE	Mike	FALSE
+10	Addison	Female	2000-05-06	24	Premium	1	Mon	FALSE		13:05:00	15:29:00	144	FALSE		TRUE	Jeffrey	TRUE
+11	Ace	Male	1983-07-11	41	Standard	1	Fri	FALSE		13:50:00	14:26:00	36	FALSE		TRUE	Hanna	FALSE
+12	Adam	Male	1997-09-19	27	Premium	3	Fri, Thu, Wed	TRUE	Pilates, Zumba, XCore	10:12:00	10:45:00	33	TRUE	passion_fruit	TRUE	Mike	TRUE
+13	Adelaide	Female	1994-04-22	30	Standard	2	Sun, Wed	TRUE	XCore, HIT, Running	17:04:00	19:42:00	158	TRUE	passion_fruit	FALSE		TRUE
+14	Adele	Female	1989-03-21	35	Premium	3	Mon, Tue, Wed	FALSE		19:50:00	20:51:00	61	TRUE	black_currant	FALSE		FALSE
+15	Adora	Female	1989-10-01	35	Premium	1	Sat	FALSE		20:12:00	22:37:00	145	TRUE	orange, black_currant	TRUE	Mike	FALSE
+16	Adriana	Female	1987-12-20	36	Standard	4	Mon, Thu, Tue, Wed	TRUE	Spinning, Zumba, XCore	17:28:00	18:29:00	61	FALSE		FALSE		FALSE
+17	Addison	Male	1986-12-17	37	Premium	3	Fri, Sat, Sun	FALSE		09:25:00	12:06:00	161	FALSE		TRUE	Jeffrey	TRUE
+18	Agatha	Female	2011-04-30	13	Standard	3	Sat, Thu, Tue	FALSE		16:54:00	18:53:00	119	FALSE		TRUE	Mike	TRUE
+19	Agnes	Female	1986-05-29	38	Standard	1	Tue	TRUE	Pilates	10:01:00	12:48:00	167	TRUE	orange	TRUE	Hanna	TRUE
+20	Adel	Male	1991-09-13	33	Premium	2	Sat, Wed	TRUE	BodyPump, Zumba, Pilates	13:55:00	16:24:00	149	FALSE		FALSE		FALSE
+21	Aileen	Female	1997-12-31	26	Premium	2	Fri, Mon	FALSE		08:19:00	10:45:00	146	FALSE		TRUE	Hanna	FALSE
+22	Adolf	Male	1997-10-29	26	Premium	3	Fri, Mon, Sat	TRUE	Yoga, BodyBalance, LesMiles	15:06:00	17:40:00	154	TRUE	lemon	FALSE		TRUE
+23	Alaina	Female	2010-10-22	13	Standard	2	Mon, Tue	TRUE	HIT	20:56:00	23:36:00	160	TRUE	passion_fruit, orange	TRUE	Mike	FALSE
+24	Adrian	Male	2010-01-24	14	Premium	3	Sat, Tue, Wed	FALSE		14:34:00	16:33:00	119	TRUE	lemon, coconut_pineapple	TRUE	Jeffrey	TRUE
+25	Alanna	Female	2008-10-04	16	Premium	1	Fri	FALSE		08:42:00	10:34:00	112	FALSE		FALSE		FALSE
+26	Adrien	Male	1989-06-17	35	Standard	1	Fri	TRUE	BodyBalance, Zumba, Yoga	13:12:00	14:54:00	102	TRUE	coconut_pineapple	TRUE	Chantal	FALSE
+27	Ælfweard	Male	2005-03-31	19	Premium	3	Fri, Sun, Wed	TRUE	Zumba	15:01:00	16:59:00	118	TRUE	berry_boost, passion_fruit	FALSE		FALSE
+28	Aidan	Male	1992-04-10	32	Standard	5	Fri, Sat, Sun, Tue, Wed	TRUE	BodyBalance, Pilates, Running	19:41:00	21:35:00	114	TRUE	berry_boost	TRUE	Chantal	FALSE
+29	Alberta	Female	1997-01-21	27	Premium	1	Wed	FALSE		11:25:00	12:56:00	91	TRUE	orange	FALSE		TRUE
+30	Albina	Female	2002-11-04	21	Premium	3	Fri, Mon, Thu	TRUE	Spinning, BodyPump, Zumba	20:15:00	21:36:00	81	TRUE	orange, coconut_pineapple	FALSE		TRUE
+31	Aidin	Male	1988-03-04	36	Premium	3	Sun, Thu, Wed	FALSE		10:01:00	12:11:00	130	FALSE		TRUE	Jeffrey	TRUE
+32	Al	Male	2000-03-02	24	Standard	5	Fri, Mon, Sat, Sun, Wed	FALSE		20:53:00	23:33:00	160	TRUE	black_currant, lemon	FALSE		FALSE
+33	Aleana	Female	1982-02-26	42	Premium	3	Sat, Sun, Tue	TRUE	LesMiles, HIT	10:23:00	12:01:00	98	FALSE		TRUE	Chantal	TRUE
+34	Alex	Female	1976-12-07	47	Premium	2	Mon, Sat	TRUE	XCore, Running, BodyBalance	14:42:00	16:08:00	86	FALSE		TRUE	Hanna	TRUE
+35	Alan	Male	2004-03-06	20	Premium	5	Mon, Sun, Thu, Tue, Wed	FALSE		18:15:00	20:54:00	159	FALSE		TRUE	Mike	TRUE
+36	Albert	Male	1990-03-09	34	Standard	3	Sat, Sun, Tue	TRUE	XCore	13:39:00	16:20:00	161	TRUE	orange	FALSE		TRUE
+37	Alexa	Female	1981-03-18	43	Standard	5	Fri, Sat, Sun, Tue, Wed	FALSE		09:02:00	10:21:00	79	FALSE		FALSE		FALSE
+38	Alexandra	Female	1983-11-01	40	Premium	2	Sat, Thu	FALSE		08:39:00	10:37:00	118	FALSE		FALSE		FALSE
+39	Alec	Male	1980-07-05	44	Premium	1	Wed	FALSE		20:43:00	22:58:00	135	TRUE	coconut_pineapple, berry_boost	FALSE		FALSE
+40	Alexandria	Female	2006-01-19	18	Premium	2	Mon, Tue	TRUE	LesMiles	10:26:00	12:13:00	107	TRUE	passion_fruit, black_currant	FALSE		TRUE
+41	Alexis	Female	2008-06-11	16	Premium	3	Mon, Sun, Tue	FALSE		16:04:00	17:51:00	107	TRUE	coconut_pineapple	TRUE	Hanna	TRUE
+42	Alice	Female	1989-07-08	35	Standard	1	Sun	FALSE		09:38:00	10:36:00	58	FALSE		FALSE		FALSE
+43	Alicia	Female	1995-06-26	29	Premium	1	Thu	TRUE	BodyBalance	10:25:00	12:04:00	99	TRUE	black_currant, lemon	TRUE	Chantal	FALSE
+44	Alisha	Female	1996-04-05	28	Standard	1	Sun	FALSE		11:49:00	14:11:00	142	TRUE	coconut_pineapple, passion_fruit	TRUE	Hanna	TRUE
+45	Alex	Male	1976-01-19	48	Premium	2	Tue, Wed	FALSE		09:57:00	12:35:00	158	FALSE		TRUE	Hanna	TRUE
+46	Alison	Female	1981-05-22	43	Standard	4	Fri, Mon, Sat, Tue	TRUE	Spinning	18:41:00	21:36:00	175	FALSE		TRUE	Hanna	FALSE
+47	Alexander	Male	1989-03-04	35	Standard	3	Sun, Tue, Wed	FALSE		15:02:00	16:29:00	87	FALSE		FALSE		FALSE
+48	Alfred	Male	1997-11-15	26	Premium	5	Fri, Mon, Sun, Thu, Tue	TRUE	Yoga	16:29:00	18:45:00	136	FALSE		TRUE	Jeffrey	TRUE
+49	Alma	Female	1975-10-23	48	Premium	3	Fri, Thu, Tue	TRUE	Yoga, BodyBalance	11:56:00	14:13:00	137	FALSE		TRUE	Chantal	TRUE
+50	Alvina	Female	1979-12-29	44	Premium	2	Sat, Tue	TRUE	BodyPump, Zumba	08:54:00	11:35:00	161	TRUE	black_currant, passion_fruit	FALSE		TRUE
+51	Algernon	Male	1979-07-17	45	Standard	3	Mon, Sun, Thu	FALSE		09:43:00	11:16:00	93	TRUE	coconut_pineapple, passion_fruit	FALSE		TRUE
+52	Alison	Male	1996-04-21	28	Premium	2	Sat, Wed	TRUE	BodyPump, Yoga	20:58:00	22:20:00	82	FALSE		FALSE		TRUE
+53	Alyson	Female	2004-07-17	20	Premium	2	Sun, Thu	TRUE	BodyBalance, Running	09:26:00	10:35:00	69	FALSE		FALSE		FALSE
+54	Amanda	Female	1980-11-27	43	Standard	4	Fri, Mon, Sat, Thu	TRUE	Pilates	20:36:00	23:17:00	161	TRUE	orange, berry_boost	TRUE	Mike	FALSE
+55	Alistair	Male	2000-01-04	24	Standard	2	Sun, Thu	TRUE	Spinning, Kickboxen, LesMiles	15:49:00	18:31:00	162	TRUE	black_currant	TRUE	Chantal	TRUE
+56	Allan	Male	2002-07-26	22	Standard	3	Fri, Sun, Tue	FALSE		17:13:00	18:24:00	71	FALSE		FALSE		TRUE
+57	Amber	Female	2001-06-12	23	Standard	3	Sat, Thu, Wed	FALSE		08:36:00	11:18:00	162	FALSE		FALSE		FALSE
+58	Allen	Male	1977-12-30	46	Premium	5	Fri, Mon, Sat, Thu, Tue	TRUE	BodyBalance, BodyPump	12:19:00	12:49:00	30	FALSE		TRUE	Chantal	TRUE
+59	Alvin	Male	2007-07-11	17	Premium	2	Fri, Tue	TRUE	Kickboxen	10:40:00	12:06:00	86	FALSE		FALSE		TRUE
+60	Amelia	Female	1988-08-20	36	Standard	2	Sat, Thu	TRUE	XCore, Zumba	19:38:00	21:40:00	122	TRUE	orange	TRUE	Chantal	TRUE
+61	Amy	Female	1977-05-08	47	Premium	3	Mon, Sun, Wed	FALSE		18:30:00	20:17:00	107	FALSE		TRUE	Chantal	FALSE
+62	Ana	Female	1995-05-13	29	Standard	3	Sat, Tue, Wed	FALSE		10:28:00	11:36:00	68	FALSE		TRUE	Chantal	TRUE
+63	Amadeus	Male	1994-03-10	30	Standard	3	Fri, Sun, Thu	FALSE		17:22:00	17:57:00	35	TRUE	passion_fruit, coconut_pineapple	FALSE		TRUE
+64	Andrea	Female	2002-05-16	22	Premium	3	Fri, Sat, Sun	FALSE		10:41:00	11:38:00	57	TRUE	lemon, berry_boost	TRUE	Hanna	TRUE
+65	Andrée	Female	1982-11-21	41	Standard	2	Sun, Tue	FALSE		13:55:00	16:22:00	147	FALSE		FALSE		TRUE
+66	Andy	Female	1979-03-27	45	Premium	4	Fri, Thu, Tue, Wed	FALSE		13:06:00	13:54:00	48	FALSE		FALSE		TRUE
+67	Angel	Female	2002-04-26	22	Premium	1	Sun	TRUE	Running	08:18:00	11:08:00	170	FALSE		FALSE		FALSE
+68	Ambrose	Male	2004-07-16	20	Standard	5	Mon, Sat, Sun, Thu, Wed	TRUE	Spinning	13:04:00	13:37:00	33	TRUE	berry_boost, coconut_pineapple	TRUE	Mike	TRUE
+69	Anderson	Male	1990-12-12	33	Premium	1	Wed	TRUE	Zumba	09:04:00	09:47:00	43	TRUE	passion_fruit	FALSE		FALSE
+70	Angela	Female	1988-08-01	36	Premium	3	Fri, Sun, Tue	FALSE		11:11:00	13:56:00	165	FALSE		FALSE		TRUE
+71	Andrew	Male	1994-09-21	30	Premium	5	Fri, Mon, Sat, Sun, Tue	TRUE	BodyPump	13:04:00	13:58:00	54	FALSE		TRUE	Hanna	TRUE
+72	Andy	Male	2007-03-13	17	Premium	1	Wed	FALSE		10:30:00	13:27:00	177	TRUE	black_currant	TRUE	Mike	TRUE
+73	Angus	Male	1988-12-31	35	Premium	2	Mon, Tue	FALSE		17:06:00	18:39:00	93	TRUE	berry_boost	TRUE	Chantal	FALSE
+74	Anthony	Male	1995-12-16	28	Standard	2	Fri, Sun	FALSE		20:17:00	23:03:00	166	TRUE	passion_fruit	FALSE		TRUE
+75	Angelica	Female	1996-11-30	27	Standard	5	Fri, Mon, Sat, Thu, Tue	FALSE		09:57:00	12:22:00	145	FALSE		FALSE		FALSE
+76	Antony	Male	2004-06-09	20	Premium	1	Sun	FALSE		15:33:00	17:01:00	88	FALSE		TRUE	Mike	TRUE
+77	Angelina	Female	2007-04-19	17	Premium	2	Mon, Tue	FALSE		15:54:00	16:46:00	52	FALSE		TRUE	Hanna	FALSE
+78	Archibald	Male	1990-10-24	33	Premium	2	Mon, Sun	TRUE	Zumba, Spinning, BodyBalance	16:16:00	18:03:00	107	TRUE	berry_boost	TRUE	Mike	FALSE
+79	Angie	Female	1981-04-24	43	Standard	5	Fri, Sat, Thu, Tue, Wed	TRUE	XCore	12:44:00	15:44:00	180	FALSE		FALSE		FALSE
+80	Anna	Female	1988-09-23	36	Standard	2	Fri, Tue	TRUE	Yoga, LesMiles, Spinning	18:19:00	20:02:00	103	FALSE		TRUE	Jeffrey	TRUE
+81	Archie	Male	1978-10-15	45	Standard	2	Mon, Sat	FALSE		12:35:00	15:18:00	163	TRUE	berry_boost	TRUE	Mike	TRUE
+82	Arliss	Male	1981-11-06	42	Standard	3	Sun, Thu, Wed	TRUE	Running, Kickboxen	18:55:00	21:00:00	125	FALSE		FALSE		FALSE
+83	Arlo	Male	1995-04-02	29	Premium	1	Mon	FALSE		08:33:00	09:57:00	84	TRUE	coconut_pineapple	FALSE		FALSE
+84	Armand	Male	2006-07-30	18	Standard	3	Sun, Thu, Tue	TRUE	Yoga, HIT	09:15:00	10:04:00	49	TRUE	black_currant, lemon	FALSE		FALSE
+85	Annabelle	Female	1992-04-27	32	Premium	2	Sat, Sun	TRUE	HIT	19:07:00	22:00:00	173	FALSE		FALSE		FALSE
+86	Annabeth	Female	1997-02-09	27	Standard	3	Mon, Sun, Tue	TRUE	BodyPump, BodyBalance, XCore	20:29:00	21:35:00	66	FALSE		TRUE	Chantal	FALSE
+87	Armistead	Male	1977-06-27	47	Premium	3	Fri, Sat, Tue	TRUE	Kickboxen, HIT, BodyPump	12:51:00	14:37:00	106	FALSE		TRUE	Chantal	TRUE
+88	Anne	Female	2008-10-05	16	Premium	2	Sat, Sun	FALSE		11:29:00	13:03:00	94	TRUE	passion_fruit, black_currant	FALSE		TRUE
+89	Annette	Female	1984-12-21	39	Standard	4	Fri, Mon, Sat, Wed	TRUE	Yoga	10:34:00	11:27:00	53	FALSE		FALSE		TRUE
+90	Annie	Female	1978-08-24	46	Standard	1	Sat	FALSE		11:13:00	13:19:00	126	TRUE	lemon, berry_boost	FALSE		TRUE
+91	Antonia	Female	2003-03-08	21	Premium	3	Mon, Sat, Sun	FALSE		13:04:00	14:21:00	77	TRUE	berry_boost	FALSE		FALSE
+92	Arnaut	Male	1993-08-17	31	Standard	1	Sun	TRUE	Running	14:37:00	15:25:00	48	FALSE		TRUE	Chantal	FALSE
+93	April	Female	1984-06-06	40	Standard	4	Mon, Sat, Sun, Wed	TRUE	BodyPump, Spinning, Pilates	09:55:00	10:43:00	48	FALSE		FALSE		TRUE
+94	Arabella	Female	1983-06-03	41	Standard	2	Tue, Wed	TRUE	BodyPump, Spinning, HIT	16:43:00	18:46:00	123	TRUE	coconut_pineapple	TRUE	Chantal	TRUE
+95	Arda	Female	2012-05-10	12	Standard	3	Fri, Thu, Wed	TRUE	BodyBalance	10:10:00	12:50:00	160	TRUE	berry_boost	FALSE		TRUE
+96	Arnie	Male	1984-04-10	40	Standard	1	Sat	FALSE		10:28:00	13:25:00	177	FALSE		FALSE		TRUE
+97	Arnold	Male	1995-03-24	29	Premium	3	Fri, Sun, Wed	FALSE		14:16:00	17:08:00	172	FALSE		FALSE		FALSE
+98	Art	Male	2005-09-18	19	Premium	2	Sat, Tue	FALSE		16:57:00	18:54:00	117	TRUE	coconut_pineapple	TRUE	Jeffrey	FALSE
+99	Ariana	Female	1990-03-23	34	Premium	2	Fri, Mon	FALSE		09:35:00	12:00:00	145	FALSE		TRUE	Hanna	TRUE
+100	Ariel	Female	2003-02-08	21	Premium	3	Mon, Sat, Wed	FALSE		08:34:00	10:00:00	86	FALSE		FALSE		TRUE
+101	Arthur	Male	1980-05-18	44	Standard	3	Sat, Sun, Wed	TRUE	HIT	10:11:00	11:30:00	79	TRUE	black_currant	TRUE	Jeffrey	TRUE
+102	Ashley	Female	2000-02-15	24	Standard	3	Fri, Mon, Sun	TRUE	BodyPump	17:42:00	20:02:00	140	FALSE		TRUE	Mike	FALSE
+103	Asher	Male	1990-11-06	33	Standard	5	Fri, Sat, Sun, Thu, Wed	TRUE	Pilates, BodyBalance	10:29:00	11:18:00	49	TRUE	lemon	TRUE	Chantal	FALSE
+104	Astrid	Female	1976-12-20	47	Premium	2	Sat, Tue	FALSE		13:19:00	14:50:00	91	TRUE	coconut_pineapple	TRUE	Mike	TRUE
+105	Aubrey	Female	1986-03-15	38	Premium	1	Mon	TRUE	BodyPump, Zumba	09:51:00	10:33:00	42	TRUE	passion_fruit, berry_boost	TRUE	Mike	TRUE
+106	Ashley	Male	2012-08-28	12	Premium	3	Fri, Sun, Thu	TRUE	Pilates, LesMiles	19:57:00	21:28:00	91	TRUE	orange, black_currant	FALSE		FALSE
+107	Audra	Female	2003-07-22	21	Standard	2	Fri, Mon	FALSE		20:13:00	21:48:00	95	TRUE	coconut_pineapple	FALSE		FALSE
+108	Audrey	Female	2002-03-05	22	Standard	3	Sat, Sun, Thu	TRUE	Running, Kickboxen, BodyBalance	19:52:00	20:46:00	54	FALSE		TRUE	Chantal	FALSE
+109	Aurora	Female	1991-03-27	33	Premium	1	Thu	FALSE		14:02:00	15:29:00	87	FALSE		FALSE		FALSE
+110	Autumn	Female	2004-03-01	20	Premium	2	Fri, Wed	TRUE	Pilates	17:52:00	20:41:00	169	FALSE		FALSE		TRUE
+111	Averil	Female	1994-02-01	30	Standard	3	Sat, Sun, Wed	TRUE	HIT, LesMiles	17:43:00	18:23:00	40	FALSE		FALSE		FALSE
+112	Ashton	Male	2009-03-06	15	Standard	3	Fri, Sun, Wed	TRUE	Pilates, BodyBalance, HIT	16:33:00	19:09:00	156	FALSE		FALSE		FALSE
+113	Avis	Female	1977-07-31	47	Premium	1	Sun	FALSE		16:23:00	18:07:00	104	FALSE		TRUE	Chantal	FALSE
+114	Aviva	Female	1994-06-18	30	Premium	3	Sun, Thu, Tue	FALSE		13:51:00	16:13:00	142	FALSE		TRUE	Jeffrey	TRUE
+115	Azalea	Female	2010-09-16	14	Premium	3	Sat, Sun, Tue	FALSE		14:36:00	15:11:00	35	FALSE		TRUE	Jeffrey	FALSE
+116	August	Male	1991-03-17	33	Premium	4	Fri, Thu, Tue, Wed	FALSE		19:08:00	22:06:00	178	TRUE	orange	FALSE		TRUE
+117	Austen	Male	1975-04-04	49	Standard	1	Tue	TRUE	Pilates	18:02:00	18:44:00	42	TRUE	berry_boost, lemon	FALSE		FALSE
+118	Austin	Male	1983-12-28	40	Standard	5	Sat, Sun, Thu, Tue, Wed	FALSE		08:23:00	09:19:00	56	FALSE		FALSE		FALSE
+119	Baron	Male	1978-07-07	46	Premium	3	Mon, Sun, Wed	TRUE	HIT, BodyPump	13:30:00	14:37:00	67	FALSE		TRUE	Jeffrey	FALSE
+120	Babette	Female	1984-05-06	40	Standard	3	Fri, Tue, Wed	FALSE		14:55:00	17:18:00	143	TRUE	passion_fruit	TRUE	Chantal	TRUE
+121	Barb	Female	2002-03-30	22	Premium	2	Sun, Thu	TRUE	BodyPump, Yoga, Pilates	19:19:00	20:52:00	93	TRUE	lemon, black_currant	FALSE		FALSE
+122	Barbara	Female	1981-07-02	43	Premium	1	Fri	TRUE	Kickboxen	20:09:00	21:57:00	108	FALSE		FALSE		TRUE
+123	Beatrice	Female	1990-10-28	33	Standard	3	Mon, Sat, Thu	FALSE		09:46:00	12:17:00	151	FALSE		FALSE		FALSE
+124	Beatrix	Female	2010-07-29	14	Premium	3	Fri, Sat, Wed	FALSE		14:40:00	15:53:00	73	FALSE		TRUE	Hanna	FALSE
+125	Barry	Male	2010-04-20	14	Standard	3	Sat, Sun, Tue	FALSE		14:09:00	16:34:00	145	FALSE		TRUE	Jeffrey	FALSE
+126	Bart	Male	2009-10-16	14	Standard	3	Mon, Sat, Thu	FALSE		08:40:00	10:15:00	95	FALSE		TRUE	Chantal	TRUE
+127	Beau	Female	2004-12-16	19	Standard	3	Fri, Thu, Tue	FALSE		10:58:00	12:22:00	84	FALSE		TRUE	Hanna	TRUE
+128	Becca	Female	1992-02-27	32	Premium	3	Fri, Sun, Thu	FALSE		14:23:00	15:48:00	85	TRUE	passion_fruit, orange	FALSE		FALSE
+129	Bartholomew	Male	1977-03-30	47	Premium	1	Sun	TRUE	Running, BodyBalance	12:24:00	13:14:00	50	FALSE		TRUE	Hanna	TRUE
+130	Basil	Male	1981-05-27	43	Premium	2	Sat, Tue	FALSE		19:40:00	22:32:00	172	FALSE		TRUE	Chantal	FALSE
+131	Bayard	Male	1989-11-17	34	Standard	3	Fri, Thu, Tue	FALSE		15:41:00	17:04:00	83	TRUE	lemon, passion_fruit	TRUE	Hanna	FALSE
+132	Beau	Male	2003-03-19	21	Premium	1	Wed	FALSE		18:11:00	20:51:00	160	TRUE	orange	TRUE	Hanna	TRUE
+133	Ben	Male	1997-04-26	27	Premium	2	Fri, Tue	TRUE	Zumba	11:35:00	13:34:00	119	TRUE	orange	FALSE		TRUE
+134	Becki	Female	1993-08-20	31	Premium	5	Fri, Mon, Sat, Thu, Wed	TRUE	Spinning, BodyPump	09:31:00	11:06:00	95	FALSE		TRUE	Mike	TRUE
+135	Becky	Female	2003-05-19	21	Standard	2	Sun, Thu	FALSE		13:05:00	14:45:00	100	TRUE	passion_fruit	TRUE	Mike	FALSE
+136	Belinda	Female	2009-06-30	15	Standard	2	Mon, Tue	FALSE		16:51:00	19:45:00	174	TRUE	coconut_pineapple	FALSE		FALSE
+137	Bella	Female	2004-09-18	20	Premium	3	Sat, Sun, Thu	FALSE		10:32:00	11:09:00	37	FALSE		FALSE		TRUE
+138	Benedict	Male	1988-04-10	36	Standard	1	Tue	FALSE		20:55:00	22:44:00	109	TRUE	lemon	FALSE		TRUE
+139	Berenice	Female	1993-04-07	31	Standard	5	Fri, Sun, Thu, Tue, Wed	FALSE		19:28:00	20:10:00	42	FALSE		FALSE		FALSE
+140	Bertha	Female	2010-02-25	14	Standard	2	Mon, Wed	TRUE	Spinning, Kickboxen, Zumba	10:33:00	12:57:00	144	TRUE	lemon, orange	FALSE		TRUE
+141	Benjamin	Male	1984-05-28	40	Premium	3	Mon, Thu, Tue	TRUE	LesMiles, HIT	19:59:00	21:04:00	65	FALSE		TRUE	Mike	FALSE
+142	Betsy	Female	2002-03-07	22	Standard	5	Fri, Sat, Sun, Tue, Wed	TRUE	Running, BodyPump, XCore	08:13:00	09:46:00	93	FALSE		FALSE		TRUE
+143	Bettina	Female	2008-03-19	16	Premium	3	Fri, Sun, Wed	FALSE		17:21:00	18:46:00	85	FALSE		TRUE	Chantal	FALSE
+144	Benson	Male	1975-03-11	49	Premium	3	Fri, Thu, Wed	TRUE	XCore, Zumba, LesMiles	20:30:00	21:24:00	54	TRUE	passion_fruit	TRUE	Jeffrey	TRUE
+145	Betty	Female	2010-06-21	14	Premium	3	Sat, Sun, Wed	FALSE		10:11:00	11:56:00	105	TRUE	lemon, passion_fruit	FALSE		TRUE
+146	Beverly	Female	2010-08-20	14	Standard	5	Fri, Sat, Sun, Thu, Tue	TRUE	XCore, Yoga, LesMiles	20:23:00	21:30:00	67	TRUE	black_currant, passion_fruit	TRUE	Mike	TRUE
+147	Beresford	Male	1988-03-17	36	Standard	3	Fri, Sat, Tue	TRUE	Running, Yoga, Pilates	18:19:00	19:47:00	88	FALSE		FALSE		FALSE
+148	Bernard	Male	1988-03-22	36	Premium	2	Mon, Sat	TRUE	BodyPump, Kickboxen, Zumba	09:08:00	11:19:00	131	TRUE	orange, berry_boost	TRUE	Mike	FALSE
+149	Bernie	Male	1998-06-29	26	Standard	2	Sat, Thu	FALSE		17:57:00	20:08:00	131	FALSE		FALSE		FALSE
+150	Bert	Male	2005-06-27	19	Premium	1	Sat	FALSE		16:10:00	17:20:00	70	FALSE		TRUE	Mike	TRUE
+151	Bertram	Male	1995-02-02	29	Premium	2	Fri, Mon	TRUE	Pilates, HIT	20:15:00	22:05:00	110	FALSE		FALSE		TRUE
+152	Bertrand	Male	1997-09-25	27	Premium	2	Thu, Wed	FALSE		20:44:00	21:57:00	73	FALSE		TRUE	Hanna	TRUE
+153	Bill	Male	1977-07-22	47	Premium	2	Fri, Tue	TRUE	Running, BodyPump	16:41:00	18:02:00	81	TRUE	passion_fruit, orange	TRUE	Chantal	TRUE
+154	Billy	Male	1985-03-16	39	Standard	2	Tue, Wed	TRUE	Kickboxen, BodyPump	11:18:00	13:28:00	130	TRUE	lemon, black_currant	TRUE	Mike	FALSE
+155	Blair	Male	1977-08-27	47	Standard	1	Fri	FALSE		14:41:00	15:21:00	40	TRUE	orange	TRUE	Hanna	FALSE
+156	Bianca	Female	2004-02-01	20	Premium	2	Fri, Sat	FALSE		18:54:00	19:37:00	43	TRUE	passion_fruit	TRUE	Chantal	TRUE
+157	Blair	Female	2004-08-30	20	Standard	4	Fri, Thu, Tue, Wed	FALSE		11:51:00	14:21:00	150	TRUE	passion_fruit	TRUE	Jeffrey	FALSE
+158	Blake	Male	2002-02-02	22	Standard	2	Fri, Sat	FALSE		14:12:00	16:43:00	151	TRUE	orange	TRUE	Mike	TRUE
+159	Blake	Female	2002-06-03	22	Standard	3	Sat, Sun, Wed	TRUE	Kickboxen, HIT	17:57:00	19:46:00	109	FALSE		TRUE	Hanna	FALSE
+160	Blanche	Female	2000-03-19	24	Premium	3	Mon, Thu, Wed	TRUE	BodyBalance, Kickboxen, Spinning	15:17:00	16:04:00	47	FALSE		TRUE	Hanna	TRUE
+161	Bobbi	Female	2006-12-22	17	Standard	3	Sat, Thu, Tue	TRUE	XCore	15:41:00	16:58:00	77	TRUE	berry_boost, lemon	TRUE	Chantal	FALSE
+162	Bo	Male	1995-01-27	29	Standard	1	Sun	FALSE		17:00:00	18:33:00	93	TRUE	lemon	FALSE		TRUE
+163	Bob	Male	1987-11-24	36	Premium	3	Sat, Thu, Wed	FALSE		08:42:00	11:31:00	169	TRUE	berry_boost	TRUE	Jeffrey	TRUE
+164	Bobby	Male	2004-01-29	20	Standard	5	Mon, Sat, Thu, Tue, Wed	FALSE		17:41:00	20:22:00	161	FALSE		FALSE		FALSE
+165	Booth	Male	1995-05-22	29	Standard	2	Fri, Sat	TRUE	Zumba	14:45:00	17:41:00	176	FALSE		TRUE	Chantal	TRUE
+166	Brad	Male	1992-09-19	32	Premium	3	Sat, Tue, Wed	FALSE		20:34:00	21:40:00	66	FALSE		TRUE	Chantal	TRUE
+167	Bobby	Female	1981-10-15	42	Premium	4	Fri, Mon, Thu, Tue	TRUE	Running	09:55:00	10:59:00	64	FALSE		FALSE		TRUE
+168	Braden	Male	2010-10-05	14	Standard	3	Mon, Sun, Thu	TRUE	Running, BodyBalance, Kickboxen	12:27:00	14:16:00	109	FALSE		FALSE		TRUE
+169	Bonnie	Female	1988-11-28	35	Premium	3	Fri, Thu, Tue	TRUE	Kickboxen, Spinning, BodyPump	13:32:00	16:19:00	167	FALSE		FALSE		FALSE
+170	Bradley	Male	1981-07-29	43	Standard	3	Fri, Sun, Tue	FALSE		12:12:00	13:08:00	56	TRUE	passion_fruit, lemon	TRUE	Mike	FALSE
+171	Braden	Female	1987-08-22	37	Standard	1	Sun	FALSE		16:39:00	19:05:00	146	TRUE	lemon	TRUE	Hanna	FALSE
+172	Brandy	Female	1975-07-05	49	Standard	5	Sat, Sun, Thu, Tue, Wed	TRUE	Pilates	08:15:00	08:50:00	35	FALSE		FALSE		FALSE
+173	Bram	Male	1977-07-27	47	Standard	2	Sun, Thu	FALSE		16:55:00	19:13:00	138	TRUE	black_currant	FALSE		TRUE
+174	Bramwell	Male	1975-03-17	49	Premium	1	Sat	FALSE		11:21:00	12:46:00	85	FALSE		FALSE		TRUE
+175	Branden	Male	2005-09-22	19	Standard	2	Mon, Tue	TRUE	Yoga	14:01:00	15:56:00	115	FALSE		FALSE		FALSE
+176	Brandon	Male	1976-02-24	48	Standard	4	Fri, Thu, Tue, Wed	FALSE		09:34:00	10:11:00	37	FALSE		FALSE		FALSE
+177	Brenda	Female	2001-01-29	23	Premium	3	Mon, Sun, Thu	FALSE		09:56:00	11:20:00	84	TRUE	berry_boost, coconut_pineapple	TRUE	Chantal	FALSE
+178	Braxton	Male	2000-11-18	23	Premium	4	Fri, Mon, Thu, Wed	FALSE		11:02:00	11:44:00	42	FALSE		TRUE	Chantal	FALSE
+179	Brianna	Female	2010-11-25	13	Standard	2	Mon, Tue	FALSE		17:27:00	19:12:00	105	FALSE		FALSE		FALSE
+180	Brian	Male	1976-06-20	48	Premium	3	Fri, Sat, Thu	TRUE	Kickboxen, Running, LesMiles	08:33:00	10:13:00	100	TRUE	passion_fruit	TRUE	Jeffrey	TRUE
+181	Bridger	Male	1996-12-20	27	Premium	5	Mon, Sat, Sun, Thu, Tue	TRUE	Kickboxen, XCore	10:50:00	13:38:00	168	TRUE	lemon, black_currant	FALSE		TRUE
+182	Bridget	Female	2010-02-16	14	Standard	3	Mon, Sun, Wed	TRUE	XCore	09:01:00	11:57:00	176	FALSE		TRUE	Chantal	TRUE
+183	Brock	Male	2010-07-14	14	Premium	1	Fri	FALSE		13:06:00	14:29:00	83	FALSE		FALSE		TRUE
+184	Brody	Male	2006-10-16	17	Standard	1	Mon	FALSE		17:58:00	20:04:00	126	FALSE		TRUE	Hanna	FALSE
+185	Brooks	Male	1985-09-18	39	Standard	2	Mon, Tue	TRUE	Running, XCore	09:20:00	09:52:00	32	TRUE	berry_boost	FALSE		FALSE
+186	Brielle	Female	1975-03-24	49	Standard	3	Fri, Sun, Wed	FALSE		17:42:00	19:00:00	78	TRUE	passion_fruit	TRUE	Mike	TRUE
+187	Bruce	Male	2012-04-17	12	Standard	5	Fri, Sat, Sun, Thu, Wed	TRUE	Pilates, Kickboxen, BodyPump	19:49:00	22:15:00	146	TRUE	lemon, orange	TRUE	Mike	FALSE
+188	Brilliana	Female	1987-02-28	37	Premium	1	Sat	TRUE	Yoga	08:21:00	08:55:00	34	TRUE	lemon, coconut_pineapple	FALSE		FALSE
+189	Bruno	Male	1987-11-12	36	Premium	2	Fri, Tue	TRUE	Spinning, XCore	11:28:00	14:14:00	166	FALSE		FALSE		TRUE
+190	Bryan	Male	2011-09-08	13	Standard	4	Sat, Sun, Thu, Tue	FALSE		14:47:00	15:21:00	34	FALSE		FALSE		FALSE
+191	Bubba	Male	1992-10-23	31	Premium	2	Mon, Wed	FALSE		13:48:00	16:42:00	174	FALSE		FALSE		FALSE
+192	Bronwyn	Female	1985-07-11	39	Standard	4	Mon, Sat, Sun, Thu	FALSE		17:07:00	17:55:00	48	FALSE		FALSE		TRUE
+193	Brooklyn	Female	2012-06-09	12	Premium	3	Sun, Thu, Tue	TRUE	Zumba, BodyPump, XCore	13:57:00	15:10:00	73	FALSE		FALSE		TRUE
+194	Brynlee	Female	2001-08-15	23	Premium	1	Tue	FALSE		16:54:00	19:49:00	175	TRUE	passion_fruit, berry_boost	FALSE		FALSE
+195	Bubby	Male	1979-04-24	45	Premium	2	Mon, Wed	FALSE		11:23:00	13:41:00	138	TRUE	black_currant, coconut_pineapple	FALSE		TRUE
+196	Bud	Male	1985-02-09	39	Premium	5	Fri, Mon, Sat, Thu, Wed	FALSE		20:01:00	21:08:00	67	TRUE	lemon	TRUE	Jeffrey	FALSE
+197	Buddy	Male	2010-03-26	14	Standard	2	Mon, Tue	FALSE		13:53:00	16:06:00	133	TRUE	coconut_pineapple, black_currant	TRUE	Mike	FALSE
+198	Burt	Male	1994-08-05	30	Premium	3	Fri, Sun, Wed	TRUE	BodyPump, Yoga	13:00:00	15:43:00	163	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+199	Bryony	Female	2009-01-06	15	Premium	3	Mon, Thu, Tue	FALSE		09:55:00	11:07:00	72	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+200	Burton	Male	2012-08-31	12	Standard	1	Tue	FALSE		15:47:00	16:28:00	41	TRUE	orange, passion_fruit	TRUE	Jeffrey	TRUE
+201	Butch	Male	1978-09-29	46	Standard	4	Fri, Mon, Sat, Wed	TRUE	HIT, XCore, Kickboxen	13:31:00	15:47:00	136	TRUE	black_currant, coconut_pineapple	TRUE	Mike	FALSE
+202	Byron	Male	1975-05-25	49	Premium	4	Mon, Sat, Tue, Wed	FALSE		08:21:00	08:52:00	31	TRUE	black_currant	FALSE		FALSE
+203	Caden	Female	1980-12-20	43	Premium	2	Mon, Sun	FALSE		18:32:00	20:54:00	142	TRUE	passion_fruit, coconut_pineapple	TRUE	Chantal	TRUE
+204	Caden	Male	2005-02-18	19	Premium	2	Thu, Wed	TRUE	LesMiles	17:13:00	19:26:00	133	TRUE	orange	TRUE	Jeffrey	FALSE
+205	Caleb	Male	1982-05-29	42	Premium	3	Fri, Sat, Thu	FALSE		09:57:00	12:50:00	173	TRUE	lemon	TRUE	Chantal	FALSE
+206	Callum	Male	1978-03-21	46	Standard	1	Sun	TRUE	Zumba	18:06:00	20:49:00	163	TRUE	berry_boost, black_currant	FALSE		FALSE
+207	Calvin	Male	2006-06-20	18	Standard	3	Fri, Mon, Thu	TRUE	Running, BodyPump	11:47:00	14:00:00	133	FALSE		TRUE	Chantal	FALSE
+208	Cameron	Male	1983-01-02	41	Premium	1	Thu	TRUE	Running, HIT	11:28:00	13:10:00	102	TRUE	lemon, coconut_pineapple	TRUE	Jeffrey	TRUE
+209	Canute	Male	2005-09-11	19	Premium	4	Fri, Mon, Tue, Wed	FALSE		19:07:00	20:06:00	59	TRUE	coconut_pineapple	TRUE	Hanna	FALSE
+210	Cardew	Male	2007-08-21	17	Premium	2	Fri, Sun	FALSE		17:44:00	18:20:00	36	TRUE	lemon	TRUE	Chantal	FALSE
+211	Calla	Female	1997-03-26	27	Standard	2	Mon, Tue	TRUE	Pilates	09:10:00	11:36:00	146	FALSE		TRUE	Chantal	TRUE
+212	Carl	Male	1999-01-22	25	Premium	3	Sat, Sun, Tue	FALSE		17:21:00	18:17:00	56	FALSE		FALSE		TRUE
+213	Carlie	Male	2001-07-18	23	Premium	2	Mon, Sun	TRUE	XCore, Zumba	12:58:00	15:46:00	168	FALSE		FALSE		FALSE
+214	Candy	Female	1989-01-01	35	Standard	1	Wed	FALSE		08:34:00	09:27:00	53	FALSE		TRUE	Chantal	FALSE
+215	Cara	Female	1985-12-14	38	Standard	3	Fri, Thu, Wed	TRUE	Yoga	08:17:00	10:38:00	141	FALSE		FALSE		TRUE
+216	Carlile	Male	1975-04-11	49	Premium	3	Fri, Mon, Wed	FALSE		12:37:00	13:15:00	38	TRUE	lemon	TRUE	Mike	FALSE
+217	Carlisle	Male	1990-06-16	34	Standard	1	Sun	FALSE		12:42:00	13:21:00	39	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+218	Cari	Female	1978-01-12	46	Premium	3	Sun, Thu, Wed	TRUE	BodyPump	18:01:00	18:36:00	35	TRUE	coconut_pineapple, passion_fruit	FALSE		FALSE
+219	Carlton	Male	1979-06-18	45	Standard	5	Fri, Mon, Sun, Tue, Wed	TRUE	Spinning, BodyBalance, BodyPump	14:59:00	16:59:00	120	FALSE		FALSE		TRUE
+220	Carroll	Male	1987-11-12	36	Premium	5	Fri, Mon, Sun, Thu, Tue	FALSE		20:57:00	22:15:00	78	TRUE	lemon	TRUE	Mike	FALSE
+221	Carson	Male	1979-03-05	45	Premium	2	Sun, Tue	FALSE		12:13:00	14:47:00	154	TRUE	passion_fruit	TRUE	Chantal	TRUE
+222	Cary	Male	1975-04-08	49	Premium	3	Fri, Sun, Thu	TRUE	Pilates, XCore, Spinning	20:01:00	22:34:00	153	FALSE		TRUE	Mike	FALSE
+223	Casey	Male	2005-10-05	19	Standard	5	Fri, Mon, Sun, Thu, Tue	FALSE		20:23:00	21:52:00	89	TRUE	coconut_pineapple	FALSE		FALSE
+224	Carina	Female	2000-07-30	24	Standard	2	Fri, Mon	FALSE		20:41:00	22:29:00	108	FALSE		FALSE		FALSE
+225	Cecil	Male	2000-09-30	24	Standard	3	Fri, Mon, Sun	FALSE		20:08:00	22:44:00	156	TRUE	orange	FALSE		FALSE
+226	Cedric	Male	1993-07-30	31	Standard	1	Thu	FALSE		15:01:00	17:43:00	162	FALSE		FALSE		FALSE
+227	Carissa	Female	1976-10-01	48	Premium	3	Mon, Sat, Tue	TRUE	XCore, BodyPump	20:37:00	21:48:00	71	FALSE		TRUE	Jeffrey	TRUE
+228	Chad	Male	2007-03-05	17	Premium	1	Mon	TRUE	Spinning, HIT	19:05:00	21:55:00	170	TRUE	berry_boost, orange	TRUE	Chantal	FALSE
+229	Chadwick	Male	1993-03-26	31	Premium	5	Sat, Sun, Thu, Tue, Wed	FALSE		20:39:00	21:35:00	56	FALSE		FALSE		FALSE
+230	Chance	Male	2001-10-22	22	Standard	3	Fri, Sun, Wed	TRUE	Yoga	16:31:00	18:39:00	128	FALSE		FALSE		FALSE
+231	Chandler	Male	1986-11-23	37	Premium	3	Fri, Sat, Sun	FALSE		17:53:00	20:14:00	141	FALSE		FALSE		TRUE
+232	Chandos	Male	1985-08-24	39	Standard	5	Fri, Mon, Sat, Thu, Wed	TRUE	XCore, Pilates	15:16:00	17:15:00	119	TRUE	lemon	TRUE	Mike	FALSE
+233	Carlena	Female	2010-09-29	14	Standard	3	Sat, Sun, Tue	FALSE		08:34:00	10:49:00	135	FALSE		FALSE		TRUE
+234	Carlene	Female	2005-09-10	19	Standard	1	Sun	FALSE		20:26:00	21:45:00	79	FALSE		FALSE		TRUE
+235	Carlie	Female	1997-07-21	27	Standard	4	Sun, Thu, Tue, Wed	FALSE		11:49:00	14:25:00	156	TRUE	lemon, black_currant	TRUE	Hanna	FALSE
+236	Carly	Female	1989-04-08	35	Standard	5	Fri, Sat, Thu, Tue, Wed	TRUE	BodyPump	15:45:00	18:43:00	178	FALSE		FALSE		FALSE
+237	Carmelita	Female	2005-01-09	19	Premium	2	Tue, Wed	TRUE	Spinning	10:32:00	12:03:00	91	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+238	Carol	Female	2003-06-25	21	Premium	5	Fri, Mon, Sat, Sun, Thu	TRUE	Pilates, BodyPump, BodyBalance	20:15:00	23:14:00	179	TRUE	coconut_pineapple, passion_fruit	FALSE		TRUE
+239	Charl	Male	2003-10-27	20	Standard	3	Fri, Mon, Thu	TRUE	Zumba, Yoga, Pilates	17:30:00	19:17:00	107	FALSE		TRUE	Jeffrey	TRUE
+240	Charlee	Male	2005-01-03	19	Premium	4	Sat, Sun, Tue, Wed	TRUE	Kickboxen, Running	15:49:00	17:10:00	81	TRUE	passion_fruit	FALSE		FALSE
+241	Carol Ann	Female	1981-10-31	42	Premium	2	Mon, Wed	FALSE		11:03:00	13:34:00	151	TRUE	passion_fruit	TRUE	Hanna	FALSE
+242	Charles	Male	2006-08-02	18	Premium	1	Wed	FALSE		17:38:00	18:10:00	32	FALSE		TRUE	Mike	TRUE
+243	Carol Anne	Female	1975-08-16	49	Premium	1	Sun	FALSE		13:58:00	14:35:00	37	TRUE	berry_boost	TRUE	Mike	FALSE
+244	Carole	Female	2007-10-11	17	Premium	5	Fri, Mon, Sat, Sun, Wed	TRUE	Yoga	13:50:00	14:29:00	39	TRUE	lemon	TRUE	Hanna	TRUE
+245	Charley	Male	1997-08-06	27	Standard	1	Mon	TRUE	Kickboxen, BodyPump, Zumba	12:11:00	14:52:00	161	FALSE		TRUE	Jeffrey	FALSE
+246	Carolina	Female	2000-09-17	24	Premium	4	Sun, Thu, Tue, Wed	FALSE		09:12:00	11:17:00	125	FALSE		FALSE		FALSE
+247	Charli	Male	1987-04-19	37	Standard	4	Fri, Sat, Thu, Wed	TRUE	BodyBalance, Running, Yoga	18:44:00	20:56:00	132	TRUE	coconut_pineapple	FALSE		TRUE
+248	Caroline	Female	2000-08-17	24	Premium	1	Sun	FALSE		14:59:00	17:17:00	138	FALSE		TRUE	Mike	TRUE
+249	Carolyn	Female	1995-11-14	28	Premium	5	Fri, Mon, Sat, Sun, Wed	TRUE	Zumba, HIT	18:00:00	19:56:00	116	FALSE		FALSE		FALSE
+250	Charlie	Male	2006-08-27	18	Standard	3	Fri, Mon, Sun	FALSE		13:26:00	16:15:00	169	FALSE		FALSE		FALSE
+251	Charlton	Male	2006-06-21	18	Standard	2	Fri, Thu	TRUE	Yoga, Pilates, BodyPump	08:05:00	09:23:00	78	TRUE	black_currant	FALSE		FALSE
+252	Carrie Ann	Female	1992-05-28	32	Premium	5	Fri, Mon, Thu, Tue, Wed	TRUE	BodyBalance, Zumba	10:17:00	13:05:00	168	TRUE	berry_boost	FALSE		FALSE
+253	Charly	Male	1983-10-27	40	Premium	2	Fri, Tue	TRUE	Yoga, HIT	14:33:00	15:40:00	67	TRUE	lemon	TRUE	Jeffrey	FALSE
+254	Chas	Male	2003-10-27	20	Standard	4	Fri, Mon, Sun, Wed	FALSE		17:12:00	18:19:00	67	FALSE		FALSE		TRUE
+255	Chase	Male	2003-04-14	21	Premium	1	Sun	TRUE	Kickboxen, BodyBalance, LesMiles	14:34:00	15:04:00	30	TRUE	coconut_pineapple	TRUE	Mike	TRUE
+256	Carrie Anne	Female	1985-12-18	38	Premium	1	Sat	TRUE	Pilates	17:37:00	18:39:00	62	FALSE		TRUE	Mike	FALSE
+257	Chaz	Male	1979-03-28	45	Standard	2	Mon, Wed	TRUE	XCore, HIT, Kickboxen	08:12:00	10:09:00	117	TRUE	coconut_pineapple, black_currant	FALSE		FALSE
+258	Chazz	Male	2001-12-21	22	Standard	2	Sat, Thu	FALSE		19:49:00	20:33:00	44	TRUE	black_currant, passion_fruit	FALSE		TRUE
+259	Carroll	Female	2007-05-08	17	Premium	5	Fri, Sun, Thu, Tue, Wed	FALSE		10:02:00	12:17:00	135	TRUE	lemon	TRUE	Chantal	FALSE
+260	Carry	Female	1992-05-24	32	Standard	5	Mon, Sat, Sun, Thu, Tue	FALSE		08:20:00	10:44:00	144	TRUE	coconut_pineapple	FALSE		FALSE
+261	Chester	Male	1980-10-02	44	Standard	2	Thu, Tue	FALSE		12:01:00	14:07:00	126	FALSE		FALSE		TRUE
+262	Cary	Female	1977-05-27	47	Premium	2	Mon, Sat	TRUE	Yoga, Pilates	08:39:00	09:38:00	59	TRUE	black_currant	TRUE	Chantal	TRUE
+263	Casey	Female	1981-03-19	43	Standard	1	Thu	FALSE		08:17:00	09:08:00	51	FALSE		TRUE	Jeffrey	TRUE
+264	Chet	Male	1976-07-05	48	Standard	5	Fri, Mon, Sat, Sun, Thu	FALSE		15:42:00	18:35:00	173	FALSE		TRUE	Hanna	TRUE
+265	Cassidy	Female	1992-07-30	32	Standard	5	Fri, Sun, Thu, Tue, Wed	FALSE		19:52:00	21:17:00	85	TRUE	black_currant	TRUE	Mike	TRUE
+266	Cathleen	Female	1987-02-06	37	Standard	3	Mon, Tue, Wed	TRUE	Zumba, BodyBalance	18:07:00	20:01:00	114	FALSE		FALSE		TRUE
+267	Cathy	Female	1988-05-12	36	Standard	5	Fri, Mon, Sat, Sun, Tue	FALSE		11:33:00	12:40:00	67	TRUE	coconut_pineapple	FALSE		TRUE
+268	Chip	Male	2001-12-03	22	Premium	4	Fri, Mon, Sat, Thu	FALSE		18:08:00	20:37:00	149	FALSE		TRUE	Mike	FALSE
+269	Chris	Male	1987-10-07	37	Premium	2	Fri, Thu	FALSE		09:59:00	10:41:00	42	FALSE		FALSE		FALSE
+270	Christian	Male	1985-03-01	39	Standard	3	Sat, Thu, Wed	TRUE	BodyPump, Running, Yoga	15:19:00	17:35:00	136	FALSE		TRUE	Mike	TRUE
+271	Chuck	Male	1976-12-28	47	Standard	3	Fri, Mon, Sun	FALSE		10:08:00	11:02:00	54	FALSE		TRUE	Hanna	FALSE
+272	Chucky	Male	1975-01-12	49	Premium	2	Fri, Tue	TRUE	Yoga	13:20:00	14:26:00	66	FALSE		TRUE	Chantal	TRUE
+273	Ciarán	Male	1996-12-27	27	Standard	2	Sun, Thu	FALSE		11:23:00	13:00:00	97	FALSE		TRUE	Chantal	TRUE
+274	Cecilia	Female	1980-04-03	44	Standard	2	Fri, Sun	TRUE	Pilates, Zumba, Running	19:30:00	22:04:00	154	FALSE		FALSE		FALSE
+275	Claire	Male	2011-06-09	13	Standard	2	Fri, Tue	FALSE		09:38:00	10:11:00	33	FALSE		FALSE		TRUE
+276	Clare	Male	2010-04-02	14	Standard	2	Thu, Tue	TRUE	LesMiles	11:21:00	14:18:00	177	FALSE		FALSE		TRUE
+277	Cecily	Female	1999-04-25	25	Standard	2	Thu, Wed	FALSE		10:38:00	12:32:00	114	TRUE	coconut_pineapple	TRUE	Hanna	FALSE
+278	Clarence	Male	1992-02-03	32	Premium	2	Fri, Sun	TRUE	Yoga	13:19:00	14:52:00	93	TRUE	lemon, black_currant	TRUE	Mike	TRUE
+279	Celestia	Female	1994-10-15	29	Standard	4	Fri, Mon, Sun, Wed	FALSE		10:43:00	11:52:00	69	TRUE	lemon	TRUE	Hanna	FALSE
+280	Clark	Male	1983-01-24	41	Standard	2	Fri, Thu	TRUE	Pilates, Yoga	10:29:00	12:37:00	128	TRUE	coconut_pineapple, orange	TRUE	Chantal	TRUE
+281	Claude	Male	2003-06-01	21	Premium	2	Fri, Mon	TRUE	Pilates, XCore, Kickboxen	15:40:00	16:47:00	67	FALSE		TRUE	Chantal	TRUE
+282	Clay	Male	1999-07-06	25	Standard	5	Mon, Sat, Sun, Thu, Wed	TRUE	Zumba, BodyPump	12:25:00	13:40:00	75	TRUE	black_currant	FALSE		TRUE
+283	Celia	Female	2002-12-16	21	Premium	2	Fri, Sat	TRUE	LesMiles	14:55:00	15:28:00	33	TRUE	berry_boost	TRUE	Mike	FALSE
+284	Celinda	Female	2010-12-21	13	Standard	2	Mon, Sat	FALSE		12:52:00	14:03:00	71	FALSE		FALSE		FALSE
+285	Clayton	Male	1976-06-08	48	Premium	4	Mon, Sun, Thu, Wed	FALSE		13:33:00	14:08:00	35	TRUE	lemon	FALSE		FALSE
+286	Cletus	Male	2004-01-23	20	Premium	5	Fri, Mon, Sat, Sun, Tue	FALSE		20:16:00	21:52:00	96	TRUE	black_currant, coconut_pineapple	TRUE	Mike	FALSE
+287	Cleve	Male	1987-10-07	37	Premium	2	Fri, Thu	TRUE	BodyPump, Yoga	19:39:00	20:39:00	60	FALSE		FALSE		TRUE
+288	Cliff	Male	1982-06-12	42	Premium	5	Fri, Mon, Sat, Thu, Tue	FALSE		17:30:00	20:15:00	165	TRUE	coconut_pineapple	FALSE		TRUE
+289	Chara	Female	2004-04-19	20	Premium	3	Mon, Sat, Tue	TRUE	Zumba, Kickboxen	08:53:00	11:11:00	138	FALSE		TRUE	Mike	TRUE
+290	Charis	Female	1998-05-05	26	Standard	2	Sun, Tue	TRUE	XCore, BodyPump	15:52:00	18:05:00	133	FALSE		FALSE		FALSE
+291	Charisse	Female	1982-04-24	42	Premium	5	Fri, Sat, Sun, Thu, Wed	FALSE		09:49:00	12:43:00	174	TRUE	berry_boost	FALSE		TRUE
+292	Clifford	Male	2007-07-26	17	Standard	1	Fri	FALSE		16:59:00	18:41:00	102	TRUE	passion_fruit, black_currant	FALSE		FALSE
+293	Charity	Female	1998-05-04	26	Premium	1	Thu	TRUE	Yoga, Kickboxen	16:31:00	17:47:00	76	TRUE	lemon, passion_fruit	TRUE	Hanna	TRUE
+294	Charla	Female	1983-09-02	41	Premium	1	Wed	TRUE	Yoga	13:14:00	15:34:00	140	FALSE		FALSE		FALSE
+295	Clifton	Male	1988-10-09	36	Standard	3	Fri, Thu, Wed	FALSE		15:28:00	17:57:00	149	TRUE	coconut_pineapple, orange	FALSE		FALSE
+296	Charle	Female	2000-12-30	23	Standard	4	Fri, Sun, Thu, Wed	FALSE		10:17:00	12:21:00	124	TRUE	lemon, passion_fruit	FALSE		TRUE
+297	Clint	Male	1994-05-09	30	Standard	5	Fri, Mon, Sun, Thu, Wed	FALSE		17:29:00	18:25:00	56	FALSE		TRUE	Jeffrey	FALSE
+298	Charlee	Female	1990-04-09	34	Premium	2	Mon, Sun	FALSE		19:17:00	20:30:00	73	FALSE		TRUE	Chantal	TRUE
+299	Charlene	Female	1981-03-27	43	Premium	5	Fri, Sat, Sun, Tue, Wed	FALSE		12:31:00	14:11:00	100	TRUE	orange, passion_fruit	TRUE	Mike	FALSE
+300	Clinton	Male	2011-07-09	13	Premium	3	Mon, Sat, Wed	TRUE	Spinning, XCore, LesMiles	14:53:00	15:55:00	62	FALSE		FALSE		FALSE
+301	Charley	Female	2001-04-14	23	Premium	3	Fri, Sat, Thu	TRUE	Kickboxen, LesMiles, Yoga	13:06:00	14:35:00	89	TRUE	coconut_pineapple, orange	TRUE	Chantal	FALSE
+302	Clinton	Male	1979-01-03	45	Standard	3	Fri, Tue, Wed	TRUE	BodyPump	12:48:00	15:24:00	156	FALSE		TRUE	Jeffrey	TRUE
+303	Charli	Female	1982-01-23	42	Standard	3	Sun, Thu, Wed	FALSE		13:32:00	14:56:00	84	FALSE		TRUE	Hanna	TRUE
+304	Clive	Male	1988-12-28	35	Standard	1	Sat	FALSE		13:53:00	14:33:00	40	FALSE		FALSE		FALSE
+305	Clyde	Male	1998-08-02	26	Standard	4	Sat, Sun, Thu, Wed	TRUE	Spinning, Running, LesMiles	08:48:00	10:35:00	107	FALSE		FALSE		FALSE
+306	Cody	Male	2003-10-28	20	Standard	2	Fri, Sun	TRUE	Running, LesMiles, Yoga	11:47:00	14:10:00	143	TRUE	lemon	TRUE	Chantal	TRUE
+307	Charlie	Female	1992-04-06	32	Standard	3	Mon, Sun, Wed	FALSE		17:30:00	20:14:00	164	FALSE		TRUE	Chantal	TRUE
+308	Charlotte	Female	1993-07-02	31	Premium	4	Fri, Mon, Sat, Thu	FALSE		11:54:00	13:21:00	87	FALSE		FALSE		TRUE
+309	Colby	Male	1995-06-28	29	Standard	3	Mon, Sat, Thu	FALSE		15:05:00	16:19:00	74	FALSE		TRUE	Mike	TRUE
+310	Cole	Male	1990-02-08	34	Standard	2	Mon, Sun	TRUE	BodyPump, Pilates, Running	19:18:00	19:53:00	35	FALSE		TRUE	Chantal	TRUE
+311	Charly	Female	1980-07-20	44	Standard	1	Mon	FALSE		17:41:00	18:15:00	34	TRUE	lemon, orange	TRUE	Chantal	FALSE
+312	Colin	Male	2002-06-03	22	Premium	5	Fri, Sat, Thu, Tue, Wed	TRUE	LesMiles	17:41:00	19:31:00	110	FALSE		FALSE		FALSE
+313	Collin	Male	1975-12-28	48	Standard	1	Tue	TRUE	BodyPump, HIT	19:29:00	22:21:00	172	TRUE	passion_fruit, coconut_pineapple	FALSE		TRUE
+314	Colman	Male	1988-03-06	36	Standard	1	Sun	FALSE		19:20:00	21:58:00	158	TRUE	coconut_pineapple	FALSE		FALSE
+315	Coloman	Male	2008-02-29	16	Premium	1	Tue	TRUE	XCore, Spinning, BodyPump	08:38:00	10:25:00	107	FALSE		TRUE	Mike	TRUE
+316	Colton	Male	2009-12-28	14	Standard	3	Fri, Tue, Wed	FALSE		20:52:00	22:02:00	70	TRUE	coconut_pineapple, lemon	TRUE	Chantal	TRUE
+317	Connor	Male	1988-09-27	36	Premium	3	Mon, Sat, Thu	FALSE		11:06:00	11:44:00	38	TRUE	berry_boost	TRUE	Chantal	FALSE
+318	Conor	Male	1984-05-18	40	Premium	2	Sun, Thu	FALSE		11:37:00	14:23:00	166	FALSE		TRUE	Chantal	TRUE
+319	Conrad	Male	1992-06-01	32	Premium	3	Sat, Sun, Wed	FALSE		10:38:00	13:05:00	147	TRUE	lemon, black_currant	FALSE		FALSE
+320	Charlyne	Female	2012-01-23	12	Standard	5	Mon, Sat, Sun, Thu, Wed	TRUE	HIT, Zumba	09:36:00	12:09:00	153	TRUE	lemon, berry_boost	TRUE	Chantal	TRUE
+321	Conway	Male	1998-04-22	26	Premium	3	Sat, Thu, Tue	FALSE		14:11:00	15:11:00	60	TRUE	passion_fruit, coconut_pineapple	FALSE		FALSE
+322	Cooper	Male	2000-11-03	23	Standard	2	Fri, Sat	FALSE		20:18:00	20:55:00	37	FALSE		TRUE	Chantal	FALSE
+323	Corbin	Male	1998-06-19	26	Premium	5	Mon, Sat, Sun, Thu, Wed	TRUE	Running	17:11:00	18:02:00	51	FALSE		TRUE	Chantal	TRUE
+324	Charmaine	Female	1994-07-14	30	Standard	3	Fri, Thu, Wed	TRUE	Pilates	19:16:00	20:15:00	59	FALSE		TRUE	Chantal	TRUE
+325	Corey	Male	1995-02-19	29	Standard	3	Fri, Sat, Wed	FALSE		10:34:00	11:13:00	39	FALSE		FALSE		TRUE
+326	Chas	Female	1977-07-03	47	Standard	3	Mon, Sun, Tue	FALSE		18:24:00	19:13:00	49	TRUE	coconut_pineapple, lemon	FALSE		FALSE
+327	Chelsea	Female	2011-09-21	13	Standard	3	Mon, Sun, Thu	FALSE		14:01:00	16:23:00	142	TRUE	passion_fruit	FALSE		TRUE
+328	Cherry	Female	2002-09-30	22	Standard	5	Fri, Mon, Sun, Tue, Wed	FALSE		13:52:00	14:43:00	51	FALSE		FALSE		TRUE
+329	Cosmo	Male	1991-06-30	33	Premium	4	Fri, Sat, Sun, Tue	TRUE	Running	09:15:00	10:04:00	49	FALSE		FALSE		TRUE
+330	Cheryl	Female	1997-08-13	27	Standard	2	Sat, Thu	FALSE		11:43:00	14:26:00	163	TRUE	passion_fruit	FALSE		TRUE
+331	Chloe	Female	1989-08-06	35	Premium	2	Mon, Wed	TRUE	Kickboxen, LesMiles	16:36:00	17:42:00	66	TRUE	passion_fruit	FALSE		FALSE
+332	Chris	Female	2003-02-22	21	Premium	3	Fri, Sat, Wed	TRUE	XCore	20:22:00	21:59:00	97	TRUE	passion_fruit	FALSE		TRUE
+333	Courtney	Male	1984-06-13	40	Premium	3	Fri, Sun, Tue	FALSE		11:18:00	14:09:00	171	FALSE		TRUE	Hanna	TRUE
+334	Craig	Male	2009-07-02	15	Standard	3	Mon, Sat, Sun	FALSE		17:29:00	18:03:00	34	FALSE		FALSE		TRUE
+335	Christabel	Female	2000-11-21	23	Premium	3	Mon, Sat, Sun	FALSE		13:42:00	14:33:00	51	FALSE		FALSE		TRUE
+336	Christi	Female	1975-03-02	49	Standard	1	Wed	TRUE	Running, Zumba, LesMiles	10:40:00	11:24:00	44	FALSE		TRUE	Chantal	FALSE
+337	Curtis	Male	1982-04-13	42	Premium	2	Fri, Mon	FALSE		18:22:00	20:18:00	116	TRUE	orange, black_currant	TRUE	Chantal	FALSE
+338	Curtley	Male	1997-10-04	27	Premium	3	Mon, Thu, Wed	TRUE	Zumba, HIT	10:06:00	11:38:00	92	TRUE	coconut_pineapple, passion_fruit	FALSE		FALSE
+339	Christina	Female	1983-09-04	41	Standard	3	Sun, Thu, Wed	TRUE	XCore, Pilates, HIT	15:40:00	17:21:00	101	TRUE	passion_fruit, orange	TRUE	Chantal	FALSE
+340	Cuthbert	Male	2002-03-22	22	Premium	3	Sat, Thu, Tue	TRUE	HIT, Kickboxen, Zumba	18:51:00	21:17:00	146	FALSE		TRUE	Jeffrey	FALSE
+341	Christine	Female	1988-05-16	36	Standard	4	Fri, Mon, Thu, Wed	FALSE		14:02:00	16:28:00	146	FALSE		FALSE		TRUE
+342	Cwichelm	Male	1998-08-11	26	Standard	5	Fri, Sat, Sun, Tue, Wed	TRUE	HIT	17:57:00	19:05:00	68	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+343	Christy	Female	2005-10-07	19	Premium	5	Fri, Sat, Thu, Tue, Wed	TRUE	Running, HIT, Kickboxen	09:53:00	12:49:00	176	FALSE		TRUE	Mike	TRUE
+344	Cindy	Female	1986-10-10	38	Standard	4	Fri, Mon, Sun, Thu	TRUE	HIT	12:50:00	14:19:00	89	FALSE		FALSE		TRUE
+345	Cyrus	Male	1985-08-18	39	Standard	2	Mon, Sat	FALSE		14:30:00	16:14:00	104	FALSE		TRUE	Mike	FALSE
+346	Claire	Female	1981-07-18	43	Premium	3	Mon, Sat, Thu	TRUE	Kickboxen, LesMiles	12:17:00	15:09:00	172	FALSE		FALSE		FALSE
+347	Clara	Female	1985-10-08	39	Standard	3	Mon, Tue, Wed	FALSE		16:51:00	18:36:00	105	FALSE		FALSE		TRUE
+348	Dallas	Male	2003-07-02	21	Standard	3	Sat, Sun, Tue	FALSE		12:59:00	13:48:00	49	TRUE	orange, berry_boost	FALSE		FALSE
+349	Clare	Female	1985-06-18	39	Standard	2	Sun, Thu	FALSE		12:53:00	14:54:00	121	FALSE		TRUE	Jeffrey	FALSE
+350	Claribel	Female	1988-11-21	35	Standard	2	Fri, Mon	TRUE	Pilates, XCore	16:20:00	17:21:00	61	TRUE	passion_fruit	TRUE	Jeffrey	FALSE
+351	Damian	Male	1988-10-30	35	Standard	1	Fri	TRUE	BodyBalance, LesMiles	19:27:00	22:03:00	156	FALSE		FALSE		FALSE
+352	Clarice	Female	1993-03-02	31	Standard	1	Wed	TRUE	Spinning, Running	09:42:00	12:25:00	163	FALSE		FALSE		FALSE
+353	Clarissa	Female	2009-05-31	15	Premium	2	Fri, Mon	FALSE		13:37:00	14:50:00	73	TRUE	berry_boost	TRUE	Mike	TRUE
+354	Claudia	Female	1980-06-05	44	Premium	2	Fri, Mon	TRUE	BodyBalance	17:13:00	18:15:00	62	FALSE		FALSE		TRUE
+355	Damien	Male	1987-02-13	37	Standard	1	Mon	TRUE	BodyBalance, Running	16:45:00	18:58:00	133	FALSE		FALSE		FALSE
+356	Damon	Male	1992-05-13	32	Standard	1	Sat	TRUE	Pilates, XCore	18:44:00	19:28:00	44	FALSE		FALSE		TRUE
+357	Clementine	Female	2007-09-16	17	Standard	2	Fri, Sun	TRUE	LesMiles	20:55:00	22:18:00	83	TRUE	lemon, orange	FALSE		FALSE
+358	Clover	Female	1987-07-27	37	Standard	1	Tue	TRUE	XCore	18:06:00	19:59:00	113	FALSE		FALSE		FALSE
+359	Cody	Female	1999-02-05	25	Standard	3	Fri, Sun, Tue	FALSE		15:21:00	16:26:00	65	FALSE		TRUE	Hanna	FALSE
+360	Colette	Female	1992-05-02	32	Standard	2	Sat, Wed	TRUE	LesMiles, BodyPump, Kickboxen	17:04:00	19:46:00	162	FALSE		TRUE	Jeffrey	FALSE
+361	Colleen	Female	1980-05-14	44	Standard	5	Fri, Sun, Thu, Tue, Wed	TRUE	Running	20:04:00	22:29:00	145	FALSE		TRUE	Mike	TRUE
+362	Cora	Female	1987-06-28	37	Premium	4	Fri, Mon, Thu, Tue	TRUE	Pilates, Zumba, Kickboxen	11:51:00	13:57:00	126	TRUE	passion_fruit, lemon	FALSE		FALSE
+363	Dan	Male	2007-02-25	17	Standard	1	Tue	TRUE	Running, Zumba	12:17:00	15:14:00	177	TRUE	lemon, berry_boost	TRUE	Chantal	FALSE
+364	Coral	Female	1990-06-27	34	Standard	3	Sat, Thu, Wed	TRUE	Spinning, BodyBalance, Yoga	10:47:00	12:03:00	76	FALSE		TRUE	Chantal	TRUE
+365	Coraline	Female	2003-09-24	21	Premium	2	Mon, Wed	TRUE	Kickboxen, HIT, Spinning	18:40:00	21:21:00	161	TRUE	passion_fruit	TRUE	Hanna	TRUE
+366	Dana	Male	1980-06-04	44	Standard	3	Fri, Mon, Tue	FALSE		10:31:00	12:28:00	117	TRUE	coconut_pineapple	TRUE	Chantal	FALSE
+367	Cordelia	Female	1996-02-26	28	Standard	2	Thu, Tue	TRUE	XCore, Yoga	20:22:00	22:56:00	154	TRUE	lemon, black_currant	FALSE		FALSE
+368	Dane	Male	2001-07-09	23	Premium	1	Sun	TRUE	BodyBalance	20:41:00	23:00:00	139	FALSE		TRUE	Chantal	FALSE
+369	Daniel	Male	1995-05-09	29	Premium	1	Mon	TRUE	HIT	17:22:00	18:42:00	80	TRUE	black_currant	TRUE	Jeffrey	TRUE
+370	Corina	Female	1996-01-05	28	Premium	1	Tue	TRUE	Spinning, LesMiles, Yoga	13:08:00	14:35:00	87	TRUE	black_currant	TRUE	Hanna	TRUE
+371	Danny	Male	2003-05-25	21	Premium	2	Mon, Wed	FALSE		20:10:00	21:56:00	106	FALSE		FALSE		TRUE
+372	Courtney	Female	1978-10-10	46	Premium	5	Fri, Sun, Thu, Tue, Wed	TRUE	Running, BodyPump	11:18:00	14:06:00	168	TRUE	coconut_pineapple, black_currant	TRUE	Jeffrey	TRUE
+373	Crystal	Female	1991-08-26	33	Premium	2	Sat, Sun	TRUE	BodyBalance, Pilates, LesMiles	08:52:00	11:07:00	135	FALSE		FALSE		TRUE
+374	Cynthia	Female	1984-12-16	39	Premium	2	Sun, Tue	TRUE	HIT, Pilates	17:43:00	18:36:00	53	FALSE		TRUE	Chantal	TRUE
+375	Darby	Male	1998-12-14	25	Premium	2	Fri, Mon	FALSE		16:54:00	18:20:00	86	FALSE		TRUE	Mike	FALSE
+376	Daisy	Female	1995-07-29	29	Premium	3	Sat, Sun, Thu	TRUE	BodyPump, LesMiles	20:16:00	23:04:00	168	TRUE	berry_boost, orange	FALSE		FALSE
+377	Darren	Male	1990-10-13	34	Premium	3	Fri, Tue, Wed	FALSE		14:36:00	15:56:00	80	FALSE		TRUE	Mike	FALSE
+378	Darvin	Male	1984-08-22	40	Premium	2	Sat, Thu	TRUE	Running	18:52:00	19:42:00	50	TRUE	lemon	FALSE		TRUE
+379	Dana	Female	2010-03-07	14	Premium	3	Sun, Thu, Tue	FALSE		08:29:00	10:35:00	126	FALSE		FALSE		FALSE
+380	Darwin	Male	1981-06-02	43	Standard	1	Wed	FALSE		19:38:00	20:56:00	78	TRUE	berry_boost	FALSE		FALSE
+381	Dave	Male	1998-07-25	26	Premium	5	Fri, Mon, Sun, Tue, Wed	FALSE		18:01:00	18:43:00	42	TRUE	lemon, coconut_pineapple	FALSE		FALSE
+382	David	Male	1978-12-06	45	Premium	2	Mon, Wed	TRUE	HIT, Spinning	14:20:00	17:20:00	180	TRUE	black_currant	TRUE	Hanna	TRUE
+383	Dani	Female	1998-08-28	26	Standard	2	Sat, Thu	FALSE		20:26:00	21:25:00	59	FALSE		TRUE	Chantal	TRUE
+384	Danielle	Female	1998-06-12	26	Premium	3	Sat, Thu, Tue	TRUE	BodyBalance, Pilates, Kickboxen	17:35:00	18:31:00	56	TRUE	coconut_pineapple, black_currant	FALSE		TRUE
+385	Danna	Female	2008-01-12	16	Premium	3	Sun, Thu, Wed	TRUE	LesMiles, HIT, Pilates	12:45:00	14:42:00	117	TRUE	orange, lemon	TRUE	Hanna	FALSE
+386	Davis	Male	1975-06-09	49	Premium	1	Fri	TRUE	Kickboxen, BodyBalance	13:06:00	14:29:00	83	FALSE		TRUE	Hanna	TRUE
+387	Davy	Male	1998-09-03	26	Premium	2	Tue, Wed	TRUE	XCore	19:08:00	21:19:00	131	TRUE	black_currant	TRUE	Jeffrey	TRUE
+388	Dean	Male	2005-03-17	19	Standard	2	Fri, Sat	TRUE	LesMiles, Kickboxen	20:23:00	21:49:00	86	FALSE		TRUE	Jeffrey	FALSE
+389	Daphne	Female	1990-06-11	34	Premium	1	Thu	TRUE	Spinning, BodyBalance	17:57:00	19:46:00	109	FALSE		TRUE	Chantal	TRUE
+390	Darla	Female	2012-09-12	12	Standard	3	Mon, Sat, Tue	FALSE		08:59:00	10:26:00	87	FALSE		TRUE	Hanna	FALSE
+391	Darlene	Female	1998-02-06	26	Standard	5	Fri, Mon, Sat, Thu, Tue	FALSE		13:34:00	15:19:00	105	TRUE	passion_fruit, berry_boost	FALSE		TRUE
+392	Davina	Female	1985-05-18	39	Standard	2	Thu, Wed	TRUE	Spinning, Yoga	08:25:00	10:10:00	105	FALSE		TRUE	Jeffrey	FALSE
+393	Dawn	Female	1983-08-28	41	Standard	4	Mon, Sun, Tue, Wed	TRUE	XCore, Spinning	10:09:00	10:57:00	48	TRUE	coconut_pineapple, passion_fruit	FALSE		FALSE
+394	Deanna	Female	2007-05-14	17	Premium	2	Fri, Tue	FALSE		09:30:00	12:24:00	174	TRUE	black_currant	TRUE	Hanna	TRUE
+395	Deanne	Female	1995-10-27	28	Standard	3	Sat, Thu, Wed	FALSE		19:59:00	20:40:00	41	FALSE		TRUE	Chantal	FALSE
+396	Deb	Female	1986-11-13	37	Premium	3	Sat, Sun, Wed	FALSE		13:08:00	13:56:00	48	FALSE		FALSE		TRUE
+397	Debbie	Female	1991-06-18	33	Standard	3	Fri, Sat, Sun	FALSE		08:47:00	09:52:00	65	FALSE		FALSE		TRUE
+398	Deborah	Female	1979-06-28	45	Premium	2	Mon, Thu	TRUE	LesMiles, Yoga, Zumba	10:37:00	13:10:00	153	TRUE	coconut_pineapple, lemon	TRUE	Hanna	TRUE
+399	Delbert	Male	2007-03-09	17	Premium	2	Fri, Sat	FALSE		08:38:00	11:24:00	166	FALSE		TRUE	Mike	TRUE
+400	Demetrius	Male	1994-11-14	29	Standard	3	Fri, Sat, Thu	TRUE	Kickboxen	13:02:00	14:08:00	66	FALSE		FALSE		TRUE
+401	Dede	Female	2004-10-11	20	Premium	1	Wed	FALSE		17:52:00	18:49:00	57	TRUE	black_currant	TRUE	Hanna	TRUE
+402	Delia	Female	2007-06-21	17	Premium	2	Fri, Thu	TRUE	LesMiles, Pilates, Yoga	16:58:00	19:40:00	162	TRUE	orange	FALSE		TRUE
+403	Demetria	Female	2007-12-04	16	Premium	3	Sat, Sun, Tue	FALSE		15:15:00	15:46:00	31	TRUE	passion_fruit	TRUE	Chantal	FALSE
+404	Demi	Female	2009-08-09	15	Premium	3	Fri, Sat, Wed	TRUE	Kickboxen, Zumba	11:02:00	11:38:00	36	TRUE	berry_boost, black_currant	TRUE	Chantal	TRUE
+405	Denis	Male	1997-04-05	27	Premium	2	Mon, Sun	TRUE	LesMiles, Yoga, Spinning	16:35:00	18:56:00	141	TRUE	lemon	TRUE	Jeffrey	FALSE
+406	Denise	Female	1998-06-11	26	Standard	4	Mon, Sat, Thu, Wed	TRUE	Pilates, Spinning	13:03:00	15:39:00	156	FALSE		TRUE	Chantal	TRUE
+407	Destiny	Female	2002-09-28	22	Standard	3	Sat, Thu, Tue	TRUE	LesMiles, Pilates	17:29:00	19:06:00	97	TRUE	lemon, black_currant	FALSE		FALSE
+408	Dennis	Male	2001-12-23	22	Premium	1	Fri	FALSE		11:31:00	12:13:00	42	TRUE	coconut_pineapple	TRUE	Chantal	TRUE
+409	Devon	Female	2004-12-19	19	Standard	3	Sun, Thu, Wed	FALSE		18:07:00	20:51:00	164	FALSE		TRUE	Jeffrey	TRUE
+410	Denzel	Male	1979-04-01	45	Premium	3	Sun, Tue, Wed	FALSE		11:20:00	14:08:00	168	FALSE		TRUE	Mike	TRUE
+411	Diamond	Female	1980-08-27	44	Standard	2	Tue, Wed	FALSE		11:53:00	12:48:00	55	FALSE		FALSE		FALSE
+412	Denzil	Male	1984-12-09	39	Standard	2	Sun, Tue	TRUE	LesMiles, BodyPump	19:02:00	19:47:00	45	TRUE	berry_boost	TRUE	Chantal	FALSE
+413	Deorwine	Male	1993-10-26	30	Premium	1	Sun	TRUE	LesMiles	08:38:00	10:08:00	90	FALSE		TRUE	Mike	TRUE
+414	Diane	Female	1995-01-01	29	Standard	1	Sun	TRUE	BodyPump	12:26:00	13:45:00	79	FALSE		FALSE		FALSE
+415	Dimity	Female	1994-12-26	29	Premium	1	Sat	FALSE		16:54:00	18:15:00	81	FALSE		TRUE	Chantal	TRUE
+416	Derek	Male	1988-01-12	36	Premium	3	Sat, Sun, Wed	TRUE	LesMiles	19:37:00	20:38:00	61	FALSE		FALSE		TRUE
+417	Donna	Female	2007-11-02	16	Standard	3	Fri, Sun, Wed	TRUE	Kickboxen, Pilates	14:53:00	17:02:00	129	TRUE	coconut_pineapple	FALSE		TRUE
+418	Dora	Female	1975-09-25	49	Premium	3	Mon, Sun, Wed	FALSE		19:37:00	21:31:00	114	TRUE	berry_boost, coconut_pineapple	FALSE		FALSE
+419	Doreen	Female	2004-11-26	19	Premium	3	Sat, Tue, Wed	TRUE	Kickboxen, Spinning, HIT	10:33:00	11:32:00	59	FALSE		FALSE		FALSE
+420	Derick	Male	1978-02-27	46	Premium	2	Fri, Tue	FALSE		11:27:00	13:39:00	132	TRUE	coconut_pineapple, black_currant	TRUE	Hanna	FALSE
+421	Dorothy	Female	1998-01-09	26	Standard	3	Thu, Tue, Wed	FALSE		14:54:00	16:46:00	112	TRUE	orange, black_currant	TRUE	Chantal	TRUE
+422	Drew	Female	1990-05-21	34	Standard	4	Fri, Thu, Tue, Wed	FALSE		12:46:00	13:55:00	69	FALSE		FALSE		FALSE
+423	Dulcie	Female	1987-04-18	37	Premium	5	Fri, Mon, Sat, Sun, Thu	TRUE	XCore	18:48:00	21:03:00	135	FALSE		TRUE	Chantal	TRUE
+424	Ebony	Female	2002-04-02	22	Premium	1	Sun	TRUE	Pilates, LesMiles, Spinning	12:27:00	14:03:00	96	TRUE	coconut_pineapple	FALSE		TRUE
+425	Derrick	Male	1983-05-03	41	Premium	5	Mon, Sat, Sun, Tue, Wed	FALSE		16:21:00	18:38:00	137	FALSE		TRUE	Chantal	FALSE
+426	Eden	Female	1985-07-09	39	Premium	2	Fri, Sat	FALSE		20:04:00	20:43:00	39	FALSE		FALSE		FALSE
+427	Derwin	Male	2010-05-02	14	Premium	3	Fri, Mon, Sun	FALSE		16:05:00	19:05:00	180	TRUE	black_currant	TRUE	Mike	FALSE
+428	Edith	Female	2008-07-22	16	Standard	3	Sat, Sun, Wed	TRUE	Pilates, BodyBalance, Spinning	14:06:00	16:15:00	129	TRUE	berry_boost	FALSE		FALSE
+429	Des	Male	1993-04-19	31	Standard	2	Sun, Thu	TRUE	Yoga, Pilates, BodyPump	17:57:00	19:22:00	85	TRUE	lemon, passion_fruit	TRUE	Jeffrey	TRUE
+430	Edna	Female	1998-12-06	25	Standard	2	Mon, Thu	FALSE		15:12:00	15:57:00	45	TRUE	coconut_pineapple	TRUE	Chantal	FALSE
+431	Desmond	Male	1993-07-16	31	Premium	2	Sun, Tue	TRUE	Zumba, Yoga, Spinning	16:01:00	18:11:00	130	TRUE	black_currant, orange	FALSE		TRUE
+432	Dexter	Male	1994-01-10	30	Standard	5	Fri, Mon, Sun, Tue, Wed	TRUE	Yoga, Spinning	10:56:00	13:40:00	164	FALSE		TRUE	Jeffrey	TRUE
+433	Edris	Female	1977-01-28	47	Premium	3	Sat, Sun, Thu	FALSE		14:51:00	17:38:00	167	TRUE	orange	FALSE		TRUE
+434	Edwina	Female	1995-04-29	29	Standard	5	Mon, Sat, Sun, Thu, Tue	FALSE		18:14:00	21:04:00	170	FALSE		FALSE		FALSE
+435	Effie	Female	1981-04-20	43	Standard	1	Sat	TRUE	Yoga	14:44:00	16:44:00	120	TRUE	passion_fruit, berry_boost	TRUE	Chantal	TRUE
+436	Dick	Male	2001-05-02	23	Standard	1	Sun	FALSE		11:28:00	13:04:00	96	FALSE		TRUE	Mike	FALSE
+437	Dickon	Male	1997-08-23	27	Premium	2	Fri, Thu	TRUE	LesMiles	16:29:00	19:08:00	159	TRUE	coconut_pineapple	FALSE		TRUE
+438	Dicky	Male	1990-02-22	34	Premium	2	Tue, Wed	FALSE		17:18:00	18:57:00	99	TRUE	passion_fruit	TRUE	Mike	FALSE
+439	Digby	Male	2011-12-20	12	Standard	2	Sat, Wed	TRUE	Kickboxen, BodyBalance	13:58:00	15:56:00	118	TRUE	orange, lemon	TRUE	Chantal	TRUE
+440	Dirk	Male	1987-09-27	37	Premium	1	Sat	TRUE	Running	13:10:00	16:02:00	172	FALSE		FALSE		TRUE
+441	Eileen	Female	1986-03-24	38	Standard	3	Thu, Tue, Wed	TRUE	Spinning	16:41:00	17:48:00	67	TRUE	lemon, berry_boost	FALSE		TRUE
+442	Elaine	Female	1994-05-17	30	Standard	1	Sat	FALSE		14:08:00	17:08:00	180	FALSE		TRUE	Hanna	FALSE
+443	Eleanor	Female	1998-11-11	25	Standard	2	Mon, Tue	TRUE	Running, Spinning	13:59:00	15:29:00	90	FALSE		TRUE	Jeffrey	TRUE
+444	Dobie	Male	1975-02-23	49	Standard	2	Mon, Sun	FALSE		18:40:00	20:46:00	126	FALSE		TRUE	Hanna	TRUE
+445	Elektra	Female	1989-04-11	35	Premium	1	Tue	FALSE		12:12:00	14:48:00	156	TRUE	black_currant	FALSE		FALSE
+446	Elisha	Female	1982-12-05	41	Standard	2	Sun, Tue	TRUE	HIT, BodyBalance	14:06:00	16:06:00	120	TRUE	orange, berry_boost	TRUE	Jeffrey	TRUE
+447	Dom	Male	1991-04-09	33	Premium	3	Mon, Thu, Tue	FALSE		09:14:00	10:31:00	77	TRUE	orange, lemon	FALSE		TRUE
+448	Eliza	Female	1997-07-13	27	Premium	2	Fri, Tue	FALSE		17:22:00	19:32:00	130	TRUE	passion_fruit, black_currant	FALSE		FALSE
+449	Elizabeth	Female	2006-07-23	18	Standard	3	Fri, Thu, Wed	TRUE	BodyBalance, Pilates, HIT	18:43:00	21:06:00	143	TRUE	passion_fruit	FALSE		TRUE
+450	Domenic	Male	2006-06-24	18	Premium	4	Fri, Sat, Sun, Tue	TRUE	Running	19:08:00	21:32:00	144	TRUE	black_currant	FALSE		FALSE
+451	Ella	Female	1994-04-09	30	Premium	4	Fri, Sat, Sun, Wed	TRUE	BodyPump, Pilates, Yoga	14:27:00	16:09:00	102	FALSE		TRUE	Jeffrey	FALSE
+452	Elle	Female	1985-06-16	39	Standard	4	Sat, Sun, Thu, Tue	TRUE	Spinning, HIT	16:21:00	17:34:00	73	TRUE	lemon, black_currant	TRUE	Jeffrey	FALSE
+453	Ellen	Female	1994-03-25	30	Standard	3	Sat, Sun, Wed	TRUE	Yoga, Spinning	18:36:00	20:33:00	117	TRUE	orange	TRUE	Jeffrey	FALSE
+454	Ellie	Female	1999-01-10	25	Premium	4	Mon, Sun, Tue, Wed	TRUE	Running	18:14:00	19:59:00	105	FALSE		TRUE	Chantal	TRUE
+455	Ember	Female	2008-05-19	16	Standard	1	Mon	TRUE	BodyBalance, Pilates, Yoga	20:02:00	22:37:00	155	FALSE		TRUE	Mike	FALSE
+456	Dominic	Male	1993-12-26	30	Standard	3	Sat, Thu, Wed	TRUE	Yoga	14:55:00	16:01:00	66	FALSE		TRUE	Chantal	TRUE
+457	Emerald	Female	1983-03-19	41	Premium	1	Wed	FALSE		16:21:00	18:39:00	138	TRUE	berry_boost	TRUE	Hanna	FALSE
+458	Emerald	Female	1986-02-14	38	Standard	3	Mon, Sun, Tue	TRUE	Pilates	11:37:00	12:57:00	80	TRUE	orange, black_currant	TRUE	Jeffrey	TRUE
+459	Don	Male	1978-03-02	46	Standard	3	Sat, Thu, Tue	FALSE		18:28:00	19:40:00	72	FALSE		TRUE	Jeffrey	FALSE
+460	Emily	Female	1995-12-20	28	Premium	4	Mon, Sat, Thu, Wed	FALSE		09:22:00	10:57:00	95	FALSE		TRUE	Jeffrey	FALSE
+461	Donald	Male	2009-06-23	15	Premium	2	Mon, Thu	TRUE	XCore, Yoga	19:07:00	22:02:00	175	TRUE	black_currant, orange	FALSE		TRUE
+462	Dorian	Male	1999-06-01	25	Premium	2	Thu, Tue	FALSE		10:55:00	13:51:00	176	TRUE	lemon	FALSE		TRUE
+463	Emma	Female	2006-04-22	18	Standard	2	Fri, Tue	FALSE		18:15:00	20:59:00	164	FALSE		FALSE		FALSE
+464	Enid	Female	1986-09-20	38	Premium	4	Fri, Mon, Thu, Wed	TRUE	BodyPump, LesMiles, HIT	20:54:00	22:41:00	107	FALSE		TRUE	Hanna	TRUE
+465	Erika	Female	2001-10-29	22	Standard	4	Fri, Sat, Thu, Tue	FALSE		14:33:00	15:48:00	75	TRUE	orange	FALSE		TRUE
+466	Erin	Female	1980-01-13	44	Premium	3	Mon, Sat, Thu	FALSE		17:47:00	18:30:00	43	TRUE	berry_boost	TRUE	Jeffrey	TRUE
+467	Doug	Male	2010-01-27	14	Premium	5	Sat, Sun, Thu, Tue, Wed	TRUE	BodyBalance, Zumba	08:25:00	10:08:00	103	FALSE		TRUE	Mike	TRUE
+468	Estelle	Female	1983-01-28	41	Premium	3	Fri, Sat, Sun	FALSE		09:56:00	11:39:00	103	FALSE		TRUE	Chantal	TRUE
+469	Dougie	Male	1990-06-21	34	Premium	2	Sat, Thu	TRUE	LesMiles	13:39:00	14:34:00	55	FALSE		TRUE	Jeffrey	FALSE
+470	Douglas	Male	1998-10-07	26	Premium	1	Fri	TRUE	Pilates	12:45:00	14:09:00	84	TRUE	black_currant, orange	TRUE	Chantal	TRUE
+471	Esther	Female	1976-04-23	48	Standard	1	Fri	FALSE		10:42:00	11:57:00	75	TRUE	lemon	TRUE	Chantal	TRUE
+472	Drake	Male	1979-01-02	45	Standard	1	Mon	TRUE	Running, LesMiles	09:31:00	10:42:00	71	TRUE	orange, lemon	FALSE		TRUE
+473	Drew	Male	2003-11-18	20	Standard	4	Mon, Sat, Tue, Wed	TRUE	Running, HIT	09:46:00	11:55:00	129	FALSE		TRUE	Mike	FALSE
+474	Drummond	Male	1991-08-03	33	Standard	3	Sat, Sun, Wed	TRUE	BodyBalance, Kickboxen, HIT	16:59:00	18:31:00	92	TRUE	orange	TRUE	Jeffrey	FALSE
+475	Duane	Male	2001-04-04	23	Standard	2	Sat, Thu	FALSE		11:56:00	13:42:00	106	FALSE		TRUE	Jeffrey	TRUE
+476	Duke	Male	2001-07-09	23	Standard	2	Tue, Wed	TRUE	XCore, Kickboxen	17:37:00	19:57:00	140	TRUE	orange	TRUE	Mike	TRUE
+477	Esty	Female	2002-03-09	22	Premium	1	Thu	FALSE		09:43:00	10:37:00	54	TRUE	berry_boost	FALSE		FALSE
+478	Ethel	Female	1980-10-31	43	Standard	3	Fri, Mon, Tue	FALSE		11:56:00	12:35:00	39	FALSE		TRUE	Mike	TRUE
+479	Duncan	Male	2010-03-23	14	Premium	2	Sun, Tue	FALSE		12:23:00	14:44:00	141	TRUE	berry_boost	TRUE	Chantal	TRUE
+480	Dustin	Male	2000-07-25	24	Premium	2	Sat, Tue	TRUE	Zumba, LesMiles, Spinning	11:46:00	14:43:00	177	FALSE		FALSE		TRUE
+481	Ethelreda	Female	1979-03-26	45	Standard	1	Sun	FALSE		20:40:00	23:14:00	154	TRUE	berry_boost	FALSE		FALSE
+482	Dutton	Male	2005-07-27	19	Premium	2	Fri, Tue	TRUE	LesMiles	12:50:00	14:56:00	126	TRUE	passion_fruit	FALSE		FALSE
+483	Eudora	Female	1998-03-17	26	Premium	3	Fri, Thu, Wed	TRUE	BodyBalance, XCore	18:41:00	21:00:00	139	TRUE	black_currant, coconut_pineapple	TRUE	Mike	TRUE
+484	Dwayne	Male	1996-05-03	28	Standard	2	Fri, Tue	FALSE		14:12:00	15:26:00	74	TRUE	passion_fruit, orange	FALSE		FALSE
+485	Dwight	Male	1979-03-31	45	Standard	1	Mon	TRUE	Yoga	18:07:00	19:42:00	95	FALSE		FALSE		FALSE
+486	Dylan	Male	1975-09-16	49	Standard	3	Sun, Tue, Wed	TRUE	Pilates	17:10:00	18:03:00	53	TRUE	orange, coconut_pineapple	TRUE	Mike	TRUE
+487	Eva	Female	1998-02-22	26	Standard	2	Sat, Wed	TRUE	BodyBalance, LesMiles, BodyPump	15:44:00	18:17:00	153	FALSE		TRUE	Chantal	TRUE
+488	Eadwulf	Male	1981-04-25	43	Premium	5	Fri, Mon, Sat, Thu, Wed	FALSE		17:52:00	20:52:00	180	FALSE		TRUE	Mike	FALSE
+489	Ealdwulf	Male	1991-10-08	33	Premium	2	Sun, Tue	FALSE		12:42:00	15:01:00	139	TRUE	berry_boost	TRUE	Mike	FALSE
+490	Evan	Female	1996-06-14	28	Standard	3	Fri, Sun, Tue	FALSE		09:55:00	10:55:00	60	FALSE		TRUE	Chantal	FALSE
+491	Eve	Female	1975-07-18	49	Premium	1	Fri	TRUE	Running	08:06:00	10:41:00	155	FALSE		TRUE	Jeffrey	FALSE
+492	Eardwulf	Male	2007-11-19	16	Standard	2	Fri, Thu	FALSE		11:43:00	12:52:00	69	FALSE		FALSE		TRUE
+493	Evelyn	Female	1984-11-15	39	Standard	2	Tue, Wed	TRUE	Yoga, BodyPump	15:14:00	17:39:00	145	TRUE	black_currant	FALSE		FALSE
+494	Fabienne	Female	2012-07-22	12	Standard	3	Sat, Thu, Wed	TRUE	BodyPump	11:50:00	13:43:00	113	TRUE	passion_fruit, orange	FALSE		TRUE
+495	Earl	Male	1984-03-30	40	Standard	3	Mon, Sat, Tue	FALSE		08:41:00	09:35:00	54	TRUE	passion_fruit, lemon	FALSE		TRUE
+496	Ebenezer	Male	1979-12-03	44	Premium	1	Sun	FALSE		15:34:00	16:41:00	67	TRUE	coconut_pineapple	TRUE	Jeffrey	FALSE
+497	Faith	Female	2012-09-19	12	Premium	2	Sat, Sun	FALSE		08:05:00	10:14:00	129	FALSE		FALSE		FALSE
+498	Ed	Male	1981-08-07	43	Premium	4	Mon, Sat, Tue, Wed	TRUE	BodyBalance, Spinning, XCore	10:38:00	11:41:00	63	TRUE	orange	TRUE	Jeffrey	TRUE
+499	Faye	Female	1995-09-22	29	Premium	3	Mon, Sat, Thu	TRUE	XCore, Running, BodyBalance	20:43:00	21:23:00	40	TRUE	berry_boost	FALSE		FALSE
+500	Eddie	Male	2005-10-14	19	Standard	3	Mon, Sun, Wed	FALSE		14:34:00	15:34:00	60	TRUE	coconut_pineapple, lemon	FALSE		TRUE
+501	Eden	Male	2005-03-14	19	Premium	2	Sun, Tue	TRUE	Pilates, Zumba, Spinning	19:22:00	20:25:00	63	FALSE		FALSE		FALSE
+502	Edgar	Male	2010-11-29	13	Premium	1	Fri	FALSE		16:10:00	16:40:00	30	TRUE	lemon	FALSE		FALSE
+503	Felicity	Female	2007-10-19	16	Standard	3	Mon, Sat, Thu	FALSE		15:10:00	16:06:00	56	FALSE		TRUE	Chantal	FALSE
+504	Fern	Female	2000-12-01	23	Standard	3	Sat, Tue, Wed	TRUE	HIT, BodyBalance	12:33:00	14:41:00	128	FALSE		FALSE		FALSE
+505	Edison	Male	1989-05-02	35	Standard	1	Tue	FALSE		16:19:00	19:13:00	174	TRUE	berry_boost	FALSE		FALSE
+506	Finn	Female	1997-07-09	27	Premium	2	Tue, Wed	FALSE		18:28:00	20:20:00	112	TRUE	coconut_pineapple	FALSE		FALSE
+507	Fiona	Female	1977-05-24	47	Premium	2	Sun, Tue	TRUE	LesMiles, BodyBalance	15:09:00	16:18:00	69	TRUE	berry_boost, black_currant	TRUE	Chantal	TRUE
+508	Edmund	Male	1979-09-18	45	Standard	1	Mon	FALSE		19:23:00	20:50:00	87	FALSE		TRUE	Jeffrey	TRUE
+509	Fleur	Female	1997-03-21	27	Premium	1	Thu	FALSE		14:17:00	15:42:00	85	FALSE		FALSE		FALSE
+510	Edward	Male	2005-03-23	19	Standard	3	Sun, Tue, Wed	TRUE	LesMiles, Kickboxen, Yoga	12:56:00	15:52:00	176	FALSE		TRUE	Jeffrey	FALSE
+511	Edwin	Male	1988-01-16	36	Standard	1	Sat	TRUE	XCore	11:56:00	12:58:00	62	TRUE	lemon, passion_fruit	TRUE	Mike	TRUE
+512	Elbert	Male	2000-12-23	23	Standard	3	Sun, Tue, Wed	TRUE	XCore, Spinning, Pilates	19:02:00	21:09:00	127	FALSE		FALSE		FALSE
+513	Elias	Male	1999-05-03	25	Premium	1	Sat	TRUE	Kickboxen, Running	14:30:00	15:03:00	33	TRUE	orange	TRUE	Hanna	FALSE
+514	Florence	Female	2001-05-13	23	Standard	3	Fri, Mon, Wed	TRUE	Zumba, XCore	12:43:00	13:13:00	30	TRUE	passion_fruit	FALSE		FALSE
+515	Frances	Female	2002-10-23	21	Standard	1	Mon	FALSE		08:29:00	09:53:00	84	TRUE	passion_fruit	FALSE		FALSE
+516	Francie	Female	1975-10-30	48	Premium	1	Wed	TRUE	Yoga	14:44:00	17:01:00	137	FALSE		TRUE	Chantal	FALSE
+517	Elijah	Male	1998-06-19	26	Standard	4	Mon, Thu, Tue, Wed	FALSE		08:44:00	11:11:00	147	TRUE	black_currant	FALSE		FALSE
+518	Elisha	Male	2007-06-28	17	Standard	2	Fri, Wed	TRUE	BodyPump, XCore	08:24:00	09:57:00	93	FALSE		FALSE		FALSE
+519	Elliot	Male	2010-11-26	13	Standard	2	Sun, Tue	TRUE	XCore	10:34:00	12:49:00	135	TRUE	orange, coconut_pineapple	FALSE		FALSE
+520	Francine	Female	1991-09-12	33	Standard	3	Mon, Sat, Thu	FALSE		19:30:00	21:59:00	149	TRUE	berry_boost, orange	FALSE		TRUE
+521	Frankie	Female	1993-03-01	31	Premium	4	Fri, Mon, Tue, Wed	FALSE		20:33:00	22:56:00	143	TRUE	passion_fruit	FALSE		FALSE
+522	Frida	Female	2000-03-03	24	Standard	2	Mon, Thu	TRUE	Zumba	20:25:00	20:55:00	30	FALSE		FALSE		TRUE
+523	Gage	Female	1994-01-12	30	Premium	1	Fri	FALSE		17:59:00	20:47:00	168	FALSE		TRUE	Chantal	TRUE
+524	Gail	Female	2009-07-17	15	Standard	2	Fri, Sun	TRUE	XCore	14:20:00	17:01:00	161	FALSE		FALSE		FALSE
+525	Gemma	Female	1997-04-07	27	Premium	5	Fri, Mon, Sun, Tue, Wed	FALSE		18:22:00	19:04:00	42	FALSE		FALSE		FALSE
+526	Ellwood	Male	2008-01-07	16	Standard	4	Mon, Sat, Sun, Thu	TRUE	Zumba, Running, Spinning	13:43:00	14:14:00	31	TRUE	passion_fruit	TRUE	Mike	FALSE
+527	Genevieve	Female	1990-08-20	34	Premium	3	Mon, Tue, Wed	FALSE		11:15:00	13:24:00	129	TRUE	passion_fruit	TRUE	Chantal	TRUE
+528	Georgene	Female	1998-07-30	26	Standard	3	Sat, Thu, Wed	TRUE	BodyBalance	08:27:00	10:39:00	132	TRUE	berry_boost	FALSE		TRUE
+529	Elmer	Male	2004-09-13	20	Premium	2	Mon, Wed	FALSE		08:50:00	10:13:00	83	FALSE		FALSE		FALSE
+530	Georgia	Female	1979-04-17	45	Premium	3	Fri, Sat, Tue	TRUE	Kickboxen, BodyPump	19:59:00	20:57:00	58	TRUE	coconut_pineapple, orange	FALSE		TRUE
+531	Elmo	Male	1993-06-10	31	Premium	2	Fri, Tue	TRUE	Kickboxen	14:51:00	17:44:00	173	FALSE		TRUE	Mike	TRUE
+532	Elon	Male	1976-09-28	48	Premium	4	Mon, Sun, Thu, Tue	TRUE	BodyPump	16:04:00	18:33:00	149	FALSE		TRUE	Chantal	FALSE
+533	Georgiana	Female	1985-08-29	39	Premium	4	Mon, Thu, Tue, Wed	FALSE		18:58:00	20:43:00	105	FALSE		FALSE		FALSE
+534	Elton	Male	1996-01-31	28	Standard	5	Fri, Mon, Sat, Tue, Wed	FALSE		14:53:00	16:53:00	120	TRUE	lemon	FALSE		FALSE
+535	Elvis	Male	2006-09-25	18	Premium	3	Mon, Sat, Tue	TRUE	BodyPump, HIT	17:46:00	20:29:00	163	FALSE		TRUE	Jeffrey	FALSE
+536	Emanuel	Male	1988-03-25	36	Premium	3	Fri, Sat, Tue	FALSE		16:05:00	18:19:00	134	FALSE		FALSE		TRUE
+537	Gertie	Female	1997-12-18	26	Standard	3	Sat, Sun, Wed	TRUE	BodyPump	10:22:00	11:36:00	74	FALSE		TRUE	Chantal	FALSE
+538	Emil	Male	1980-06-26	44	Premium	2	Mon, Sun	FALSE		08:10:00	09:57:00	107	TRUE	orange	TRUE	Jeffrey	TRUE
+539	Emmanuel	Male	2012-08-18	12	Premium	1	Tue	TRUE	XCore, Spinning	17:08:00	19:26:00	138	FALSE		FALSE		FALSE
+540	Emmett	Male	2000-02-12	24	Standard	1	Thu	TRUE	Yoga, Kickboxen	08:58:00	11:53:00	175	FALSE		TRUE	Hanna	TRUE
+541	Emo	Male	1976-09-04	48	Premium	2	Mon, Thu	FALSE		16:59:00	18:18:00	79	FALSE		FALSE		FALSE
+542	Gertrude	Female	2011-10-11	13	Premium	1	Sat	TRUE	XCore, BodyPump	11:55:00	12:55:00	60	FALSE		FALSE		TRUE
+543	Gia	Female	1995-08-03	29	Standard	2	Fri, Thu	FALSE		14:45:00	16:43:00	118	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+544	Gina	Female	2012-09-21	12	Premium	2	Mon, Tue	TRUE	BodyBalance, HIT	09:49:00	11:30:00	101	FALSE		TRUE	Hanna	FALSE
+545	Ginny	Female	1987-06-02	37	Premium	1	Wed	TRUE	BodyBalance, Spinning, HIT	15:26:00	16:15:00	49	TRUE	passion_fruit	FALSE		FALSE
+546	Giselle	Female	2003-11-04	20	Standard	1	Tue	FALSE		08:55:00	10:23:00	88	TRUE	berry_boost, passion_fruit	TRUE	Hanna	TRUE
+547	Enoch	Male	2002-09-08	22	Standard	2	Sat, Thu	FALSE		16:19:00	17:42:00	83	TRUE	lemon	FALSE		FALSE
+548	Gladys	Female	2011-05-04	13	Standard	2	Sat, Wed	TRUE	Pilates	16:36:00	17:32:00	56	TRUE	berry_boost, passion_fruit	FALSE		FALSE
+549	Erastus	Male	1989-07-31	35	Premium	1	Thu	TRUE	BodyPump, Running, Spinning	16:27:00	17:25:00	58	FALSE		TRUE	Jeffrey	TRUE
+550	Glenda	Female	2006-08-31	18	Premium	1	Sat	FALSE		18:01:00	18:36:00	35	TRUE	lemon	TRUE	Jeffrey	FALSE
+551	Gloria	Female	1988-09-21	36	Standard	2	Mon, Sun	FALSE		15:38:00	17:36:00	118	FALSE		TRUE	Mike	FALSE
+552	Glynis	Female	1986-11-05	37	Standard	1	Sun	TRUE	Spinning	15:55:00	16:33:00	38	FALSE		FALSE		FALSE
+553	Eric	Male	1986-12-14	37	Standard	3	Fri, Thu, Wed	TRUE	Kickboxen, Pilates, XCore	18:23:00	20:28:00	125	FALSE		FALSE		FALSE
+554	Grace	Female	1978-01-19	46	Premium	3	Sat, Thu, Tue	TRUE	BodyPump, LesMiles	18:15:00	20:10:00	115	FALSE		TRUE	Jeffrey	TRUE
+555	Ernest	Male	1985-05-27	39	Premium	4	Mon, Sun, Tue, Wed	TRUE	BodyPump	19:22:00	21:18:00	116	TRUE	passion_fruit, orange	FALSE		FALSE
+556	Gwen	Female	1985-04-20	39	Standard	2	Fri, Wed	FALSE		10:32:00	12:28:00	116	FALSE		FALSE		TRUE
+557	Gwenda	Female	1987-03-26	37	Standard	1	Fri	TRUE	LesMiles, Yoga	10:36:00	11:56:00	80	TRUE	coconut_pineapple	FALSE		TRUE
+558	Ernie	Male	1975-11-26	48	Standard	3	Mon, Tue, Wed	FALSE		15:32:00	16:25:00	53	TRUE	passion_fruit	TRUE	Hanna	TRUE
+559	Gwendolen	Female	1978-08-08	46	Premium	2	Mon, Tue	FALSE		17:54:00	19:17:00	83	FALSE		FALSE		TRUE
+560	Gwendoline	Female	1979-07-13	45	Standard	2	Thu, Wed	FALSE		15:36:00	17:56:00	140	FALSE		TRUE	Hanna	TRUE
+561	Gwendolyn	Female	1981-09-23	43	Premium	5	Mon, Sat, Sun, Thu, Wed	TRUE	BodyPump, Running	13:20:00	14:41:00	81	TRUE	black_currant, orange	FALSE		TRUE
+562	Gwyneth	Female	1986-10-09	38	Standard	1	Tue	TRUE	Yoga, Kickboxen, Pilates	12:52:00	15:23:00	151	TRUE	black_currant	FALSE		FALSE
+563	Haisley	Female	2008-06-20	16	Premium	5	Fri, Sat, Thu, Tue, Wed	FALSE		18:39:00	20:06:00	87	FALSE		TRUE	Jeffrey	TRUE
+564	Haley	Female	2007-03-15	17	Standard	2	Fri, Sat	FALSE		16:59:00	19:27:00	148	FALSE		FALSE		TRUE
+565	Ethan	Male	1982-03-19	42	Standard	1	Thu	TRUE	Kickboxen, Zumba, HIT	12:52:00	14:18:00	86	FALSE		FALSE		FALSE
+566	Hannah	Female	1991-07-05	33	Standard	2	Thu, Wed	FALSE		09:56:00	12:52:00	176	FALSE		TRUE	Hanna	TRUE
+567	Harmony	Female	1979-11-24	44	Premium	4	Mon, Thu, Tue, Wed	TRUE	Kickboxen	19:09:00	21:55:00	166	TRUE	black_currant, berry_boost	FALSE		TRUE
+568	Harriet	Female	1989-08-26	35	Premium	5	Sat, Sun, Thu, Tue, Wed	FALSE		10:41:00	13:41:00	180	FALSE		FALSE		TRUE
+569	Eugene	Male	1993-07-21	31	Premium	2	Mon, Wed	TRUE	Yoga, Zumba	20:28:00	21:52:00	84	TRUE	black_currant	TRUE	Hanna	FALSE
+570	Eustace	Male	1983-11-16	40	Standard	1	Fri	FALSE		18:30:00	19:44:00	74	TRUE	lemon, black_currant	FALSE		TRUE
+571	Hayden	Female	1975-04-20	49	Premium	2	Tue, Wed	FALSE		10:11:00	11:28:00	77	TRUE	berry_boost	TRUE	Hanna	FALSE
+572	Hayley	Female	2008-07-26	16	Standard	5	Fri, Sat, Sun, Thu, Wed	TRUE	Spinning, Zumba	17:04:00	17:45:00	41	TRUE	passion_fruit	FALSE		TRUE
+573	Evan	Male	1997-04-19	27	Premium	3	Mon, Sat, Thu	FALSE		18:16:00	20:37:00	141	FALSE		FALSE		FALSE
+574	Hazel	Female	1975-03-30	49	Premium	2	Mon, Sun	FALSE		19:30:00	20:52:00	82	TRUE	berry_boost	TRUE	Chantal	FALSE
+575	Heather	Female	1991-03-09	33	Premium	1	Sun	FALSE		16:29:00	17:07:00	38	FALSE		TRUE	Hanna	FALSE
+576	Evelyn	Male	2008-06-10	16	Premium	2	Fri, Wed	TRUE	Running, Zumba, HIT	12:40:00	13:52:00	72	TRUE	lemon, orange	TRUE	Chantal	FALSE
+577	Heidi	Female	2002-11-24	21	Standard	2	Mon, Wed	FALSE		10:26:00	12:21:00	115	TRUE	black_currant, coconut_pineapple	TRUE	Mike	TRUE
+578	Eversley	Male	1983-04-02	41	Premium	5	Mon, Sat, Sun, Tue, Wed	FALSE		20:35:00	22:30:00	115	FALSE		FALSE		TRUE
+579	Ezekiel	Male	1988-10-22	35	Premium	2	Sun, Wed	FALSE		19:50:00	22:24:00	154	FALSE		TRUE	Hanna	TRUE
+580	Ezra	Male	2006-07-29	18	Standard	3	Sun, Thu, Tue	TRUE	Running, LesMiles, Spinning	16:10:00	17:04:00	54	TRUE	lemon	FALSE		FALSE
+581	Fabian	Male	1975-09-09	49	Premium	3	Mon, Sat, Sun	FALSE		15:25:00	18:05:00	160	TRUE	orange	FALSE		TRUE
+582	Helen	Female	1980-08-22	44	Premium	2	Sun, Wed	TRUE	BodyPump	14:41:00	16:35:00	114	FALSE		FALSE		FALSE
+583	Helena	Female	1994-01-26	30	Standard	1	Fri	FALSE		16:34:00	19:02:00	148	FALSE		FALSE		TRUE
+584	Felix	Male	1995-10-21	28	Standard	3	Sat, Thu, Wed	FALSE		10:48:00	12:09:00	81	FALSE		FALSE		FALSE
+585	Helene	Female	1997-11-09	26	Premium	2	Fri, Sun	TRUE	Kickboxen	20:45:00	21:48:00	63	FALSE		TRUE	Chantal	TRUE
+586	Finn	Male	1991-11-13	32	Standard	3	Fri, Mon, Thu	FALSE		08:13:00	09:06:00	53	TRUE	coconut_pineapple	FALSE		FALSE
+587	Fletcher	Male	1998-03-16	26	Premium	5	Fri, Sat, Sun, Tue, Wed	TRUE	Spinning	15:57:00	17:38:00	101	FALSE		FALSE		TRUE
+588	Flint	Male	2004-12-08	19	Premium	3	Sat, Thu, Tue	TRUE	BodyPump, BodyBalance, Zumba	08:22:00	09:14:00	52	FALSE		TRUE	Hanna	TRUE
+589	Flynn	Male	2009-06-28	15	Standard	4	Fri, Sat, Sun, Wed	FALSE		14:06:00	15:54:00	108	TRUE	coconut_pineapple, lemon	FALSE		TRUE
+590	Flynn	Male	1993-08-29	31	Standard	2	Fri, Tue	TRUE	XCore, BodyPump	09:51:00	11:04:00	73	FALSE		TRUE	Chantal	TRUE
+591	Ford	Male	1984-10-22	39	Standard	5	Fri, Mon, Sun, Thu, Wed	TRUE	HIT	12:50:00	14:58:00	128	FALSE		TRUE	Jeffrey	TRUE
+592	Henrietta	Female	1980-11-21	43	Standard	3	Sat, Sun, Wed	TRUE	BodyBalance, Zumba, Kickboxen	10:17:00	12:00:00	103	FALSE		TRUE	Mike	FALSE
+593	Hero	Female	1998-07-23	26	Standard	5	Fri, Sun, Thu, Tue, Wed	FALSE		19:51:00	21:23:00	92	TRUE	orange	TRUE	Chantal	TRUE
+594	Forrest	Male	2009-05-04	15	Standard	1	Thu	TRUE	BodyPump	08:01:00	10:30:00	149	TRUE	lemon	TRUE	Hanna	TRUE
+595	Francis	Male	1991-05-13	33	Standard	2	Sat, Wed	TRUE	BodyPump, Running	17:06:00	19:09:00	123	TRUE	orange, berry_boost	TRUE	Hanna	FALSE
+596	Frank	Male	1978-07-25	46	Premium	5	Mon, Sat, Thu, Tue, Wed	FALSE		20:46:00	22:09:00	83	TRUE	orange, black_currant	TRUE	Hanna	TRUE
+597	Frankie	Male	1975-12-22	48	Premium	1	Fri	FALSE		18:52:00	20:11:00	79	TRUE	orange	TRUE	Mike	FALSE
+598	Hester	Female	2009-11-05	14	Standard	2	Fri, Thu	TRUE	BodyBalance, LesMiles, Pilates	09:21:00	12:12:00	171	FALSE		TRUE	Mike	FALSE
+599	Franklin	Male	1985-11-28	38	Standard	5	Mon, Sat, Sun, Thu, Tue	FALSE		08:35:00	10:56:00	141	TRUE	berry_boost	TRUE	Jeffrey	FALSE
+600	Fred	Male	1979-10-17	44	Premium	3	Sun, Tue, Wed	FALSE		19:40:00	22:29:00	169	FALSE		TRUE	Jeffrey	FALSE
+601	Hilary	Female	1984-11-19	39	Standard	2	Sun, Wed	FALSE		12:10:00	12:42:00	32	TRUE	passion_fruit, berry_boost	TRUE	Mike	FALSE
+602	Freddy	Male	1975-04-28	49	Standard	2	Sat, Wed	FALSE		15:41:00	17:45:00	124	TRUE	passion_fruit, orange	FALSE		FALSE
+603	Frederic	Male	2007-04-03	17	Standard	3	Fri, Mon, Sun	FALSE		15:24:00	17:42:00	138	FALSE		FALSE		TRUE
+604	Hilda	Female	1989-02-20	35	Standard	2	Tue, Wed	FALSE		18:42:00	21:41:00	179	FALSE		TRUE	Jeffrey	TRUE
+605	Frederick	Male	1979-02-18	45	Standard	3	Mon, Sat, Tue	TRUE	HIT	17:42:00	20:36:00	174	FALSE		FALSE		TRUE
+606	Frederick	Male	1995-02-23	29	Standard	3	Fri, Mon, Thu	TRUE	XCore, HIT, Spinning	20:39:00	22:09:00	90	FALSE		TRUE	Hanna	FALSE
+607	Hodierna	Female	1982-09-29	42	Premium	3	Mon, Sat, Thu	FALSE		16:20:00	17:20:00	60	TRUE	coconut_pineapple	TRUE	Mike	FALSE
+608	Holly	Female	2006-05-09	18	Standard	3	Sat, Tue, Wed	TRUE	HIT, LesMiles, BodyBalance	08:46:00	10:53:00	127	FALSE		FALSE		FALSE
+609	Honor	Female	1988-05-20	36	Standard	3	Fri, Thu, Tue	TRUE	BodyBalance, Running, LesMiles	17:33:00	19:16:00	103	FALSE		FALSE		TRUE
+610	Hope	Female	1990-07-20	34	Standard	2	Mon, Thu	TRUE	Yoga, Kickboxen, Pilates	14:03:00	16:10:00	127	TRUE	passion_fruit	FALSE		TRUE
+611	Hunter	Female	1987-12-04	36	Premium	1	Fri	TRUE	Yoga, Pilates	14:49:00	16:32:00	103	TRUE	passion_fruit, berry_boost	TRUE	Chantal	FALSE
+612	Ida	Female	1979-05-08	45	Standard	3	Mon, Sun, Wed	FALSE		13:42:00	15:54:00	132	FALSE		FALSE		FALSE
+613	Gabe	Male	1981-07-25	43	Standard	5	Fri, Sat, Sun, Thu, Tue	TRUE	XCore, Yoga, BodyPump	17:32:00	18:16:00	44	FALSE		TRUE	Mike	TRUE
+614	Gabriel	Male	2008-08-09	16	Premium	3	Sat, Thu, Tue	FALSE		09:37:00	11:46:00	129	TRUE	coconut_pineapple	FALSE		TRUE
+615	Gage	Male	1985-06-28	39	Premium	3	Mon, Thu, Tue	FALSE		18:07:00	20:59:00	172	TRUE	orange, berry_boost	FALSE		FALSE
+616	Gale	Male	1987-09-01	37	Standard	2	Tue, Wed	FALSE		11:30:00	12:10:00	40	TRUE	berry_boost	FALSE		FALSE
+617	Galton	Male	2000-01-17	24	Standard	4	Fri, Sat, Sun, Tue	FALSE		15:28:00	16:34:00	66	FALSE		TRUE	Chantal	FALSE
+618	Garrett	Male	1986-10-27	37	Premium	3	Mon, Tue, Wed	FALSE		20:35:00	22:58:00	143	FALSE		TRUE	Jeffrey	FALSE
+619	Garth	Male	1976-01-20	48	Premium	3	Mon, Sun, Tue	FALSE		14:29:00	15:10:00	41	FALSE		TRUE	Jeffrey	FALSE
+620	Imelda	Female	2000-04-22	24	Standard	2	Thu, Wed	TRUE	Zumba	10:26:00	10:58:00	32	TRUE	passion_fruit	FALSE		FALSE
+621	Gary	Male	1983-10-10	41	Standard	1	Thu	FALSE		10:52:00	12:25:00	93	TRUE	lemon	FALSE		TRUE
+622	Imogen	Female	1976-04-24	48	Premium	3	Fri, Sat, Thu	TRUE	Kickboxen, BodyBalance	15:30:00	16:26:00	56	TRUE	coconut_pineapple, black_currant	TRUE	Hanna	FALSE
+623	Ingrid	Female	2011-03-26	13	Premium	2	Sat, Sun	TRUE	Yoga, HIT	08:25:00	09:16:00	51	TRUE	passion_fruit, lemon	TRUE	Jeffrey	FALSE
+624	Gavin	Male	1980-10-30	43	Premium	3	Fri, Thu, Tue	FALSE		08:39:00	09:46:00	67	FALSE		FALSE		FALSE
+625	Iona	Female	2002-10-07	22	Premium	4	Fri, Thu, Tue, Wed	FALSE		19:28:00	22:18:00	170	TRUE	berry_boost, coconut_pineapple	TRUE	Hanna	FALSE
+626	Gaylord	Male	2003-10-02	21	Standard	5	Fri, Mon, Sat, Sun, Wed	TRUE	LesMiles, Running	16:57:00	19:32:00	155	FALSE		FALSE		TRUE
+627	Irene	Female	1995-06-19	29	Premium	2	Sat, Tue	TRUE	Spinning, LesMiles	20:00:00	21:50:00	110	TRUE	black_currant	TRUE	Chantal	FALSE
+628	Geoffrey	Male	1985-02-07	39	Standard	2	Sat, Sun	FALSE		16:53:00	18:08:00	75	FALSE		TRUE	Mike	FALSE
+629	George	Male	2007-08-08	17	Standard	3	Sat, Thu, Tue	FALSE		11:02:00	12:24:00	82	FALSE		TRUE	Chantal	TRUE
+630	Gerald	Male	2003-07-25	21	Standard	5	Fri, Mon, Sat, Sun, Tue	FALSE		14:29:00	16:01:00	92	TRUE	orange, black_currant	TRUE	Chantal	TRUE
+631	Iris	Female	1996-03-05	28	Standard	3	Sat, Thu, Wed	FALSE		08:50:00	11:20:00	150	FALSE		TRUE	Hanna	FALSE
+632	Gerard	Male	1987-03-27	37	Premium	1	Sun	TRUE	Zumba, LesMiles	12:16:00	13:41:00	85	FALSE		FALSE		TRUE
+633	Irma	Female	1997-10-13	27	Premium	5	Fri, Mon, Sat, Tue, Wed	TRUE	Running	14:42:00	15:53:00	71	FALSE		FALSE		FALSE
+634	Isabel	Female	1999-12-22	24	Premium	1	Sat	FALSE		16:51:00	18:31:00	100	FALSE		TRUE	Mike	TRUE
+635	Isabella	Female	2005-12-03	18	Premium	1	Fri	FALSE		09:13:00	11:43:00	150	TRUE	lemon	TRUE	Hanna	TRUE
+636	Isla	Female	1998-01-07	26	Standard	3	Sun, Tue, Wed	TRUE	XCore, BodyPump	13:24:00	15:53:00	149	TRUE	passion_fruit, berry_boost	TRUE	Mike	FALSE
+637	Gideon	Male	2001-06-15	23	Standard	1	Tue	FALSE		10:01:00	12:28:00	147	FALSE		FALSE		FALSE
+638	Ivy	Female	2005-11-02	18	Premium	2	Mon, Sat	FALSE		19:45:00	22:44:00	179	FALSE		TRUE	Chantal	FALSE
+639	Jacinta	Female	1999-10-07	25	Premium	4	Fri, Thu, Tue, Wed	TRUE	Kickboxen, BodyPump, HIT	09:25:00	10:36:00	71	FALSE		FALSE		TRUE
+640	Jack	Female	2007-04-06	17	Premium	5	Mon, Sat, Sun, Tue, Wed	TRUE	BodyBalance, Kickboxen	10:00:00	11:55:00	115	TRUE	orange	FALSE		FALSE
+641	Jackie	Female	1999-08-17	25	Premium	1	Tue	FALSE		08:37:00	10:52:00	135	TRUE	lemon, passion_fruit	TRUE	Chantal	FALSE
+642	Jacqueline	Female	1976-11-06	47	Standard	2	Fri, Mon	TRUE	Yoga, Spinning, XCore	12:42:00	13:37:00	55	TRUE	berry_boost, orange	TRUE	Mike	TRUE
+643	Gilbert	Male	1999-07-25	25	Premium	2	Thu, Wed	TRUE	HIT, LesMiles	20:31:00	21:08:00	37	FALSE		TRUE	Jeffrey	TRUE
+644	Jacqui	Female	2010-07-16	14	Premium	5	Fri, Mon, Sat, Sun, Wed	TRUE	Running, LesMiles	12:54:00	15:10:00	136	TRUE	coconut_pineapple	TRUE	Chantal	TRUE
+645	Giles	Male	2010-10-02	14	Premium	3	Fri, Mon, Wed	TRUE	BodyBalance	17:23:00	18:22:00	59	TRUE	lemon	FALSE		TRUE
+646	Giovanni	Male	1975-08-16	49	Premium	3	Fri, Sun, Thu	FALSE		17:16:00	19:52:00	156	TRUE	passion_fruit	FALSE		FALSE
+647	Glen	Male	2000-07-26	24	Standard	2	Sun, Tue	TRUE	Yoga	18:58:00	19:40:00	42	TRUE	lemon, berry_boost	FALSE		TRUE
+648	Jade	Female	1998-09-22	26	Standard	1	Sat	TRUE	Kickboxen, BodyPump	12:44:00	13:40:00	56	FALSE		FALSE		FALSE
+649	Jaime	Female	2002-05-28	22	Standard	5	Fri, Mon, Sun, Tue, Wed	FALSE		13:50:00	15:37:00	107	FALSE		FALSE		FALSE
+650	Godfrey	Male	2012-09-15	12	Premium	3	Fri, Mon, Wed	TRUE	Kickboxen, HIT	14:54:00	16:52:00	118	FALSE		FALSE		FALSE
+651	Gorden	Male	2010-09-13	14	Premium	4	Mon, Sun, Thu, Wed	FALSE		20:36:00	22:20:00	104	TRUE	passion_fruit	FALSE		FALSE
+652	Gordon	Male	2006-08-22	18	Premium	3	Mon, Sat, Sun	FALSE		11:06:00	13:25:00	139	FALSE		FALSE		FALSE
+653	Graham	Male	1997-10-25	26	Standard	3	Mon, Sun, Thu	FALSE		13:11:00	14:21:00	70	FALSE		FALSE		FALSE
+654	Grant	Male	1978-01-01	46	Premium	1	Sun	FALSE		14:38:00	17:21:00	163	TRUE	orange, passion_fruit	FALSE		TRUE
+655	Grayson	Male	1996-07-22	28	Standard	2	Fri, Mon	FALSE		09:20:00	11:57:00	157	FALSE		TRUE	Jeffrey	TRUE
+656	Greg	Male	2011-09-24	13	Standard	5	Fri, Mon, Sat, Sun, Thu	TRUE	Yoga, BodyBalance, HIT	17:13:00	19:00:00	107	FALSE		FALSE		FALSE
+657	Gregory	Male	1984-06-15	40	Premium	2	Mon, Sat	TRUE	BodyPump, Pilates	14:58:00	16:42:00	104	FALSE		FALSE		TRUE
+658	Griffin	Male	1999-01-01	25	Standard	4	Fri, Mon, Tue, Wed	FALSE		19:23:00	20:48:00	85	FALSE		FALSE		TRUE
+659	Jamie	Female	2006-10-15	17	Standard	3	Fri, Sat, Sun	FALSE		18:02:00	19:49:00	107	FALSE		FALSE		TRUE
+660	Grover	Male	1977-06-17	47	Premium	2	Fri, Sun	FALSE		09:58:00	12:31:00	153	FALSE		FALSE		TRUE
+661	Gulliver	Male	2009-12-05	14	Standard	3	Sat, Sun, Thu	TRUE	XCore, Pilates, LesMiles	17:02:00	17:32:00	30	FALSE		FALSE		FALSE
+662	Gunnar	Male	1985-12-07	38	Premium	2	Mon, Wed	TRUE	Kickboxen, XCore	11:41:00	12:14:00	33	TRUE	lemon, coconut_pineapple	TRUE	Hanna	FALSE
+663	Jan	Female	1992-10-12	32	Standard	3	Sat, Sun, Thu	FALSE		14:01:00	16:17:00	136	FALSE		FALSE		FALSE
+664	Jana	Female	2011-03-27	13	Standard	1	Thu	FALSE		10:20:00	10:57:00	37	TRUE	coconut_pineapple	FALSE		TRUE
+665	Jane	Female	1982-11-23	41	Standard	1	Fri	TRUE	BodyPump	11:45:00	12:38:00	53	TRUE	coconut_pineapple, black_currant	TRUE	Chantal	FALSE
+666	Janee	Female	2005-02-18	19	Premium	2	Mon, Wed	TRUE	Pilates	10:42:00	13:29:00	167	FALSE		TRUE	Mike	FALSE
+667	Gunner	Male	1976-03-12	48	Premium	2	Fri, Tue	TRUE	Spinning, Pilates	11:46:00	13:17:00	91	TRUE	black_currant, coconut_pineapple	FALSE		TRUE
+668	Janelle	Female	1988-11-30	35	Standard	3	Fri, Mon, Sun	TRUE	Pilates	15:00:00	17:29:00	149	TRUE	berry_boost	FALSE		TRUE
+669	Janet	Female	1985-04-07	39	Standard	5	Mon, Sun, Thu, Tue, Wed	TRUE	HIT	19:04:00	20:02:00	58	TRUE	lemon	FALSE		TRUE
+670	Janey	Female	2001-01-16	23	Premium	4	Fri, Sat, Sun, Tue	TRUE	Spinning, BodyBalance, Zumba	09:17:00	09:49:00	32	FALSE		FALSE		FALSE
+671	Gus	Male	1985-06-11	39	Premium	3	Sun, Thu, Wed	FALSE		12:36:00	14:19:00	103	FALSE		TRUE	Chantal	FALSE
+672	Guy	Male	1977-01-08	47	Standard	2	Sun, Wed	TRUE	LesMiles	08:13:00	10:18:00	125	FALSE		TRUE	Jeffrey	TRUE
+673	Janie	Female	2009-11-17	14	Premium	5	Sat, Sun, Thu, Tue, Wed	TRUE	Yoga, BodyBalance, Zumba	10:49:00	12:40:00	111	TRUE	lemon	FALSE		FALSE
+674	Hal	Male	2010-04-14	14	Standard	5	Sat, Sun, Thu, Tue, Wed	TRUE	HIT, BodyPump, BodyBalance	20:16:00	22:33:00	137	FALSE		FALSE		TRUE
+675	January	Female	1983-02-26	41	Standard	1	Sun	FALSE		11:52:00	12:53:00	61	FALSE		FALSE		FALSE
+676	Jasmine	Female	1980-06-13	44	Standard	1	Wed	TRUE	Yoga, BodyPump, BodyBalance	08:17:00	09:23:00	66	TRUE	berry_boost, orange	TRUE	Jeffrey	FALSE
+677	Jay	Female	2000-05-16	24	Premium	5	Fri, Sat, Sun, Thu, Wed	TRUE	BodyPump, Kickboxen	09:06:00	10:19:00	73	TRUE	passion_fruit, orange	FALSE		TRUE
+678	Jayda	Female	1984-11-21	39	Standard	4	Sat, Sun, Tue, Wed	FALSE		13:57:00	15:41:00	104	TRUE	passion_fruit	TRUE	Hanna	TRUE
+679	Hale	Male	1987-01-11	37	Premium	1	Wed	TRUE	LesMiles	09:10:00	10:30:00	80	TRUE	orange, black_currant	FALSE		FALSE
+680	Hank	Male	1999-08-20	25	Standard	3	Thu, Tue, Wed	TRUE	Pilates, HIT, LesMiles	16:33:00	18:16:00	103	FALSE		TRUE	Jeffrey	FALSE
+681	Jayden	Female	1986-11-21	37	Premium	1	Sat	FALSE		09:11:00	11:33:00	142	TRUE	black_currant	TRUE	Mike	FALSE
+682	Hannibal	Male	1989-10-27	34	Premium	3	Fri, Sun, Tue	FALSE		10:54:00	12:49:00	115	TRUE	passion_fruit	TRUE	Hanna	TRUE
+683	Harold	Male	1975-06-05	49	Standard	1	Tue	TRUE	HIT, Running, Kickboxen	20:23:00	21:08:00	45	TRUE	orange	FALSE		TRUE
+684	Jayne	Female	2005-12-25	18	Standard	1	Wed	TRUE	Kickboxen	17:51:00	20:09:00	138	TRUE	coconut_pineapple, berry_boost	FALSE		TRUE
+685	Harris	Male	1981-08-15	43	Standard	2	Tue, Wed	FALSE		18:35:00	21:16:00	161	FALSE		TRUE	Chantal	TRUE
+686	Jaynie	Female	1994-05-04	30	Premium	3	Sat, Thu, Wed	FALSE		10:16:00	11:47:00	91	TRUE	orange	FALSE		TRUE
+687	Harrison	Male	1995-02-23	29	Standard	3	Mon, Sat, Sun	TRUE	Kickboxen, Running, LesMiles	09:13:00	11:27:00	134	FALSE		FALSE		TRUE
+688	Harry	Male	2011-08-05	13	Premium	3	Mon, Thu, Tue	FALSE		20:25:00	22:44:00	139	FALSE		TRUE	Chantal	FALSE
+689	Jean	Female	2011-05-02	13	Standard	5	Fri, Sun, Thu, Tue, Wed	FALSE		09:47:00	12:16:00	149	FALSE		TRUE	Jeffrey	FALSE
+690	Harvey	Male	1979-08-28	45	Premium	3	Mon, Sat, Tue	FALSE		13:10:00	15:15:00	125	TRUE	passion_fruit	FALSE		TRUE
+691	Harwood	Male	1996-05-06	28	Premium	3	Sun, Thu, Tue	FALSE		10:17:00	11:47:00	90	FALSE		TRUE	Hanna	FALSE
+692	Jeanie	Female	2007-11-30	16	Premium	4	Mon, Sun, Thu, Tue	TRUE	BodyPump	16:21:00	17:38:00	77	FALSE		TRUE	Hanna	FALSE
+693	Jeannie	Female	1987-12-14	36	Standard	4	Sat, Thu, Tue, Wed	FALSE		17:34:00	18:06:00	32	TRUE	passion_fruit, coconut_pineapple	TRUE	Jeffrey	FALSE
+694	Jemima	Female	2005-01-29	19	Standard	2	Thu, Tue	FALSE		16:40:00	17:37:00	57	FALSE		TRUE	Mike	TRUE
+695	Jemma	Female	1997-07-24	27	Standard	1	Mon	FALSE		12:30:00	13:08:00	38	TRUE	black_currant, lemon	FALSE		FALSE
+696	Jenna	Female	2000-08-02	24	Standard	4	Mon, Sat, Sun, Thu	TRUE	BodyPump, LesMiles, HIT	11:43:00	12:27:00	44	TRUE	black_currant	FALSE		FALSE
+697	Hayden	Male	2002-03-11	22	Standard	5	Fri, Sat, Sun, Tue, Wed	TRUE	BodyBalance	10:31:00	11:48:00	77	TRUE	black_currant	TRUE	Mike	FALSE
+698	Hector	Male	1975-03-21	49	Standard	3	Fri, Mon, Tue	FALSE		14:52:00	15:25:00	33	TRUE	passion_fruit, black_currant	TRUE	Chantal	FALSE
+699	Hedworth	Male	2009-05-06	15	Premium	3	Fri, Sat, Sun	TRUE	Yoga, Pilates, HIT	18:06:00	20:42:00	156	FALSE		TRUE	Jeffrey	TRUE
+700	Jennifer	Female	1988-12-13	35	Premium	3	Sat, Tue, Wed	FALSE		16:35:00	17:35:00	60	TRUE	berry_boost	FALSE		FALSE
+701	Jenny	Female	2000-10-14	24	Standard	5	Mon, Sat, Sun, Thu, Tue	TRUE	Yoga, BodyBalance, Running	11:19:00	12:28:00	69	FALSE		FALSE		TRUE
+702	Henry	Male	1983-09-05	41	Standard	5	Fri, Sat, Sun, Tue, Wed	FALSE		10:22:00	11:55:00	93	TRUE	coconut_pineapple, orange	FALSE		TRUE
+703	Herbert	Male	1988-06-18	36	Premium	3	Sat, Sun, Tue	TRUE	Pilates, BodyPump, Yoga	16:01:00	17:40:00	99	TRUE	black_currant	TRUE	Mike	TRUE
+704	Herman	Male	1989-02-16	35	Premium	2	Sat, Wed	TRUE	XCore, Yoga, Pilates	20:14:00	22:30:00	136	TRUE	passion_fruit	TRUE	Jeffrey	TRUE
+705	Herschel	Male	1991-11-30	32	Standard	3	Mon, Sat, Wed	TRUE	HIT, Yoga, Kickboxen	17:29:00	18:47:00	78	TRUE	passion_fruit, coconut_pineapple	FALSE		TRUE
+706	Jerri	Female	1985-06-13	39	Standard	3	Fri, Sun, Thu	FALSE		11:05:00	11:42:00	37	TRUE	orange	TRUE	Hanna	FALSE
+707	Hervey	Male	1996-06-16	28	Premium	5	Mon, Sat, Sun, Thu, Wed	TRUE	XCore, Running	13:31:00	15:39:00	128	FALSE		TRUE	Chantal	TRUE
+708	Heywood	Male	2001-06-12	23	Premium	2	Mon, Wed	TRUE	Pilates, Spinning, Running	18:01:00	19:30:00	89	FALSE		TRUE	Hanna	TRUE
+709	Hilary	Male	1983-11-25	40	Standard	3	Fri, Sun, Wed	TRUE	HIT, Spinning, XCore	17:58:00	20:33:00	155	TRUE	coconut_pineapple, orange	FALSE		TRUE
+710	Jerry	Female	2005-08-19	19	Premium	5	Fri, Mon, Sat, Thu, Wed	TRUE	BodyBalance, XCore	10:54:00	13:17:00	143	TRUE	orange, berry_boost	TRUE	Mike	FALSE
+711	Jess	Female	1983-03-20	41	Standard	2	Sat, Sun	TRUE	Zumba, XCore	09:57:00	11:42:00	105	TRUE	coconut_pineapple, lemon	FALSE		FALSE
+712	Holbrook	Male	1999-12-08	24	Standard	4	Fri, Sat, Sun, Wed	TRUE	XCore, HIT	13:12:00	14:49:00	97	FALSE		TRUE	Hanna	FALSE
+713	Holden	Male	1986-11-06	37	Standard	3	Sun, Thu, Wed	TRUE	BodyPump, HIT	10:37:00	12:40:00	123	FALSE		TRUE	Chantal	FALSE
+714	Jessica	Female	1981-08-19	43	Standard	1	Wed	TRUE	Kickboxen, LesMiles, Running	10:50:00	13:11:00	141	FALSE		FALSE		TRUE
+715	Homer	Male	1981-06-06	43	Premium	3	Fri, Sun, Tue	FALSE		12:02:00	14:07:00	125	TRUE	black_currant	TRUE	Mike	TRUE
+716	Jessie	Female	1995-08-02	29	Standard	4	Fri, Mon, Sun, Thu	TRUE	Spinning, Pilates, BodyPump	18:15:00	18:54:00	39	FALSE		TRUE	Mike	TRUE
+717	Hope	Male	1980-02-07	44	Premium	4	Sat, Thu, Tue, Wed	FALSE		11:10:00	11:44:00	34	FALSE		FALSE		TRUE
+718	Horace	Male	1996-11-28	27	Standard	2	Mon, Thu	TRUE	XCore	20:32:00	22:20:00	108	TRUE	passion_fruit, orange	FALSE		FALSE
+719	Horatio	Male	1990-01-20	34	Standard	5	Fri, Mon, Sun, Thu, Tue	FALSE		08:33:00	10:29:00	116	FALSE		FALSE		FALSE
+720	Howard	Male	2006-02-17	18	Standard	4	Mon, Sun, Thu, Tue	TRUE	Yoga, Zumba, Pilates	19:42:00	20:57:00	75	FALSE		FALSE		FALSE
+721	Hubert	Male	1994-07-29	30	Premium	2	Sat, Wed	FALSE		08:38:00	10:58:00	140	TRUE	coconut_pineapple	TRUE	Chantal	FALSE
+722	Hudson	Male	2005-06-12	19	Standard	1	Sun	FALSE		11:29:00	14:26:00	177	TRUE	orange, coconut_pineapple	TRUE	Jeffrey	FALSE
+723	Hugh	Male	1997-09-03	27	Premium	1	Mon	TRUE	BodyPump	18:22:00	21:20:00	178	TRUE	berry_boost, lemon	FALSE		TRUE
+724	Hugo	Male	1977-07-15	47	Premium	2	Mon, Tue	TRUE	HIT, Pilates	19:06:00	19:43:00	37	FALSE		TRUE	Chantal	TRUE
+725	Jill	Female	1982-10-12	42	Premium	2	Thu, Tue	FALSE		19:18:00	21:39:00	141	FALSE		TRUE	Hanna	TRUE
+726	Humphrey	Male	1990-06-17	34	Premium	3	Mon, Sun, Tue	FALSE		10:54:00	11:32:00	38	FALSE		FALSE		FALSE
+727	Hunter	Male	1985-06-06	39	Premium	4	Fri, Sat, Sun, Wed	TRUE	Running, Yoga, Zumba	11:51:00	12:22:00	31	FALSE		FALSE		TRUE
+728	Joan	Female	2001-03-17	23	Premium	5	Mon, Sun, Thu, Tue, Wed	TRUE	Zumba, BodyPump	20:57:00	23:35:00	158	FALSE		FALSE		TRUE
+729	Ian	Male	1983-11-01	40	Standard	3	Mon, Thu, Tue	FALSE		19:38:00	21:10:00	92	TRUE	black_currant	TRUE	Chantal	TRUE
+730	Iggy	Male	1985-07-10	39	Premium	5	Mon, Sun, Thu, Tue, Wed	FALSE		15:28:00	16:30:00	62	FALSE		TRUE	Chantal	TRUE
+731	Joanna	Female	2008-05-24	16	Premium	2	Fri, Wed	TRUE	XCore, LesMiles	09:10:00	11:59:00	169	TRUE	passion_fruit	TRUE	Hanna	FALSE
+732	Joanne	Female	1991-06-20	33	Premium	4	Fri, Sat, Thu, Wed	FALSE		13:30:00	14:17:00	47	TRUE	orange, coconut_pineapple	TRUE	Hanna	TRUE
+733	Ike	Male	1977-01-24	47	Standard	1	Tue	TRUE	BodyPump, Running	18:15:00	19:59:00	104	TRUE	coconut_pineapple	FALSE		TRUE
+734	Increase	Male	1999-12-08	24	Premium	3	Mon, Thu, Wed	FALSE		09:13:00	11:37:00	144	FALSE		FALSE		FALSE
+735	Jodi	Female	1991-02-05	33	Standard	2	Fri, Tue	TRUE	HIT	09:24:00	12:24:00	180	FALSE		TRUE	Jeffrey	FALSE
+736	Ingram	Male	1982-12-16	41	Premium	2	Mon, Thu	TRUE	Zumba, BodyPump, HIT	20:54:00	23:49:00	175	FALSE		TRUE	Chantal	TRUE
+737	Isaac	Male	1988-03-16	36	Premium	1	Mon	FALSE		08:43:00	10:21:00	98	TRUE	black_currant, berry_boost	FALSE		FALSE
+738	Jodie	Female	1976-09-28	48	Standard	5	Mon, Sat, Thu, Tue, Wed	TRUE	Yoga	11:21:00	13:42:00	141	TRUE	coconut_pineapple	TRUE	Jeffrey	TRUE
+739	Jody	Female	2003-11-09	20	Premium	3	Fri, Thu, Wed	FALSE		15:28:00	17:58:00	150	TRUE	orange	FALSE		TRUE
+740	Joelle	Female	2005-06-25	19	Premium	4	Fri, Sat, Sun, Thu	FALSE		11:16:00	12:38:00	82	FALSE		FALSE		TRUE
+741	Isaiah	Male	2009-04-06	15	Standard	2	Mon, Sun	TRUE	Pilates	20:07:00	21:39:00	92	TRUE	coconut_pineapple, orange	FALSE		FALSE
+742	Isidore	Male	1997-08-27	27	Standard	1	Sun	FALSE		18:02:00	19:46:00	104	TRUE	coconut_pineapple, black_currant	FALSE		FALSE
+743	Israel	Male	1992-12-08	31	Standard	2	Sun, Thu	TRUE	LesMiles	20:28:00	21:26:00	58	FALSE		TRUE	Mike	FALSE
+744	Ivor	Male	2004-10-02	20	Premium	3	Mon, Thu, Wed	TRUE	Yoga, Pilates	10:42:00	13:13:00	151	TRUE	orange	TRUE	Mike	FALSE
+745	Joey	Female	2011-05-01	13	Standard	3	Fri, Sat, Wed	TRUE	BodyBalance, LesMiles, Pilates	13:37:00	14:09:00	32	TRUE	passion_fruit	FALSE		FALSE
+746	Ivy	Male	2007-08-01	17	Premium	2	Sat, Tue	TRUE	Pilates, BodyPump	10:09:00	11:05:00	56	FALSE		FALSE		TRUE
+747	Jace	Male	1980-10-25	43	Standard	2	Fri, Wed	FALSE		13:10:00	14:25:00	75	FALSE		TRUE	Mike	TRUE
+748	Jack	Male	1981-09-01	43	Premium	1	Sat	FALSE		19:43:00	20:24:00	41	FALSE		TRUE	Mike	TRUE
+749	Johnny	Female	2012-07-21	12	Premium	2	Sun, Thu	TRUE	HIT, Kickboxen, BodyBalance	10:42:00	12:12:00	90	FALSE		FALSE		FALSE
+750	Jolie	Female	1975-04-26	49	Standard	5	Fri, Mon, Sun, Tue, Wed	TRUE	BodyBalance, BodyPump, Running	10:28:00	11:19:00	51	FALSE		FALSE		FALSE
+751	Jordan	Female	1991-07-02	33	Standard	3	Fri, Mon, Wed	TRUE	Spinning, Kickboxen, Zumba	13:11:00	15:56:00	165	TRUE	lemon	FALSE		FALSE
+752	Josephine	Female	1994-08-05	30	Standard	3	Fri, Thu, Tue	FALSE		08:05:00	09:06:00	61	TRUE	coconut_pineapple	TRUE	Jeffrey	FALSE
+753	Josie	Female	1995-10-30	28	Premium	3	Fri, Mon, Thu	FALSE		10:11:00	12:26:00	135	TRUE	berry_boost, orange	FALSE		TRUE
+754	Joy	Female	1990-12-09	33	Standard	3	Fri, Sat, Sun	FALSE		15:13:00	16:46:00	93	FALSE		TRUE	Chantal	TRUE
+755	Joyce	Female	2008-05-08	16	Standard	3	Sat, Tue, Wed	FALSE		18:39:00	20:54:00	135	FALSE		FALSE		FALSE
+756	Jackie	Male	1983-05-09	41	Premium	1	Wed	TRUE	BodyBalance	19:23:00	20:27:00	64	FALSE		FALSE		FALSE
+757	Jackson	Male	2003-12-30	20	Premium	1	Sun	FALSE		11:23:00	14:01:00	158	TRUE	coconut_pineapple	FALSE		TRUE
+758	Judith	Female	1997-11-05	26	Standard	5	Sat, Sun, Thu, Tue, Wed	FALSE		15:16:00	17:20:00	124	FALSE		TRUE	Jeffrey	FALSE
+759	Jacob	Male	2005-08-10	19	Standard	3	Sat, Thu, Tue	TRUE	Kickboxen, Zumba, LesMiles	13:19:00	14:44:00	85	TRUE	lemon	FALSE		FALSE
+760	Jaden	Male	1981-05-15	43	Premium	5	Fri, Mon, Sat, Thu, Wed	TRUE	XCore, Spinning, BodyPump	09:29:00	12:05:00	156	FALSE		TRUE	Chantal	TRUE
+761	Jaime	Male	1983-08-20	41	Standard	1	Sun	TRUE	Yoga	13:41:00	16:17:00	156	TRUE	passion_fruit	TRUE	Mike	FALSE
+762	Julia	Female	2001-12-23	22	Standard	2	Mon, Wed	TRUE	LesMiles	12:13:00	14:08:00	115	TRUE	berry_boost	FALSE		FALSE
+763	Julianne	Female	1978-11-22	45	Premium	3	Fri, Mon, Wed	TRUE	LesMiles, Kickboxen	15:39:00	17:34:00	115	TRUE	coconut_pineapple, orange	TRUE	Mike	TRUE
+764	Jake	Male	2009-10-22	14	Premium	5	Fri, Mon, Sat, Sun, Tue	TRUE	XCore, Kickboxen, Yoga	08:10:00	10:28:00	138	TRUE	berry_boost, coconut_pineapple	FALSE		FALSE
+765	James	Male	1997-11-09	26	Standard	1	Thu	FALSE		14:21:00	17:17:00	176	TRUE	orange	FALSE		FALSE
+766	Julie	Female	1978-03-17	46	Premium	1	Thu	TRUE	Kickboxen, Running	14:44:00	16:58:00	134	FALSE		TRUE	Chantal	FALSE
+767	Jameson	Male	1989-07-13	35	Premium	5	Sat, Sun, Thu, Tue, Wed	FALSE		13:07:00	14:57:00	110	TRUE	coconut_pineapple, berry_boost	TRUE	Chantal	FALSE
+768	Jamie	Male	2005-12-03	18	Standard	2	Sun, Wed	FALSE		14:16:00	16:57:00	161	TRUE	orange, coconut_pineapple	TRUE	Jeffrey	FALSE
+769	Juliet	Female	1995-07-31	29	Standard	4	Fri, Sun, Thu, Wed	TRUE	HIT, LesMiles	13:25:00	16:19:00	174	TRUE	lemon	FALSE		TRUE
+770	Jared	Male	1997-09-01	27	Premium	2	Fri, Sun	FALSE		17:22:00	18:50:00	88	TRUE	coconut_pineapple, orange	TRUE	Chantal	FALSE
+771	June	Female	1988-06-27	36	Premium	1	Wed	FALSE		20:00:00	21:49:00	109	FALSE		TRUE	Mike	TRUE
+772	Juniper	Female	1995-01-30	29	Standard	2	Fri, Tue	FALSE		20:52:00	22:40:00	108	FALSE		TRUE	Chantal	FALSE
+773	Jarrod	Male	1988-06-26	36	Standard	3	Fri, Sun, Wed	TRUE	Spinning	18:25:00	20:10:00	105	TRUE	passion_fruit	TRUE	Chantal	FALSE
+774	Jason	Male	1988-04-18	36	Premium	4	Mon, Sun, Thu, Wed	FALSE		12:32:00	13:02:00	30	FALSE		FALSE		FALSE
+775	Juno	Female	2012-03-09	12	Premium	5	Fri, Mon, Sun, Thu, Tue	TRUE	LesMiles	09:35:00	11:45:00	130	TRUE	black_currant	FALSE		FALSE
+776	Jasper	Male	1990-07-20	34	Premium	2	Mon, Sat	FALSE		18:44:00	19:47:00	63	TRUE	coconut_pineapple	FALSE		TRUE
+777	Justine	Female	1980-04-18	44	Premium	2	Mon, Sun	FALSE		14:58:00	17:38:00	160	TRUE	lemon, orange	TRUE	Hanna	TRUE
+778	Jaxon	Male	1978-05-27	46	Premium	3	Mon, Thu, Tue	TRUE	Pilates	20:17:00	21:11:00	54	FALSE		FALSE		TRUE
+779	Kailey	Female	1987-09-14	37	Standard	1	Sat	TRUE	HIT	08:37:00	10:12:00	95	TRUE	orange, passion_fruit	TRUE	Mike	FALSE
+780	Kalla	Female	2000-01-21	24	Premium	3	Mon, Sat, Sun	FALSE		13:20:00	14:54:00	94	FALSE		FALSE		TRUE
+781	Jay	Male	1978-02-28	46	Premium	4	Mon, Sat, Thu, Wed	TRUE	Pilates, LesMiles	16:32:00	18:14:00	102	TRUE	lemon, orange	TRUE	Hanna	TRUE
+782	Kara	Female	2004-01-12	20	Premium	2	Sun, Tue	FALSE		14:03:00	16:48:00	165	TRUE	orange	TRUE	Hanna	TRUE
+783	Jayce	Male	1991-12-16	32	Standard	3	Fri, Sun, Tue	TRUE	XCore, Spinning	12:16:00	13:03:00	47	FALSE		TRUE	Mike	FALSE
+784	Karen	Female	1997-11-22	26	Standard	3	Thu, Tue, Wed	FALSE		09:38:00	10:45:00	67	FALSE		TRUE	Hanna	TRUE
+785	Karin	Female	1985-10-16	38	Standard	1	Fri	TRUE	BodyPump	18:29:00	20:58:00	149	FALSE		FALSE		TRUE
+786	Karlee	Female	1979-09-19	45	Premium	4	Fri, Thu, Tue, Wed	FALSE		19:32:00	20:18:00	46	TRUE	orange, coconut_pineapple	FALSE		FALSE
+787	Karlene	Female	2003-11-17	20	Standard	1	Fri	FALSE		11:35:00	13:30:00	115	FALSE		FALSE		TRUE
+788	Jayden	Male	1976-04-13	48	Standard	3	Mon, Sat, Tue	FALSE		19:44:00	20:51:00	67	TRUE	coconut_pineapple	FALSE		FALSE
+789	Karli	Female	1982-11-16	41	Premium	4	Fri, Mon, Thu, Wed	FALSE		17:08:00	18:16:00	68	TRUE	coconut_pineapple, black_currant	TRUE	Jeffrey	FALSE
+790	Jaylon	Male	1999-12-27	24	Standard	2	Sun, Thu	FALSE		13:22:00	14:37:00	75	TRUE	berry_boost, black_currant	TRUE	Jeffrey	FALSE
+791	Karlie	Female	1977-06-26	47	Standard	3	Sat, Thu, Tue	FALSE		16:49:00	19:46:00	177	TRUE	berry_boost, orange	FALSE		FALSE
+792	Karly	Female	1982-05-14	42	Premium	3	Mon, Sun, Thu	TRUE	HIT, Spinning	11:44:00	13:19:00	95	FALSE		TRUE	Chantal	TRUE
+793	Jayson	Male	1990-10-16	33	Standard	1	Fri	TRUE	Running, Pilates, XCore	16:06:00	17:02:00	56	FALSE		FALSE		FALSE
+794	Karolyn	Female	2000-04-19	24	Standard	4	Mon, Sat, Sun, Thu	FALSE		17:17:00	20:05:00	168	TRUE	black_currant, coconut_pineapple	FALSE		FALSE
+795	Jeb	Male	1995-02-18	29	Standard	1	Tue	TRUE	LesMiles, Running, Zumba	12:59:00	14:02:00	63	FALSE		TRUE	Mike	TRUE
+796	Karrie	Female	1994-10-06	30	Standard	4	Fri, Mon, Sat, Wed	TRUE	HIT	09:21:00	11:31:00	130	TRUE	berry_boost, black_currant	TRUE	Jeffrey	TRUE
+797	Jedediah	Male	1978-01-21	46	Standard	5	Fri, Mon, Sat, Tue, Wed	TRUE	Spinning, Yoga	09:41:00	12:38:00	177	TRUE	orange	TRUE	Chantal	TRUE
+798	Jeff	Male	1988-03-02	36	Standard	1	Tue	TRUE	BodyBalance	20:44:00	22:22:00	98	TRUE	black_currant	TRUE	Chantal	TRUE
+799	Karyn	Female	1995-08-12	29	Standard	4	Mon, Sat, Tue, Wed	TRUE	Running, Spinning	09:11:00	10:48:00	97	FALSE		FALSE		TRUE
+800	Karyne	Female	1990-08-27	34	Premium	3	Fri, Sun, Wed	FALSE		09:21:00	11:11:00	110	TRUE	lemon	FALSE		FALSE
+801	Kasey	Female	1977-07-23	47	Standard	2	Fri, Tue	TRUE	LesMiles, Yoga	19:19:00	20:50:00	91	FALSE		FALSE		FALSE
+802	Kate	Female	1997-11-10	26	Premium	2	Sun, Thu	TRUE	Spinning	08:00:00	09:42:00	102	FALSE		TRUE	Hanna	TRUE
+803	Katey	Female	1983-07-06	41	Standard	3	Fri, Mon, Wed	FALSE		09:26:00	10:35:00	69	TRUE	passion_fruit	FALSE		TRUE
+804	Jefferson	Male	2006-05-20	18	Premium	4	Mon, Sat, Thu, Wed	FALSE		08:59:00	10:43:00	104	FALSE		TRUE	Mike	FALSE
+805	Kathleen	Female	1976-06-04	48	Premium	2	Mon, Thu	TRUE	BodyPump, XCore, Zumba	08:15:00	10:01:00	106	TRUE	lemon	TRUE	Jeffrey	TRUE
+806	Kathryn	Female	1999-07-20	25	Premium	5	Fri, Sat, Sun, Thu, Tue	FALSE		16:13:00	18:45:00	152	FALSE		FALSE		FALSE
+807	Kathy	Female	1984-04-10	40	Premium	4	Sat, Sun, Thu, Tue	TRUE	Yoga	19:35:00	21:08:00	93	FALSE		FALSE		FALSE
+808	Katie	Female	1997-05-05	27	Premium	4	Mon, Sun, Thu, Wed	FALSE		16:32:00	18:42:00	130	TRUE	orange	TRUE	Hanna	FALSE
+809	Katrina	Female	1989-11-20	34	Premium	2	Fri, Sun	FALSE		13:25:00	16:17:00	172	TRUE	berry_boost	FALSE		FALSE
+810	Jeffery	Male	1994-09-24	30	Premium	2	Sun, Wed	TRUE	BodyBalance, Yoga, Running	14:19:00	16:18:00	119	TRUE	orange, berry_boost	TRUE	Chantal	FALSE
+811	Jeffrey	Male	1994-03-19	30	Premium	2	Sat, Thu	FALSE		11:18:00	13:15:00	117	FALSE		TRUE	Jeffrey	FALSE
+812	Jemmy	Male	2005-06-15	19	Premium	1	Wed	TRUE	LesMiles	14:30:00	17:29:00	179	FALSE		TRUE	Hanna	TRUE
+813	Jeremiah	Male	1975-06-22	49	Standard	5	Mon, Sat, Sun, Thu, Tue	FALSE		14:07:00	15:03:00	56	TRUE	berry_boost, orange	FALSE		FALSE
+814	Katy	Female	1996-12-13	27	Standard	1	Sun	TRUE	Spinning	15:34:00	17:58:00	144	TRUE	berry_boost	TRUE	Chantal	TRUE
+815	Kay	Female	1986-08-06	38	Premium	1	Tue	FALSE		14:12:00	14:59:00	47	FALSE		FALSE		FALSE
+816	Jeremy	Male	1977-05-28	47	Standard	2	Sat, Thu	FALSE		12:18:00	13:33:00	75	TRUE	orange	TRUE	Mike	FALSE
+817	Kayla	Female	1985-08-31	39	Standard	3	Sat, Sun, Tue	FALSE		17:06:00	18:10:00	64	TRUE	coconut_pineapple	TRUE	Jeffrey	FALSE
+818	Jermaine	Male	2006-12-16	17	Standard	3	Fri, Mon, Tue	TRUE	Pilates, Running, BodyPump	11:51:00	14:30:00	159	FALSE		FALSE		TRUE
+819	Kaylee	Female	2003-11-14	20	Standard	3	Fri, Thu, Tue	FALSE		08:23:00	11:22:00	179	FALSE		FALSE		FALSE
+820	Kelly	Female	2009-07-13	15	Standard	3	Fri, Sun, Thu	FALSE		14:33:00	16:48:00	135	FALSE		FALSE		TRUE
+821	Kelsey	Female	1986-08-18	38	Premium	3	Sat, Sun, Wed	TRUE	XCore	13:20:00	14:42:00	82	FALSE		FALSE		FALSE
+822	Jerome	Male	1975-10-11	49	Premium	3	Mon, Sat, Sun	FALSE		19:44:00	20:26:00	42	TRUE	orange, black_currant	TRUE	Chantal	TRUE
+823	Kierra	Female	1995-10-19	28	Standard	4	Fri, Sat, Sun, Wed	FALSE		16:33:00	17:11:00	38	FALSE		FALSE		TRUE
+824	Kim	Female	1986-07-21	38	Standard	5	Fri, Sat, Sun, Thu, Tue	FALSE		17:59:00	20:54:00	175	TRUE	passion_fruit	FALSE		TRUE
+825	Jerry	Male	1975-07-30	49	Premium	3	Sat, Sun, Tue	TRUE	Zumba, BodyPump	10:53:00	13:29:00	156	FALSE		TRUE	Mike	FALSE
+826	Kimberly	Female	1992-02-26	32	Standard	1	Sat	FALSE		17:58:00	19:58:00	120	TRUE	lemon	FALSE		TRUE
+827	Jess	Male	2006-02-28	18	Standard	3	Mon, Thu, Wed	TRUE	Running	14:33:00	15:35:00	62	FALSE		FALSE		FALSE
+828	Kira	Female	2006-03-31	18	Premium	2	Sat, Tue	TRUE	Yoga, Spinning	15:53:00	16:42:00	49	FALSE		TRUE	Hanna	FALSE
+829	Jesse	Male	1984-06-21	40	Premium	2	Sat, Wed	TRUE	Kickboxen, BodyPump	09:40:00	10:18:00	38	FALSE		TRUE	Hanna	TRUE
+830	Jet	Male	1982-03-30	42	Premium	5	Mon, Sat, Sun, Thu, Wed	TRUE	LesMiles, XCore, BodyPump	12:05:00	14:14:00	129	TRUE	berry_boost, passion_fruit	TRUE	Mike	FALSE
+831	Jethro	Male	1996-09-27	28	Standard	4	Fri, Sat, Thu, Wed	FALSE		09:35:00	11:56:00	141	TRUE	berry_boost	TRUE	Mike	TRUE
+832	Kirsteen	Female	2008-07-27	16	Premium	1	Wed	FALSE		08:41:00	11:33:00	172	FALSE		FALSE		TRUE
+833	Kirstin	Female	1999-11-22	24	Standard	2	Sun, Tue	TRUE	BodyBalance, Pilates	17:44:00	20:02:00	138	FALSE		TRUE	Hanna	TRUE
+834	Jim	Male	2010-03-28	14	Standard	3	Sat, Sun, Wed	FALSE		19:16:00	22:13:00	177	TRUE	passion_fruit	TRUE	Hanna	FALSE
+835	Kitty	Female	2003-11-08	20	Premium	3	Fri, Thu, Tue	FALSE		15:37:00	18:07:00	150	FALSE		TRUE	Hanna	FALSE
+836	Krista	Female	1983-09-20	41	Standard	1	Fri	TRUE	HIT, LesMiles	09:46:00	11:10:00	84	TRUE	black_currant	TRUE	Chantal	FALSE
+837	Jimmy	Male	2000-12-24	23	Premium	2	Fri, Tue	FALSE		19:11:00	20:19:00	68	TRUE	coconut_pineapple, lemon	TRUE	Chantal	TRUE
+838	Job	Male	1975-07-29	49	Standard	3	Fri, Sat, Thu	TRUE	Zumba, Running	20:40:00	21:24:00	44	FALSE		TRUE	Mike	FALSE
+839	Kristen	Female	1978-12-24	45	Standard	2	Thu, Wed	FALSE		08:54:00	10:19:00	85	FALSE		TRUE	Hanna	TRUE
+840	Kristi	Female	1975-11-12	48	Standard	2	Fri, Tue	FALSE		20:26:00	22:46:00	140	FALSE		TRUE	Hanna	FALSE
+841	Kristin	Female	1995-09-16	29	Standard	3	Mon, Sat, Sun	FALSE		11:00:00	12:12:00	72	TRUE	orange, black_currant	FALSE		FALSE
+842	Kristy	Female	1993-04-29	31	Standard	5	Fri, Sat, Sun, Tue, Wed	TRUE	Pilates, BodyBalance, Spinning	09:47:00	11:32:00	105	FALSE		TRUE	Chantal	TRUE
+843	Kylie	Female	1995-03-12	29	Premium	1	Wed	TRUE	BodyBalance	19:10:00	21:32:00	142	TRUE	black_currant, coconut_pineapple	TRUE	Mike	FALSE
+844	Jodie	Male	1981-10-11	43	Premium	3	Fri, Sat, Thu	TRUE	Kickboxen, LesMiles, BodyPump	13:40:00	16:26:00	166	TRUE	passion_fruit, orange	TRUE	Mike	TRUE
+845	Joe	Male	1995-01-05	29	Standard	2	Sun, Wed	FALSE		17:09:00	18:06:00	57	FALSE		TRUE	Hanna	TRUE
+846	Joel	Male	1979-01-14	45	Standard	2	Sat, Tue	TRUE	HIT	15:59:00	18:46:00	167	FALSE		TRUE	Hanna	TRUE
+847	Joey	Male	1994-11-10	29	Standard	1	Thu	FALSE		20:43:00	21:57:00	74	FALSE		TRUE	Mike	TRUE
+848	John	Male	2000-06-20	24	Standard	3	Sat, Thu, Wed	TRUE	Spinning, HIT	12:00:00	14:08:00	128	TRUE	lemon	FALSE		TRUE
+849	Kyra	Female	1985-04-18	39	Premium	3	Sat, Tue, Wed	TRUE	Pilates, Spinning	16:37:00	17:45:00	68	FALSE		TRUE	Jeffrey	FALSE
+850	Johnny	Male	1991-03-21	33	Standard	2	Sat, Thu	TRUE	LesMiles	14:56:00	15:57:00	61	TRUE	black_currant	TRUE	Mike	TRUE
+851	Lacey	Female	2007-08-23	17	Standard	2	Tue, Wed	FALSE		08:06:00	08:47:00	41	TRUE	berry_boost, coconut_pineapple	FALSE		TRUE
+852	Lana	Female	1989-08-17	35	Standard	4	Mon, Thu, Tue, Wed	FALSE		15:43:00	18:41:00	178	FALSE		TRUE	Hanna	TRUE
+853	Johnson	Male	1985-07-13	39	Premium	3	Fri, Mon, Sun	TRUE	HIT	12:16:00	12:49:00	33	FALSE		FALSE		FALSE
+854	Lanna	Female	1998-10-29	25	Premium	2	Tue, Wed	FALSE		20:20:00	23:10:00	170	TRUE	berry_boost, lemon	FALSE		FALSE
+855	Jolyon	Male	2010-03-21	14	Premium	1	Fri	FALSE		12:10:00	13:42:00	92	TRUE	berry_boost	FALSE		TRUE
+856	Lara	Female	1984-09-05	40	Standard	3	Fri, Sun, Thu	TRUE	HIT, Yoga, BodyPump	17:05:00	19:39:00	154	FALSE		TRUE	Mike	FALSE
+857	Larissa	Female	1999-04-06	25	Premium	1	Sat	FALSE		15:55:00	16:50:00	55	TRUE	passion_fruit, berry_boost	FALSE		TRUE
+858	Laura	Female	1988-01-30	36	Premium	2	Sat, Sun	TRUE	HIT, BodyBalance	10:20:00	13:02:00	162	FALSE		TRUE	Jeffrey	FALSE
+859	Jon	Male	1999-01-01	25	Premium	3	Fri, Mon, Tue	TRUE	HIT, LesMiles, BodyBalance	14:45:00	15:48:00	63	FALSE		FALSE		TRUE
+860	Laurel	Female	1999-12-16	24	Premium	2	Sat, Thu	TRUE	HIT, XCore, Pilates	18:33:00	20:28:00	115	TRUE	orange, black_currant	FALSE		FALSE
+861	Lauren	Female	1989-04-08	35	Premium	2	Fri, Sun	TRUE	BodyPump, Spinning	14:22:00	15:43:00	81	TRUE	black_currant	FALSE		FALSE
+862	Jonah	Male	1993-01-02	31	Standard	4	Fri, Mon, Sat, Sun	TRUE	LesMiles, Kickboxen	17:19:00	19:40:00	141	TRUE	passion_fruit, coconut_pineapple	TRUE	Mike	FALSE
+863	Jonas	Male	1992-09-03	32	Premium	5	Sat, Sun, Thu, Tue, Wed	FALSE		11:08:00	13:20:00	132	TRUE	berry_boost, orange	FALSE		TRUE
+864	Jonathan	Male	1976-09-24	48	Premium	3	Fri, Sat, Sun	TRUE	BodyBalance, LesMiles	16:01:00	18:16:00	135	FALSE		TRUE	Hanna	TRUE
+865	Jonni	Male	1979-03-18	45	Standard	4	Sat, Sun, Thu, Tue	FALSE		11:19:00	12:16:00	57	FALSE		TRUE	Hanna	TRUE
+866	Laurence	Female	2002-07-10	22	Premium	3	Fri, Thu, Wed	TRUE	Zumba	11:46:00	13:47:00	121	FALSE		TRUE	Chantal	TRUE
+867	Lauretta	Female	1984-12-08	39	Standard	5	Sat, Sun, Thu, Tue, Wed	TRUE	LesMiles, BodyBalance	16:05:00	18:42:00	157	FALSE		TRUE	Mike	FALSE
+868	Laurie	Female	1979-02-03	45	Standard	2	Fri, Wed	TRUE	BodyBalance, Zumba	18:26:00	21:21:00	175	TRUE	orange, passion_fruit	TRUE	Mike	FALSE
+869	Lauryn	Female	2007-04-29	17	Standard	2	Tue, Wed	TRUE	LesMiles	12:09:00	14:55:00	166	TRUE	orange, berry_boost	TRUE	Mike	TRUE
+870	Jonnie	Male	1989-10-13	35	Standard	2	Sat, Sun	TRUE	HIT	12:59:00	14:42:00	103	FALSE		FALSE		FALSE
+871	Lavender	Female	1991-07-09	33	Premium	5	Fri, Sat, Sun, Thu, Tue	TRUE	XCore, Running, LesMiles	12:21:00	14:23:00	122	TRUE	berry_boost, coconut_pineapple	FALSE		TRUE
+872	Jonny	Male	2010-07-23	14	Standard	2	Mon, Wed	FALSE		09:46:00	10:56:00	70	FALSE		FALSE		TRUE
+873	Jordan	Male	1984-05-26	40	Standard	1	Thu	FALSE		20:27:00	21:57:00	90	TRUE	berry_boost, lemon	FALSE		FALSE
+874	Leah	Female	2001-08-21	23	Premium	2	Thu, Tue	TRUE	BodyBalance, Spinning	14:42:00	16:56:00	134	TRUE	passion_fruit, orange	TRUE	Jeffrey	FALSE
+875	Jordie	Male	2010-01-16	14	Premium	2	Fri, Tue	TRUE	BodyPump, Zumba, Running	13:45:00	16:26:00	161	FALSE		FALSE		FALSE
+876	Leanne	Female	2012-01-17	12	Standard	5	Mon, Sun, Thu, Tue, Wed	TRUE	Running	18:32:00	19:28:00	56	TRUE	passion_fruit	FALSE		TRUE
+877	Jordy	Male	2009-05-07	15	Standard	2	Fri, Sun	FALSE		09:12:00	11:42:00	150	FALSE		TRUE	Hanna	FALSE
+878	Lee	Female	2004-06-09	20	Premium	3	Sun, Tue, Wed	FALSE		14:04:00	16:42:00	158	FALSE		FALSE		FALSE
+879	Leila	Female	2002-12-22	21	Premium	3	Mon, Sun, Thu	FALSE		10:39:00	12:37:00	118	TRUE	orange	TRUE	Chantal	FALSE
+880	Leisha	Female	1995-02-05	29	Premium	2	Fri, Sun	FALSE		11:02:00	12:22:00	80	TRUE	orange, coconut_pineapple	TRUE	Chantal	TRUE
+881	Joseph	Male	2000-09-22	24	Standard	3	Sat, Sun, Tue	FALSE		10:46:00	12:59:00	133	FALSE		TRUE	Jeffrey	TRUE
+882	Lena	Female	1995-04-14	29	Standard	2	Fri, Sat	FALSE		15:39:00	17:59:00	140	FALSE		TRUE	Hanna	TRUE
+883	Lenna	Female	2010-10-04	14	Premium	3	Fri, Mon, Tue	TRUE	Spinning	15:31:00	18:22:00	171	FALSE		FALSE		TRUE
+884	Josh	Male	1975-06-21	49	Standard	1	Tue	TRUE	HIT, BodyPump, XCore	16:18:00	17:35:00	77	TRUE	orange	FALSE		FALSE
+885	Leona	Female	1987-08-04	37	Standard	3	Sun, Thu, Tue	FALSE		14:33:00	15:10:00	37	FALSE		FALSE		FALSE
+886	Leonora	Female	2005-03-20	19	Standard	4	Sat, Thu, Tue, Wed	TRUE	HIT	15:47:00	18:01:00	134	FALSE		FALSE		FALSE
+887	Joshua	Male	2000-10-24	23	Premium	2	Fri, Tue	FALSE		19:04:00	19:56:00	52	TRUE	orange, berry_boost	FALSE		TRUE
+888	Leslie	Female	1990-07-19	34	Premium	2	Fri, Tue	FALSE		17:02:00	18:36:00	94	TRUE	passion_fruit	TRUE	Mike	TRUE
+889	Josiah	Male	2006-02-23	18	Premium	3	Fri, Mon, Thu	TRUE	Spinning, Running, BodyBalance	11:41:00	13:08:00	87	FALSE		FALSE		FALSE
+890	Julian	Male	1997-08-28	27	Premium	3	Sat, Thu, Wed	FALSE		20:18:00	22:20:00	122	TRUE	passion_fruit	TRUE	Hanna	FALSE
+891	Julien	Male	1977-09-19	47	Premium	5	Sat, Sun, Thu, Tue, Wed	FALSE		11:26:00	12:55:00	89	FALSE		FALSE		TRUE
+892	Julius	Male	1993-11-25	30	Standard	2	Sun, Wed	FALSE		12:22:00	15:01:00	159	FALSE		TRUE	Mike	TRUE
+893	Juno	Male	1984-09-13	40	Premium	2	Sat, Tue	TRUE	Pilates, HIT, Running	20:33:00	21:52:00	79	TRUE	berry_boost, orange	TRUE	Jeffrey	TRUE
+894	Lettice	Female	2004-03-21	20	Standard	1	Tue	TRUE	XCore, HIT, Zumba	15:06:00	16:40:00	94	FALSE		FALSE		FALSE
+895	Justin	Male	1988-06-14	36	Premium	3	Mon, Sat, Tue	FALSE		16:53:00	18:09:00	76	FALSE		TRUE	Hanna	FALSE
+896	Lexi	Female	1979-05-08	45	Premium	4	Fri, Sun, Thu, Tue	FALSE		10:05:00	10:55:00	50	TRUE	coconut_pineapple, passion_fruit	TRUE	Hanna	TRUE
+897	Lila	Female	1987-11-06	36	Premium	3	Sat, Sun, Tue	TRUE	Pilates, HIT, Zumba	09:39:00	11:08:00	89	FALSE		FALSE		TRUE
+898	Liliana	Female	1987-10-27	36	Premium	1	Fri	FALSE		11:05:00	12:28:00	83	TRUE	orange, black_currant	FALSE		TRUE
+899	Kaden	Male	2008-03-27	16	Standard	1	Mon	TRUE	XCore, Yoga	12:59:00	14:06:00	67	FALSE		FALSE		TRUE
+900	Lilibet	Female	2000-07-08	24	Standard	3	Fri, Sat, Wed	FALSE		19:13:00	20:02:00	49	FALSE		TRUE	Mike	TRUE
+901	Lilibeth	Female	1988-05-27	36	Premium	1	Wed	FALSE		17:30:00	18:40:00	70	TRUE	coconut_pineapple	FALSE		FALSE
+902	Lilla	Female	1984-01-14	40	Standard	1	Sun	TRUE	BodyPump, Spinning	16:03:00	17:49:00	106	FALSE		FALSE		TRUE
+903	Lillian	Female	1984-03-14	40	Premium	2	Fri, Thu	TRUE	XCore	19:07:00	21:24:00	137	FALSE		TRUE	Jeffrey	FALSE
+904	Lillie	Female	2010-01-10	14	Premium	2	Sat, Sun	FALSE		10:09:00	11:15:00	66	FALSE		TRUE	Chantal	TRUE
+905	Lilly	Female	1991-08-29	33	Premium	1	Wed	FALSE		14:09:00	16:46:00	157	FALSE		FALSE		FALSE
+906	Kane	Male	1981-09-22	43	Standard	1	Sun	FALSE		09:22:00	10:15:00	53	FALSE		TRUE	Mike	FALSE
+907	Karl	Male	1976-07-28	48	Standard	2	Thu, Wed	TRUE	Zumba, HIT, XCore	15:12:00	17:17:00	125	TRUE	berry_boost, black_currant	FALSE		FALSE
+908	Lily	Female	2012-03-22	12	Standard	5	Fri, Mon, Sun, Thu, Wed	FALSE		10:25:00	12:18:00	113	FALSE		FALSE		TRUE
+909	Kay	Male	1985-01-23	39	Premium	4	Sun, Thu, Tue, Wed	TRUE	BodyBalance, LesMiles	13:35:00	14:37:00	62	TRUE	lemon, coconut_pineapple	TRUE	Chantal	TRUE
+910	Keith	Male	1994-09-05	30	Premium	3	Sat, Sun, Wed	TRUE	Pilates	11:09:00	12:25:00	76	TRUE	berry_boost, black_currant	FALSE		TRUE
+911	Lina	Female	2000-06-07	24	Standard	3	Mon, Sat, Sun	TRUE	XCore	20:53:00	21:33:00	40	FALSE		FALSE		TRUE
+912	Linda	Female	1977-08-19	47	Standard	1	Mon	FALSE		19:32:00	20:22:00	50	TRUE	lemon	FALSE		FALSE
+913	Kelly	Male	1989-11-26	34	Standard	1	Sun	TRUE	LesMiles, Running, Zumba	14:47:00	16:49:00	122	TRUE	black_currant, passion_fruit	FALSE		FALSE
+914	Kelsey	Male	1994-06-02	30	Premium	1	Fri	FALSE		17:41:00	18:58:00	77	TRUE	lemon	FALSE		TRUE
+915	Lindsay	Female	2001-04-12	23	Standard	1	Wed	TRUE	Kickboxen, Pilates	19:00:00	19:49:00	49	TRUE	passion_fruit, coconut_pineapple	FALSE		TRUE
+916	Kelvin	Male	2000-08-14	24	Standard	1	Fri	TRUE	Kickboxen, LesMiles, HIT	15:05:00	17:23:00	138	FALSE		FALSE		FALSE
+917	Ken	Male	2011-06-28	13	Standard	2	Thu, Wed	FALSE		19:29:00	21:02:00	93	TRUE	coconut_pineapple	FALSE		TRUE
+918	Lindy	Female	2006-05-28	18	Standard	4	Sun, Thu, Tue, Wed	FALSE		11:23:00	14:03:00	160	TRUE	black_currant	FALSE		FALSE
+919	Kendrick	Male	1979-07-23	45	Premium	5	Fri, Sat, Sun, Thu, Tue	FALSE		19:43:00	21:01:00	78	TRUE	passion_fruit, black_currant	FALSE		FALSE
+920	Lisa	Female	1983-02-20	41	Standard	1	Sat	FALSE		10:23:00	11:30:00	67	TRUE	passion_fruit	FALSE		FALSE
+921	Liza	Female	2011-02-04	13	Premium	1	Tue	TRUE	BodyPump, Pilates	12:39:00	13:13:00	34	FALSE		FALSE		FALSE
+922	Lizzie	Female	1989-11-29	34	Standard	1	Wed	TRUE	BodyBalance	10:28:00	12:20:00	112	TRUE	berry_boost, orange	TRUE	Chantal	FALSE
+923	Lois	Female	1981-09-05	43	Standard	1	Mon	FALSE		15:04:00	17:05:00	121	FALSE		TRUE	Jeffrey	FALSE
+924	Kenneth	Male	1985-05-11	39	Premium	2	Mon, Thu	FALSE		17:57:00	19:45:00	108	TRUE	coconut_pineapple, berry_boost	TRUE	Jeffrey	TRUE
+925	Loraine	Female	2011-08-16	13	Premium	3	Sat, Thu, Wed	TRUE	BodyPump, Spinning, XCore	13:47:00	15:04:00	77	TRUE	lemon, berry_boost	FALSE		FALSE
+926	Kenny	Male	2001-11-09	22	Standard	5	Fri, Sun, Thu, Tue, Wed	FALSE		09:16:00	12:08:00	172	FALSE		TRUE	Chantal	FALSE
+927	Kent	Male	2001-03-13	23	Standard	3	Mon, Sun, Thu	TRUE	Spinning, Pilates, Zumba	10:03:00	12:22:00	139	TRUE	berry_boost, coconut_pineapple	TRUE	Hanna	FALSE
+928	Lorelei	Female	1987-09-17	37	Premium	3	Sun, Tue, Wed	FALSE		17:33:00	19:57:00	144	TRUE	berry_boost	FALSE		FALSE
+929	Kermit	Male	1994-11-07	29	Premium	5	Fri, Mon, Sat, Thu, Wed	TRUE	Pilates, BodyPump, Yoga	09:38:00	10:39:00	61	FALSE		FALSE		TRUE
+930	Lorena	Female	2001-08-15	23	Premium	5	Fri, Mon, Sat, Thu, Wed	FALSE		13:57:00	16:26:00	149	TRUE	lemon	FALSE		FALSE
+931	Loretta	Female	2001-09-20	23	Standard	5	Fri, Mon, Sun, Tue, Wed	FALSE		16:33:00	18:03:00	90	FALSE		FALSE		FALSE
+932	Kevin	Male	1997-03-28	27	Premium	3	Fri, Sat, Thu	TRUE	Yoga	10:48:00	13:15:00	147	TRUE	coconut_pineapple, lemon	FALSE		FALSE
+933	Lori	Female	2009-07-08	15	Premium	1	Fri	TRUE	BodyPump	19:06:00	21:17:00	131	TRUE	black_currant, coconut_pineapple	TRUE	Mike	FALSE
+934	Lorinda	Female	1983-02-25	41	Premium	5	Fri, Sat, Thu, Tue, Wed	FALSE		13:53:00	16:05:00	132	FALSE		FALSE		TRUE
+935	Lorna	Female	2009-05-29	15	Standard	2	Sun, Wed	FALSE		12:35:00	14:06:00	91	FALSE		FALSE		FALSE
+936	Kian	Male	2010-12-06	13	Premium	3	Mon, Thu, Wed	TRUE	BodyPump, LesMiles, Pilates	15:31:00	16:07:00	36	TRUE	orange	FALSE		TRUE
+937	Kim	Male	1975-08-05	49	Premium	3	Sat, Sun, Tue	TRUE	Zumba	10:55:00	12:18:00	83	TRUE	orange	FALSE		TRUE
+938	Kimble	Male	1992-10-11	32	Standard	3	Mon, Sun, Thu	TRUE	Yoga, HIT, LesMiles	09:57:00	12:09:00	132	TRUE	black_currant	TRUE	Mike	TRUE
+939	Lorraine	Female	1981-10-08	43	Premium	5	Mon, Sat, Sun, Tue, Wed	FALSE		12:50:00	15:20:00	150	TRUE	berry_boost	TRUE	Jeffrey	TRUE
+940	Lottie	Female	1991-06-21	33	Premium	2	Mon, Wed	TRUE	BodyBalance	20:25:00	23:16:00	171	TRUE	coconut_pineapple	FALSE		FALSE
+941	Kirk	Male	1978-12-21	45	Premium	3	Fri, Sat, Sun	FALSE		10:21:00	12:38:00	137	FALSE		TRUE	Hanna	TRUE
+942	Kurt	Male	1981-03-08	43	Standard	3	Thu, Tue, Wed	FALSE		10:47:00	13:15:00	148	FALSE		TRUE	Mike	FALSE
+943	Kyan	Male	1984-02-22	40	Standard	3	Sun, Thu, Wed	FALSE		11:58:00	14:31:00	153	TRUE	coconut_pineapple	TRUE	Mike	FALSE
+944	Lotty	Female	1993-09-29	31	Standard	5	Fri, Sat, Sun, Thu, Wed	FALSE		09:41:00	12:05:00	144	FALSE		TRUE	Chantal	FALSE
+945	Louella	Female	1975-11-29	48	Standard	2	Thu, Wed	FALSE		17:14:00	20:05:00	171	FALSE		TRUE	Jeffrey	TRUE
+946	Kyle	Male	2003-02-14	21	Premium	3	Mon, Sat, Wed	FALSE		13:49:00	14:55:00	66	FALSE		TRUE	Hanna	TRUE
+947	Louisa	Female	2006-07-10	18	Standard	4	Fri, Mon, Sat, Thu	FALSE		09:42:00	10:46:00	64	FALSE		TRUE	Mike	TRUE
+948	Louise	Female	2000-03-27	24	Premium	2	Mon, Tue	TRUE	Spinning, LesMiles, BodyPump	11:39:00	13:24:00	105	FALSE		FALSE		FALSE
+949	Lance	Male	1990-07-08	34	Standard	2	Fri, Mon	FALSE		17:01:00	19:09:00	128	FALSE		TRUE	Hanna	FALSE
+950	Lucia	Female	2001-10-31	22	Standard	5	Fri, Mon, Sat, Sun, Wed	TRUE	Running	15:44:00	17:05:00	81	FALSE		TRUE	Chantal	FALSE
+951	Lucinda	Female	2002-11-03	21	Premium	5	Fri, Mon, Sat, Tue, Wed	TRUE	HIT, Pilates	11:36:00	14:23:00	167	FALSE		FALSE		FALSE
+952	Landon	Male	1982-03-09	42	Standard	4	Mon, Sat, Sun, Tue	TRUE	Zumba, Pilates	19:21:00	21:49:00	148	FALSE		TRUE	Chantal	TRUE
+953	Lucy	Female	1977-06-25	47	Standard	2	Mon, Wed	TRUE	BodyPump, Zumba	18:47:00	21:35:00	168	TRUE	berry_boost, orange	FALSE		FALSE
+954	Lanny	Male	1979-12-10	44	Premium	5	Fri, Sat, Sun, Thu, Tue	TRUE	HIT, Kickboxen	15:27:00	17:39:00	132	FALSE		TRUE	Mike	TRUE
+955	Larry	Male	1986-01-23	38	Standard	3	Fri, Tue, Wed	TRUE	BodyBalance, HIT	12:46:00	13:49:00	63	TRUE	lemon	TRUE	Mike	TRUE
+956	Lydia	Female	2010-08-27	14	Premium	2	Sat, Sun	TRUE	Kickboxen	14:18:00	15:13:00	55	TRUE	lemon, coconut_pineapple	FALSE		TRUE
+957	Lyndsay	Female	2005-07-14	19	Premium	3	Sat, Sun, Thu	FALSE		17:43:00	18:34:00	51	FALSE		TRUE	Mike	TRUE
+958	Lynnette	Female	2010-03-25	14	Standard	3	Fri, Sun, Thu	TRUE	Yoga	13:59:00	16:41:00	162	TRUE	lemon	FALSE		TRUE
+959	Lysette	Female	2003-04-12	21	Premium	3	Fri, Sat, Tue	FALSE		09:22:00	10:52:00	90	TRUE	black_currant	TRUE	Hanna	FALSE
+960	Mabel	Female	1993-02-23	31	Standard	3	Fri, Sat, Tue	FALSE		10:14:00	13:13:00	179	FALSE		TRUE	Chantal	TRUE
+961	Mable	Female	1990-12-24	33	Premium	4	Fri, Mon, Sun, Thu	FALSE		10:24:00	11:48:00	84	TRUE	lemon	FALSE		FALSE
+962	Macy	Female	1995-12-21	28	Standard	3	Fri, Sat, Sun	FALSE		13:28:00	15:44:00	136	TRUE	berry_boost, black_currant	TRUE	Jeffrey	TRUE
+963	Laurence	Male	2011-03-17	13	Premium	2	Fri, Tue	TRUE	XCore	09:23:00	12:02:00	159	FALSE		FALSE		TRUE
+964	Laurie	Male	1981-04-27	43	Standard	3	Fri, Sun, Tue	FALSE		18:37:00	20:15:00	98	FALSE		TRUE	Mike	TRUE
+965	Lawrence	Male	2009-11-01	14	Standard	1	Mon	TRUE	Yoga, BodyBalance, XCore	11:56:00	13:37:00	101	FALSE		FALSE		FALSE
+966	Lawton	Male	1988-02-23	36	Premium	2	Sat, Wed	FALSE		16:49:00	19:10:00	141	FALSE		TRUE	Hanna	TRUE
+967	Madelaine	Female	1998-03-25	26	Standard	1	Mon	TRUE	XCore	11:42:00	13:39:00	117	FALSE		TRUE	Jeffrey	FALSE
+968	Madeleine	Female	2011-05-25	13	Standard	3	Mon, Tue, Wed	FALSE		13:36:00	14:08:00	32	FALSE		TRUE	Mike	FALSE
+969	Leamon	Male	1998-11-12	25	Standard	1	Fri	FALSE		15:33:00	18:00:00	147	FALSE		TRUE	Mike	FALSE
+970	Lee	Male	1978-05-19	46	Premium	2	Thu, Tue	FALSE		08:22:00	10:52:00	150	FALSE		TRUE	Mike	TRUE
+971	Madelyn	Female	2002-01-24	22	Premium	3	Fri, Mon, Tue	TRUE	HIT, Running, Spinning	16:37:00	17:48:00	71	TRUE	berry_boost	FALSE		TRUE
+972	Lenny	Male	1993-11-21	30	Premium	3	Fri, Sat, Thu	TRUE	Yoga, BodyPump, Kickboxen	14:44:00	16:00:00	76	TRUE	coconut_pineapple	TRUE	Hanna	TRUE
+973	Leo	Male	1991-03-18	33	Standard	1	Wed	TRUE	BodyPump	16:41:00	18:29:00	108	FALSE		FALSE		TRUE
+974	Madge	Female	1995-11-13	28	Premium	4	Fri, Mon, Tue, Wed	TRUE	Spinning	11:10:00	13:56:00	166	FALSE		TRUE	Mike	TRUE
+975	Leon	Male	1976-10-08	48	Standard	3	Fri, Sun, Wed	FALSE		11:07:00	12:43:00	96	TRUE	berry_boost, coconut_pineapple	TRUE	Hanna	TRUE
+976	Madison	Female	2008-10-13	16	Premium	5	Fri, Mon, Thu, Tue, Wed	FALSE		16:39:00	18:30:00	111	TRUE	orange	FALSE		FALSE
+977	Leonard	Male	1988-11-28	35	Standard	3	Mon, Sat, Thu	TRUE	BodyPump	10:36:00	11:46:00	70	TRUE	orange, berry_boost	TRUE	Mike	TRUE
+978	Leopold	Male	2000-10-06	24	Standard	3	Fri, Sat, Tue	FALSE		19:00:00	21:19:00	139	TRUE	coconut_pineapple	FALSE		FALSE
+979	Leroy	Male	2008-05-02	16	Premium	3	Sat, Sun, Wed	TRUE	LesMiles, Running, HIT	13:30:00	14:20:00	50	TRUE	lemon	FALSE		TRUE
+980	Leslie	Male	1992-05-18	32	Standard	3	Fri, Tue, Wed	TRUE	Kickboxen	17:47:00	19:28:00	101	FALSE		FALSE		TRUE
+981	Madonna	Female	1992-01-22	32	Standard	3	Fri, Sun, Wed	TRUE	XCore, Kickboxen, Zumba	14:52:00	17:32:00	160	FALSE		FALSE		FALSE
+982	Maggie	Female	2003-08-21	21	Standard	2	Fri, Thu	TRUE	Spinning, Zumba, XCore	19:59:00	20:43:00	44	FALSE		TRUE	Mike	FALSE
+983	Lester	Male	1988-03-02	36	Premium	4	Fri, Mon, Tue, Wed	TRUE	Pilates	19:22:00	22:13:00	171	TRUE	berry_boost	TRUE	Mike	FALSE
+984	Levi	Male	1987-10-03	37	Standard	1	Fri	TRUE	LesMiles, Zumba	16:04:00	18:16:00	132	TRUE	black_currant	TRUE	Mike	TRUE
+985	Magnolia	Female	1975-10-12	49	Premium	1	Fri	TRUE	Pilates, Kickboxen, BodyBalance	15:17:00	17:00:00	103	TRUE	coconut_pineapple	FALSE		FALSE
+986	Lewis	Male	1981-12-16	42	Standard	1	Mon	TRUE	HIT	14:05:00	15:38:00	93	TRUE	lemon, black_currant	TRUE	Hanna	TRUE
+987	Mallory	Female	1979-03-14	45	Premium	5	Fri, Mon, Sun, Thu, Wed	FALSE		19:04:00	20:44:00	100	TRUE	orange	TRUE	Chantal	TRUE
+988	Liam	Male	1977-07-29	47	Premium	3	Mon, Sun, Tue	FALSE		10:48:00	12:33:00	105	TRUE	black_currant, lemon	FALSE		TRUE
+989	Mandy	Female	1990-01-29	34	Standard	1	Sun	TRUE	LesMiles, Zumba, Spinning	09:14:00	11:52:00	158	FALSE		TRUE	Chantal	FALSE
+990	Lincoln	Male	1997-10-07	27	Premium	3	Sat, Thu, Wed	FALSE		11:50:00	12:54:00	64	FALSE		FALSE		FALSE
+991	Mara	Female	1981-04-01	43	Standard	3	Mon, Sun, Thu	FALSE		08:22:00	10:40:00	138	FALSE		TRUE	Chantal	FALSE
+992	Lindor	Male	1991-08-12	33	Premium	3	Fri, Sat, Tue	TRUE	Kickboxen	10:24:00	12:48:00	144	FALSE		TRUE	Chantal	FALSE
+993	Marcia	Female	1985-10-02	39	Standard	5	Mon, Sat, Sun, Tue, Wed	TRUE	Running, BodyBalance	09:42:00	12:23:00	161	TRUE	lemon	TRUE	Chantal	FALSE
+994	Lindsay	Male	2007-01-29	17	Standard	4	Mon, Sun, Thu, Tue	TRUE	LesMiles, BodyPump	19:50:00	22:43:00	173	TRUE	coconut_pineapple, passion_fruit	TRUE	Hanna	FALSE
+995	Marcie	Female	1988-03-23	36	Standard	2	Mon, Tue	FALSE		10:16:00	13:07:00	171	TRUE	berry_boost, black_currant	FALSE		TRUE
+996	Margaret	Female	1984-09-22	40	Standard	3	Thu, Tue, Wed	FALSE		20:56:00	22:42:00	106	FALSE		FALSE		FALSE
+997	Margie	Female	2008-11-19	15	Standard	3	Fri, Mon, Sun	TRUE	XCore, Zumba	09:14:00	11:28:00	134	TRUE	orange, lemon	FALSE		TRUE
+998	Linus	Male	1984-10-05	40	Standard	2	Fri, Tue	FALSE		17:21:00	19:53:00	152	TRUE	coconut_pineapple, black_currant	TRUE	Jeffrey	TRUE
+999	Lionel	Male	2001-02-22	23	Standard	4	Mon, Sun, Thu, Tue	TRUE	HIT, XCore	10:23:00	12:29:00	126	TRUE	berry_boost	TRUE	Jeffrey	FALSE
+1000	Margo	Female	2006-05-07	18	Premium	2	Thu, Tue	FALSE		16:41:00	19:00:00	139	TRUE	passion_fruit, coconut_pineapple	FALSE		FALSE

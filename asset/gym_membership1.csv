@@ -1,0 +1,1001 @@
+id;name;gender;birthday;Age;abonoment_type;visit_per_week;days_per_week;attend_group_lesson;fav_group_lesson;avg_time_check_in;avg_time_check_out;avg_time_in_gym;drink_abo;fav_drink;personal_training;name_personal_trainer;uses_sauna
+1;Chase;Male;14/04/2003;21;Premium;1;Sun;TRUE;Kickboxen, BodyBalance, LesMiles;14:34:00;15:04:00;30;TRUE;coconut_pineapple;TRUE;Mike;TRUE
+2;Edgar;Male;29/11/2010;13;Premium;1;Fri;FALSE;;16:10:00;16:40:00;30;TRUE;lemon;FALSE;;FALSE
+3;Frida;Female;03/03/2000;24;Standard;2;Mon, Thu;TRUE;Zumba;20:25:00;20:55:00;30;FALSE;;FALSE;;TRUE
+4;Florence;Female;13/05/2001;23;Standard;3;Fri, Mon, Wed;TRUE;Zumba, XCore;12:43:00;13:13:00;30;TRUE;passion_fruit;FALSE;;FALSE
+5;Gulliver;Male;05/12/2009;14;Standard;3;Sat, Sun, Thu;TRUE;XCore, Pilates, LesMiles;17:02:00;17:32:00;30;FALSE;;FALSE;;FALSE
+6;Jason;Male;18/04/1988;36;Premium;4;Mon, Sun, Thu, Wed;FALSE;;12:32:00;13:02:00;30;FALSE;;FALSE;;FALSE
+7;Allen;Male;30/12/1977;46;Premium;5;Fri, Mon, Sat, Thu, Tue;TRUE;BodyBalance, BodyPump;12:19:00;12:49:00;30;FALSE;;TRUE;Chantal;TRUE
+8;Demetria;Female;04/12/2007;16;Premium;3;Sat, Sun, Tue;FALSE;;15:15:00;15:46:00;31;TRUE;passion_fruit;TRUE;Chantal;FALSE
+9;Byron;Male;25/05/1975;49;Premium;4;Mon, Sat, Tue, Wed;FALSE;;08:21:00;08:52:00;31;TRUE;black_currant;FALSE;;FALSE
+10;Hunter;Male;06/06/1985;39;Premium;4;Fri, Sat, Sun, Wed;TRUE;Running, Yoga, Zumba;11:51:00;12:22:00;31;FALSE;;FALSE;;TRUE
+11;Ellwood;Male;07/01/2008;16;Standard;4;Mon, Sat, Sun, Thu;TRUE;Zumba, Running, Spinning;13:43:00;14:14:00;31;TRUE;passion_fruit;TRUE;Mike;FALSE
+12;Charles;Male;02/08/2006;18;Premium;1;Wed;FALSE;;17:38:00;18:10:00;32;FALSE;;TRUE;Mike;TRUE
+13;Hilary;Female;19/11/1984;39;Standard;2;Sun, Wed;FALSE;;12:10:00;12:42:00;32;TRUE;passion_fruit, berry_boost;TRUE;Mike;FALSE
+14;Brooks;Male;18/09/1985;39;Standard;2;Mon, Tue;TRUE;Running, XCore;09:20:00;09:52:00;32;TRUE;berry_boost;FALSE;;FALSE
+15;Imelda;Female;22/04/2000;24;Standard;2;Thu, Wed;TRUE;Zumba;10:26:00;10:58:00;32;TRUE;passion_fruit;FALSE;;FALSE
+16;Joey;Female;01/05/2011;13;Standard;3;Fri, Sat, Wed;TRUE;BodyBalance, LesMiles, Pilates;13:37:00;14:09:00;32;TRUE;passion_fruit;FALSE;;FALSE
+17;Madeleine;Female;25/05/2011;13;Standard;3;Mon, Tue, Wed;FALSE;;13:36:00;14:08:00;32;FALSE;;TRUE;Mike;FALSE
+18;Jeannie;Female;14/12/1987;36;Standard;4;Sat, Thu, Tue, Wed;FALSE;;17:34:00;18:06:00;32;TRUE;passion_fruit, coconut_pineapple;TRUE;Jeffrey;FALSE
+19;Janey;Female;16/01/2001;23;Premium;4;Fri, Sat, Sun, Tue;TRUE;Spinning, BodyBalance, Zumba;09:17:00;09:49:00;32;FALSE;;FALSE;;FALSE
+20;Elias;Male;03/05/1999;25;Premium;1;Sat;TRUE;Kickboxen, Running;14:30:00;15:03:00;33;TRUE;orange;TRUE;Hanna;FALSE
+21;Gunnar;Male;07/12/1985;38;Premium;2;Mon, Wed;TRUE;Kickboxen, XCore;11:41:00;12:14:00;33;TRUE;lemon, coconut_pineapple;TRUE;Hanna;FALSE
+22;Celia;Female;16/12/2002;21;Premium;2;Fri, Sat;TRUE;LesMiles;14:55:00;15:28:00;33;TRUE;berry_boost;TRUE;Mike;FALSE
+23;Claire;Male;09/06/2011;13;Standard;2;Fri, Tue;FALSE;;09:38:00;10:11:00;33;FALSE;;FALSE;;TRUE
+24;Hector;Male;21/03/1975;49;Standard;3;Fri, Mon, Tue;FALSE;;14:52:00;15:25:00;33;TRUE;passion_fruit, black_currant;TRUE;Chantal;FALSE
+25;Johnson;Male;13/07/1985;39;Premium;3;Fri, Mon, Sun;TRUE;HIT;12:16:00;12:49:00;33;FALSE;;FALSE;;FALSE
+26;Adam;Male;19/09/1997;27;Premium;3;Fri, Thu, Wed;TRUE;Pilates, Zumba, XCore;10:12:00;10:45:00;33;TRUE;passion_fruit;TRUE;Mike;TRUE
+27;Ambrose;Male;16/07/2004;20;Standard;5;Mon, Sat, Sun, Thu, Wed;TRUE;Spinning;13:04:00;13:37:00;33;TRUE;berry_boost, coconut_pineapple;TRUE;Mike;TRUE
+28;Charly;Female;20/07/1980;44;Standard;1;Mon;FALSE;;17:41:00;18:15:00;34;TRUE;lemon, orange;TRUE;Chantal;FALSE
+29;Brilliana;Female;28/02/1987;37;Premium;1;Sat;TRUE;Yoga;08:21:00;08:55:00;34;TRUE;lemon, coconut_pineapple;FALSE;;FALSE
+30;Liza;Female;04/02/2011;13;Premium;1;Tue;TRUE;BodyPump, Pilates;12:39:00;13:13:00;34;FALSE;;FALSE;;FALSE
+31;Craig;Male;02/07/2009;15;Standard;3;Mon, Sat, Sun;FALSE;;17:29:00;18:03:00;34;FALSE;;FALSE;;TRUE
+32;Hope;Male;07/02/1980;44;Premium;4;Sat, Thu, Tue, Wed;FALSE;;11:10:00;11:44:00;34;FALSE;;FALSE;;TRUE
+33;Bryan;Male;08/09/2011;13;Standard;4;Sat, Sun, Thu, Tue;FALSE;;14:47:00;15:21:00;34;FALSE;;FALSE;;FALSE
+34;Glenda;Female;31/08/2006;18;Premium;1;Sat;FALSE;;18:01:00;18:36:00;35;TRUE;lemon;TRUE;Jeffrey;FALSE
+35;Cole;Male;08/02/1990;34;Standard;2;Mon, Sun;TRUE;BodyPump, Pilates, Running;19:18:00;19:53:00;35;FALSE;;TRUE;Chantal;TRUE
+36;Cari;Female;12/01/1978;46;Premium;3;Sun, Thu, Wed;TRUE;BodyPump;18:01:00;18:36:00;35;TRUE;coconut_pineapple, passion_fruit;FALSE;;FALSE
+37;Amadeus;Male;10/03/1994;30;Standard;3;Fri, Sun, Thu;FALSE;;17:22:00;17:57:00;35;TRUE;passion_fruit, coconut_pineapple;FALSE;;TRUE
+38;Azalea;Female;16/09/2010;14;Premium;3;Sat, Sun, Tue;FALSE;;14:36:00;15:11:00;35;FALSE;;TRUE;Jeffrey;FALSE
+39;Clayton;Male;08/06/1976;48;Premium;4;Mon, Sun, Thu, Wed;FALSE;;13:33:00;14:08:00;35;TRUE;lemon;FALSE;;FALSE
+40;Brandy;Female;05/07/1975;49;Standard;5;Sat, Sun, Thu, Tue, Wed;TRUE;Pilates;08:15:00;08:50:00;35;FALSE;;FALSE;;FALSE
+41;Ace;Male;11/07/1983;41;Standard;1;Fri;FALSE;;13:50:00;14:26:00;36;FALSE;;TRUE;Hanna;FALSE
+42;Cardew;Male;21/08/2007;17;Premium;2;Fri, Sun;FALSE;;17:44:00;18:20:00;36;TRUE;lemon;TRUE;Chantal;FALSE
+43;Demi;Female;09/08/2009;15;Premium;3;Fri, Sat, Wed;TRUE;Kickboxen, Zumba;11:02:00;11:38:00;36;TRUE;berry_boost, black_currant;TRUE;Chantal;TRUE
+44;Kian;Male;06/12/2010;13;Premium;3;Mon, Thu, Wed;TRUE;BodyPump, LesMiles, Pilates;15:31:00;16:07:00;36;TRUE;orange;FALSE;;TRUE
+45;Carol Anne;Female;16/08/1975;49;Premium;1;Sun;FALSE;;13:58:00;14:35:00;37;TRUE;berry_boost;TRUE;Mike;FALSE
+46;Jana;Female;27/03/2011;13;Standard;1;Thu;FALSE;;10:20:00;10:57:00;37;TRUE;coconut_pineapple;FALSE;;TRUE
+47;Hugo;Male;15/07/1977;47;Premium;2;Mon, Tue;TRUE;HIT, Pilates;19:06:00;19:43:00;37;FALSE;;TRUE;Chantal;TRUE
+48;Gilbert;Male;25/07/1999;25;Premium;2;Thu, Wed;TRUE;HIT, LesMiles;20:31:00;21:08:00;37;FALSE;;TRUE;Jeffrey;TRUE
+49;Cooper;Male;03/11/2000;23;Standard;2;Fri, Sat;FALSE;;20:18:00;20:55:00;37;FALSE;;TRUE;Chantal;FALSE
+50;Jerri;Female;13/06/1985;39;Standard;3;Fri, Sun, Thu;FALSE;;11:05:00;11:42:00;37;TRUE;orange;TRUE;Hanna;FALSE
+51;Leona;Female;04/08/1987;37;Standard;3;Sun, Thu, Tue;FALSE;;14:33:00;15:10:00;37;FALSE;;FALSE;;FALSE
+52;Bella;Female;18/09/2004;20;Premium;3;Sat, Sun, Thu;FALSE;;10:32:00;11:09:00;37;FALSE;;FALSE;;TRUE
+53;Brandon;Male;24/02/1976;48;Standard;4;Fri, Thu, Tue, Wed;FALSE;;09:34:00;10:11:00;37;FALSE;;FALSE;;FALSE
+54;Glynis;Female;05/11/1986;37;Standard;1;Sun;TRUE;Spinning;15:55:00;16:33:00;38;FALSE;;FALSE;;FALSE
+55;Heather;Female;09/03/1991;33;Premium;1;Sun;FALSE;;16:29:00;17:07:00;38;FALSE;;TRUE;Hanna;FALSE
+56;Jemma;Female;24/07/1997;27;Standard;1;Mon;FALSE;;12:30:00;13:08:00;38;TRUE;black_currant, lemon;FALSE;;FALSE
+57;Jesse;Male;21/06/1984;40;Premium;2;Sat, Wed;TRUE;Kickboxen, BodyPump;09:40:00;10:18:00;38;FALSE;;TRUE;Hanna;TRUE
+58;Carlile;Male;11/04/1975;49;Premium;3;Fri, Mon, Wed;FALSE;;12:37:00;13:15:00;38;TRUE;lemon;TRUE;Mike;FALSE
+59;Connor;Male;27/09/1988;36;Premium;3;Mon, Sat, Thu;FALSE;;11:06:00;11:44:00;38;TRUE;berry_boost;TRUE;Chantal;FALSE
+60;Humphrey;Male;17/06/1990;34;Premium;3;Mon, Sun, Tue;FALSE;;10:54:00;11:32:00;38;FALSE;;FALSE;;FALSE
+61;Kierra;Female;19/10/1995;28;Standard;4;Fri, Sat, Sun, Wed;FALSE;;16:33:00;17:11:00;38;FALSE;;FALSE;;TRUE
+62;Carlisle;Male;16/06/1990;34;Standard;1;Sun;FALSE;;12:42:00;13:21:00;39;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+63;Eden;Female;09/07/1985;39;Premium;2;Fri, Sat;FALSE;;20:04:00;20:43:00;39;FALSE;;FALSE;;FALSE
+64;Ethel;Female;31/10/1980;43;Standard;3;Fri, Mon, Tue;FALSE;;11:56:00;12:35:00;39;FALSE;;TRUE;Mike;TRUE
+65;Corey;Male;19/02/1995;29;Standard;3;Fri, Sat, Wed;FALSE;;10:34:00;11:13:00;39;FALSE;;FALSE;;TRUE
+66;Jessie;Female;02/08/1995;29;Standard;4;Fri, Mon, Sun, Thu;TRUE;Spinning, Pilates, BodyPump;18:15:00;18:54:00;39;FALSE;;TRUE;Mike;TRUE
+67;Carole;Female;11/10/2007;17;Premium;5;Fri, Mon, Sat, Sun, Wed;TRUE;Yoga;13:50:00;14:29:00;39;TRUE;lemon;TRUE;Hanna;TRUE
+68;Blair;Male;27/08/1977;47;Standard;1;Fri;FALSE;;14:41:00;15:21:00;40;TRUE;orange;TRUE;Hanna;FALSE
+69;Clive;Male;28/12/1988;35;Standard;1;Sat;FALSE;;13:53:00;14:33:00;40;FALSE;;FALSE;;FALSE
+70;Gale;Male;01/09/1987;37;Standard;2;Tue, Wed;FALSE;;11:30:00;12:10:00;40;TRUE;berry_boost;FALSE;;FALSE
+71;Averil;Female;01/02/1994;30;Standard;3;Sat, Sun, Wed;TRUE;HIT, LesMiles;17:43:00;18:23:00;40;FALSE;;FALSE;;FALSE
+72;Faye;Female;22/09/1995;29;Premium;3;Mon, Sat, Thu;TRUE;XCore, Running, BodyBalance;20:43:00;21:23:00;40;TRUE;berry_boost;FALSE;;FALSE
+73;Lina;Female;07/06/2000;24;Standard;3;Mon, Sat, Sun;TRUE;XCore;20:53:00;21:33:00;40;FALSE;;FALSE;;TRUE
+74;Jack;Male;01/09/1981;43;Premium;1;Sat;FALSE;;19:43:00;20:24:00;41;FALSE;;TRUE;Mike;TRUE
+75;Burton;Male;31/08/2012;12;Standard;1;Tue;FALSE;;15:47:00;16:28:00;41;TRUE;orange, passion_fruit;TRUE;Jeffrey;TRUE
+76;Lacey;Female;23/08/2007;17;Standard;2;Tue, Wed;FALSE;;08:06:00;08:47:00;41;TRUE;berry_boost, coconut_pineapple;FALSE;;TRUE
+77;Garth;Male;20/01/1976;48;Premium;3;Mon, Sun, Tue;FALSE;;14:29:00;15:10:00;41;FALSE;;TRUE;Jeffrey;FALSE
+78;Deanne;Female;27/10/1995;28;Standard;3;Sat, Thu, Wed;FALSE;;19:59:00;20:40:00;41;FALSE;;TRUE;Chantal;FALSE
+79;Hayley;Female;26/07/2008;16;Standard;5;Fri, Sat, Sun, Thu, Wed;TRUE;Spinning, Zumba;17:04:00;17:45:00;41;TRUE;passion_fruit;FALSE;;TRUE
+80;Austen;Male;04/04/1975;49;Standard;1;Tue;TRUE;Pilates;18:02:00;18:44:00;42;TRUE;berry_boost, lemon;FALSE;;FALSE
+81;Aubrey;Female;15/03/1986;38;Premium;1;Mon;TRUE;BodyPump, Zumba;09:51:00;10:33:00;42;TRUE;passion_fruit, berry_boost;TRUE;Mike;TRUE
+82;Dennis;Male;23/12/2001;22;Premium;1;Fri;FALSE;;11:31:00;12:13:00;42;TRUE;coconut_pineapple;TRUE;Chantal;TRUE
+83;Chris;Male;07/10/1987;37;Premium;2;Fri, Thu;FALSE;;09:59:00;10:41:00;42;FALSE;;FALSE;;FALSE
+84;Glen;Male;26/07/2000;24;Standard;2;Sun, Tue;TRUE;Yoga;18:58:00;19:40:00;42;TRUE;lemon, berry_boost;FALSE;;TRUE
+85;Jerome;Male;11/10/1975;49;Premium;3;Mon, Sat, Sun;FALSE;;19:44:00;20:26:00;42;TRUE;orange, black_currant;TRUE;Chantal;TRUE
+86;Braxton;Male;18/11/2000;23;Premium;4;Fri, Mon, Thu, Wed;FALSE;;11:02:00;11:44:00;42;FALSE;;TRUE;Chantal;FALSE
+87;Berenice;Female;07/04/1993;31;Standard;5;Fri, Sun, Thu, Tue, Wed;FALSE;;19:28:00;20:10:00;42;FALSE;;FALSE;;FALSE
+88;Gemma;Female;07/04/1997;27;Premium;5;Fri, Mon, Sun, Tue, Wed;FALSE;;18:22:00;19:04:00;42;FALSE;;FALSE;;FALSE
+89;Dave;Male;25/07/1998;26;Premium;5;Fri, Mon, Sun, Tue, Wed;FALSE;;18:01:00;18:43:00;42;TRUE;lemon, coconut_pineapple;FALSE;;FALSE
+90;Anderson;Male;12/12/1990;33;Premium;1;Wed;TRUE;Zumba;09:04:00;09:47:00;43;TRUE;passion_fruit;FALSE;;FALSE
+91;Bianca;Female;01/02/2004;20;Premium;2;Fri, Sat;FALSE;;18:54:00;19:37:00;43;TRUE;passion_fruit;TRUE;Chantal;TRUE
+92;Erin;Female;13/01/1980;44;Premium;3;Mon, Sat, Thu;FALSE;;17:47:00;18:30:00;43;TRUE;berry_boost;TRUE;Jeffrey;TRUE
+93;Christi;Female;02/03/1975;49;Standard;1;Wed;TRUE;Running, Zumba, LesMiles;10:40:00;11:24:00;44;FALSE;;TRUE;Chantal;FALSE
+94;Damon;Male;13/05/1992;32;Standard;1;Sat;TRUE;Pilates, XCore;18:44:00;19:28:00;44;FALSE;;FALSE;;TRUE
+95;Chazz;Male;21/12/2001;22;Standard;2;Sat, Thu;FALSE;;19:49:00;20:33:00;44;TRUE;black_currant, passion_fruit;FALSE;;TRUE
+96;Maggie;Female;21/08/2003;21;Standard;2;Fri, Thu;TRUE;Spinning, Zumba, XCore;19:59:00;20:43:00;44;FALSE;;TRUE;Mike;FALSE
+97;Job;Male;29/07/1975;49;Standard;3;Fri, Sat, Thu;TRUE;Zumba, Running;20:40:00;21:24:00;44;FALSE;;TRUE;Mike;FALSE
+98;Jenna;Female;02/08/2000;24;Standard;4;Mon, Sat, Sun, Thu;TRUE;BodyPump, LesMiles, HIT;11:43:00;12:27:00;44;TRUE;black_currant;FALSE;;FALSE
+99;Gabe;Male;25/07/1981;43;Standard;5;Fri, Sat, Sun, Thu, Tue;TRUE;XCore, Yoga, BodyPump;17:32:00;18:16:00;44;FALSE;;TRUE;Mike;TRUE
+100;Harold;Male;05/06/1975;49;Standard;1;Tue;TRUE;HIT, Running, Kickboxen;20:23:00;21:08:00;45;TRUE;orange;FALSE;;TRUE
+101;Denzil;Male;09/12/1984;39;Standard;2;Sun, Tue;TRUE;LesMiles, BodyPump;19:02:00;19:47:00;45;TRUE;berry_boost;TRUE;Chantal;FALSE
+102;Edna;Female;06/12/1998;25;Standard;2;Mon, Thu;FALSE;;15:12:00;15:57:00;45;TRUE;coconut_pineapple;TRUE;Chantal;FALSE
+103;Karlee;Female;19/09/1979;45;Premium;4;Fri, Thu, Tue, Wed;FALSE;;19:32:00;20:18:00;46;TRUE;orange, coconut_pineapple;FALSE;;FALSE
+104;Kay;Female;06/08/1986;38;Premium;1;Tue;FALSE;;14:12:00;14:59:00;47;FALSE;;FALSE;;FALSE
+105;Jayce;Male;16/12/1991;32;Standard;3;Fri, Sun, Tue;TRUE;XCore, Spinning;12:16:00;13:03:00;47;FALSE;;TRUE;Mike;FALSE
+106;Blanche;Female;19/03/2000;24;Premium;3;Mon, Thu, Wed;TRUE;BodyBalance, Kickboxen, Spinning;15:17:00;16:04:00;47;FALSE;;TRUE;Hanna;TRUE
+107;Joanne;Female;20/06/1991;33;Premium;4;Fri, Sat, Thu, Wed;FALSE;;13:30:00;14:17:00;47;TRUE;orange, coconut_pineapple;TRUE;Hanna;TRUE
+108;Arnaut;Male;17/08/1993;31;Standard;1;Sun;TRUE;Running;14:37:00;15:25:00;48;FALSE;;TRUE;Chantal;FALSE
+109;Abigail;Female;18/09/1977;47;Standard;3;Mon, Sat, Wed;FALSE;;19:31:00;20:19:00;48;FALSE;;TRUE;Chantal;FALSE
+110;Deb;Female;13/11/1986;37;Premium;3;Sat, Sun, Wed;FALSE;;13:08:00;13:56:00;48;FALSE;;FALSE;;TRUE
+111;Andy;Female;27/03/1979;45;Premium;4;Fri, Thu, Tue, Wed;FALSE;;13:06:00;13:54:00;48;FALSE;;FALSE;;TRUE
+112;Dawn;Female;28/08/1983;41;Standard;4;Mon, Sun, Tue, Wed;TRUE;XCore, Spinning;10:09:00;10:57:00;48;TRUE;coconut_pineapple, passion_fruit;FALSE;;FALSE
+113;April;Female;06/06/1984;40;Standard;4;Mon, Sat, Sun, Wed;TRUE;BodyPump, Spinning, Pilates;09:55:00;10:43:00;48;FALSE;;FALSE;;TRUE
+114;Bronwyn;Female;11/07/1985;39;Standard;4;Mon, Sat, Sun, Thu;FALSE;;17:07:00;17:55:00;48;FALSE;;FALSE;;TRUE
+115;Ginny;Female;02/06/1987;37;Premium;1;Wed;TRUE;BodyBalance, Spinning, HIT;15:26:00;16:15:00;49;TRUE;passion_fruit;FALSE;;FALSE
+116;Lindsay;Female;12/04/2001;23;Standard;1;Wed;TRUE;Kickboxen, Pilates;19:00:00;19:49:00;49;TRUE;passion_fruit, coconut_pineapple;FALSE;;TRUE
+117;Kira;Female;31/03/2006;18;Premium;2;Sat, Tue;TRUE;Yoga, Spinning;15:53:00;16:42:00;49;FALSE;;TRUE;Hanna;FALSE
+118;Chas;Female;03/07/1977;47;Standard;3;Mon, Sun, Tue;FALSE;;18:24:00;19:13:00;49;TRUE;coconut_pineapple, lemon;FALSE;;FALSE
+119;Lilibet;Female;08/07/2000;24;Standard;3;Fri, Sat, Wed;FALSE;;19:13:00;20:02:00;49;FALSE;;TRUE;Mike;TRUE
+120;Dallas;Male;02/07/2003;21;Standard;3;Sat, Sun, Tue;FALSE;;12:59:00;13:48:00;49;TRUE;orange, berry_boost;FALSE;;FALSE
+121;Armand;Male;30/07/2006;18;Standard;3;Sun, Thu, Tue;TRUE;Yoga, HIT;09:15:00;10:04:00;49;TRUE;black_currant, lemon;FALSE;;FALSE
+122;Cosmo;Male;30/06/1991;33;Premium;4;Fri, Sat, Sun, Tue;TRUE;Running;09:15:00;10:04:00;49;FALSE;;FALSE;;TRUE
+123;Asher;Male;06/11/1990;33;Standard;5;Fri, Sat, Sun, Thu, Wed;TRUE;Pilates, BodyBalance;10:29:00;11:18:00;49;TRUE;lemon;TRUE;Chantal;FALSE
+124;Bartholomew;Male;30/03/1977;47;Premium;1;Sun;TRUE;Running, BodyBalance;12:24:00;13:14:00;50;FALSE;;TRUE;Hanna;TRUE
+125;Linda;Female;19/08/1977;47;Standard;1;Mon;FALSE;;19:32:00;20:22:00;50;TRUE;lemon;FALSE;;FALSE
+126;Abe;Male;10/09/1980;44;Standard;2;Thu, Wed;TRUE;Running, Yoga, Zumba;08:29:00;09:19:00;50;FALSE;;TRUE;Mike;FALSE
+127;Darvin;Male;22/08/1984;40;Premium;2;Sat, Thu;TRUE;Running;18:52:00;19:42:00;50;TRUE;lemon;FALSE;;TRUE
+128;Leroy;Male;02/05/2008;16;Premium;3;Sat, Sun, Wed;TRUE;LesMiles, Running, HIT;13:30:00;14:20:00;50;TRUE;lemon;FALSE;;TRUE
+129;Lexi;Female;08/05/1979;45;Premium;4;Fri, Sun, Thu, Tue;FALSE;;10:05:00;10:55:00;50;TRUE;coconut_pineapple, passion_fruit;TRUE;Hanna;TRUE
+130;Casey;Female;19/03/1981;43;Standard;1;Thu;FALSE;;08:17:00;09:08:00;51;FALSE;;TRUE;Jeffrey;TRUE
+131;Ingrid;Female;26/03/2011;13;Premium;2;Sat, Sun;TRUE;Yoga, HIT;08:25:00;09:16:00;51;TRUE;passion_fruit, lemon;TRUE;Jeffrey;FALSE
+132;Christabel;Female;21/11/2000;23;Premium;3;Mon, Sat, Sun;FALSE;;13:42:00;14:33:00;51;FALSE;;FALSE;;TRUE
+133;Lyndsay;Female;14/07/2005;19;Premium;3;Sat, Sun, Thu;FALSE;;17:43:00;18:34:00;51;FALSE;;TRUE;Mike;TRUE
+134;Jolie;Female;26/04/1975;49;Standard;5;Fri, Mon, Sun, Tue, Wed;TRUE;BodyBalance, BodyPump, Running;10:28:00;11:19:00;51;FALSE;;FALSE;;FALSE
+135;Corbin;Male;19/06/1998;26;Premium;5;Mon, Sat, Sun, Thu, Wed;TRUE;Running;17:11:00;18:02:00;51;FALSE;;TRUE;Chantal;TRUE
+136;Cherry;Female;30/09/2002;22;Standard;5;Fri, Mon, Sun, Tue, Wed;FALSE;;13:52:00;14:43:00;51;FALSE;;FALSE;;TRUE
+137;Joshua;Male;24/10/2000;23;Premium;2;Fri, Tue;FALSE;;19:04:00;19:56:00;52;TRUE;orange, berry_boost;FALSE;;TRUE
+138;Angelina;Female;19/04/2007;17;Premium;2;Mon, Tue;FALSE;;15:54:00;16:46:00;52;FALSE;;TRUE;Hanna;FALSE
+139;Flint;Male;08/12/2004;19;Premium;3;Sat, Thu, Tue;TRUE;BodyPump, BodyBalance, Zumba;08:22:00;09:14:00;52;FALSE;;TRUE;Hanna;TRUE
+140;Kane;Male;22/09/1981;43;Standard;1;Sun;FALSE;;09:22:00;10:15:00;53;FALSE;;TRUE;Mike;FALSE
+141;Jane;Female;23/11/1982;41;Standard;1;Fri;TRUE;BodyPump;11:45:00;12:38:00;53;TRUE;coconut_pineapple, black_currant;TRUE;Chantal;FALSE
+142;Candy;Female;01/01/1989;35;Standard;1;Wed;FALSE;;08:34:00;09:27:00;53;FALSE;;TRUE;Chantal;FALSE
+143;Cynthia;Female;16/12/1984;39;Premium;2;Sun, Tue;TRUE;HIT, Pilates;17:43:00;18:36:00;53;FALSE;;TRUE;Chantal;TRUE
+144;Dylan;Male;16/09/1975;49;Standard;3;Sun, Tue, Wed;TRUE;Pilates;17:10:00;18:03:00;53;TRUE;orange, coconut_pineapple;TRUE;Mike;TRUE
+145;Ernie;Male;26/11/1975;48;Standard;3;Mon, Tue, Wed;FALSE;;15:32:00;16:25:00;53;TRUE;passion_fruit;TRUE;Hanna;TRUE
+146;Finn;Male;13/11/1991;32;Standard;3;Fri, Mon, Thu;FALSE;;08:13:00;09:06:00;53;TRUE;coconut_pineapple;FALSE;;FALSE
+147;Annette;Female;21/12/1984;39;Standard;4;Fri, Mon, Sat, Wed;TRUE;Yoga;10:34:00;11:27:00;53;FALSE;;FALSE;;TRUE
+148;Esty;Female;09/03/2002;22;Premium;1;Thu;FALSE;;09:43:00;10:37:00;54;TRUE;berry_boost;FALSE;;FALSE
+149;Benson;Male;11/03/1975;49;Premium;3;Fri, Thu, Wed;TRUE;XCore, Zumba, LesMiles;20:30:00;21:24:00;54;TRUE;passion_fruit;TRUE;Jeffrey;TRUE
+150;Chuck;Male;28/12/1976;47;Standard;3;Fri, Mon, Sun;FALSE;;10:08:00;11:02:00;54;FALSE;;TRUE;Hanna;FALSE
+151;Jaxon;Male;27/05/1978;46;Premium;3;Mon, Thu, Tue;TRUE;Pilates;20:17:00;21:11:00;54;FALSE;;FALSE;;TRUE
+152;Earl;Male;30/03/1984;40;Standard;3;Mon, Sat, Tue;FALSE;;08:41:00;09:35:00;54;TRUE;passion_fruit, lemon;FALSE;;TRUE
+153;Audrey;Female;05/03/2002;22;Standard;3;Sat, Sun, Thu;TRUE;Running, Kickboxen, BodyBalance;19:52:00;20:46:00;54;FALSE;;TRUE;Chantal;FALSE
+154;Ezra;Male;29/07/2006;18;Standard;3;Sun, Thu, Tue;TRUE;Running, LesMiles, Spinning;16:10:00;17:04:00;54;TRUE;lemon;FALSE;;FALSE
+155;Andrew;Male;21/09/1994;30;Premium;5;Fri, Mon, Sat, Sun, Tue;TRUE;BodyPump;13:04:00;13:58:00;54;FALSE;;TRUE;Hanna;TRUE
+156;Larissa;Female;06/04/1999;25;Premium;1;Sat;FALSE;;15:55:00;16:50:00;55;TRUE;passion_fruit, berry_boost;FALSE;;TRUE
+157;Jacqueline;Female;06/11/1976;47;Standard;2;Fri, Mon;TRUE;Yoga, Spinning, XCore;12:42:00;13:37:00;55;TRUE;berry_boost, orange;TRUE;Mike;TRUE
+158;Diamond;Female;27/08/1980;44;Standard;2;Tue, Wed;FALSE;;11:53:00;12:48:00;55;FALSE;;FALSE;;FALSE
+159;Dougie;Male;21/06/1990;34;Premium;2;Sat, Thu;TRUE;LesMiles;13:39:00;14:34:00;55;FALSE;;TRUE;Jeffrey;FALSE
+160;Lydia;Female;27/08/2010;14;Premium;2;Sat, Sun;TRUE;Kickboxen;14:18:00;15:13:00;55;TRUE;lemon, coconut_pineapple;FALSE;;TRUE
+161;Jayson;Male;16/10/1990;33;Standard;1;Fri;TRUE;Running, Pilates, XCore;16:06:00;17:02:00;56;FALSE;;FALSE;;FALSE
+162;Jade;Female;22/09/1998;26;Standard;1;Sat;TRUE;Kickboxen, BodyPump;12:44:00;13:40:00;56;FALSE;;FALSE;;FALSE
+163;Ivy;Male;01/08/2007;17;Premium;2;Sat, Tue;TRUE;Pilates, BodyPump;10:09:00;11:05:00;56;FALSE;;FALSE;;TRUE
+164;Gladys;Female;04/05/2011;13;Standard;2;Sat, Wed;TRUE;Pilates;16:36:00;17:32:00;56;TRUE;berry_boost, passion_fruit;FALSE;;FALSE
+165;Imogen;Female;24/04/1976;48;Premium;3;Fri, Sat, Thu;TRUE;Kickboxen, BodyBalance;15:30:00;16:26:00;56;TRUE;coconut_pineapple, black_currant;TRUE;Hanna;FALSE
+166;Bradley;Male;29/07/1981;43;Standard;3;Fri, Sun, Tue;FALSE;;12:12:00;13:08:00;56;TRUE;passion_fruit, lemon;TRUE;Mike;FALSE
+167;Danielle;Female;12/06/1998;26;Premium;3;Sat, Thu, Tue;TRUE;BodyBalance, Pilates, Kickboxen;17:35:00;18:31:00;56;TRUE;coconut_pineapple, black_currant;FALSE;;TRUE
+168;Carl;Male;22/01/1999;25;Premium;3;Sat, Sun, Tue;FALSE;;17:21:00;18:17:00;56;FALSE;;FALSE;;TRUE
+169;Felicity;Female;19/10/2007;16;Standard;3;Mon, Sat, Thu;FALSE;;15:10:00;16:06:00;56;FALSE;;TRUE;Chantal;FALSE
+170;Jeremiah;Male;22/06/1975;49;Standard;5;Mon, Sat, Sun, Thu, Tue;FALSE;;14:07:00;15:03:00;56;TRUE;berry_boost, orange;FALSE;;FALSE
+171;Austin;Male;28/12/1983;40;Standard;5;Sat, Sun, Thu, Tue, Wed;FALSE;;08:23:00;09:19:00;56;FALSE;;FALSE;;FALSE
+172;Chadwick;Male;26/03/1993;31;Premium;5;Sat, Sun, Thu, Tue, Wed;FALSE;;20:39:00;21:35:00;56;FALSE;;FALSE;;FALSE
+173;Clint;Male;09/05/1994;30;Standard;5;Fri, Mon, Sun, Thu, Wed;FALSE;;17:29:00;18:25:00;56;FALSE;;TRUE;Jeffrey;FALSE
+174;Leanne;Female;17/01/2012;12;Standard;5;Mon, Sun, Thu, Tue, Wed;TRUE;Running;18:32:00;19:28:00;56;TRUE;passion_fruit;FALSE;;TRUE
+175;Dede;Female;11/10/2004;20;Premium;1;Wed;FALSE;;17:52:00;18:49:00;57;TRUE;black_currant;TRUE;Hanna;TRUE
+176;Joe;Male;05/01/1995;29;Standard;2;Sun, Wed;FALSE;;17:09:00;18:06:00;57;FALSE;;TRUE;Hanna;TRUE
+177;Jemima;Female;29/01/2005;19;Standard;2;Thu, Tue;FALSE;;16:40:00;17:37:00;57;FALSE;;TRUE;Mike;TRUE
+178;Andrea;Female;16/05/2002;22;Premium;3;Fri, Sat, Sun;FALSE;;10:41:00;11:38:00;57;TRUE;lemon, berry_boost;TRUE;Hanna;TRUE
+179;Jonni;Male;18/03/1979;45;Standard;4;Sat, Sun, Thu, Tue;FALSE;;11:19:00;12:16:00;57;FALSE;;TRUE;Hanna;TRUE
+180;Alice;Female;08/07/1989;35;Standard;1;Sun;FALSE;;09:38:00;10:36:00;58;FALSE;;FALSE;;FALSE
+181;Erastus;Male;31/07/1989;35;Premium;1;Thu;TRUE;BodyPump, Running, Spinning;16:27:00;17:25:00;58;FALSE;;TRUE;Jeffrey;TRUE
+182;Israel;Male;08/12/1992;31;Standard;2;Sun, Thu;TRUE;LesMiles;20:28:00;21:26:00;58;FALSE;;TRUE;Mike;FALSE
+183;Georgia;Female;17/04/1979;45;Premium;3;Fri, Sat, Tue;TRUE;Kickboxen, BodyPump;19:59:00;20:57:00;58;TRUE;coconut_pineapple, orange;FALSE;;TRUE
+184;Janet;Female;07/04/1985;39;Standard;5;Mon, Sun, Thu, Tue, Wed;TRUE;HIT;19:04:00;20:02:00;58;TRUE;lemon;FALSE;;TRUE
+185;Cary;Female;27/05/1977;47;Premium;2;Mon, Sat;TRUE;Yoga, Pilates;08:39:00;09:38:00;59;TRUE;black_currant;TRUE;Chantal;TRUE
+186;Dani;Female;28/08/1998;26;Standard;2;Sat, Thu;FALSE;;20:26:00;21:25:00;59;FALSE;;TRUE;Chantal;TRUE
+187;Charmaine;Female;14/07/1994;30;Standard;3;Fri, Thu, Wed;TRUE;Pilates;19:16:00;20:15:00;59;FALSE;;TRUE;Chantal;TRUE
+188;Doreen;Female;26/11/2004;19;Premium;3;Sat, Tue, Wed;TRUE;Kickboxen, Spinning, HIT;10:33:00;11:32:00;59;FALSE;;FALSE;;FALSE
+189;Giles;Male;02/10/2010;14;Premium;3;Fri, Mon, Wed;TRUE;BodyBalance;17:23:00;18:22:00;59;TRUE;lemon;FALSE;;TRUE
+190;Canute;Male;11/09/2005;19;Premium;4;Fri, Mon, Tue, Wed;FALSE;;19:07:00;20:06:00;59;TRUE;coconut_pineapple;TRUE;Hanna;FALSE
+191;Gertrude;Female;11/10/2011;13;Premium;1;Sat;TRUE;XCore, BodyPump;11:55:00;12:55:00;60;FALSE;;FALSE;;TRUE
+192;Cleve;Male;07/10/1987;37;Premium;2;Fri, Thu;TRUE;BodyPump, Yoga;19:39:00;20:39:00;60;FALSE;;FALSE;;TRUE
+193;Hodierna;Female;29/09/1982;42;Premium;3;Mon, Sat, Thu;FALSE;;16:20:00;17:20:00;60;TRUE;coconut_pineapple;TRUE;Mike;FALSE
+194;Jennifer;Female;13/12/1988;35;Premium;3;Sat, Tue, Wed;FALSE;;16:35:00;17:35:00;60;TRUE;berry_boost;FALSE;;FALSE
+195;Evan;Female;14/06/1996;28;Standard;3;Fri, Sun, Tue;FALSE;;09:55:00;10:55:00;60;FALSE;;TRUE;Chantal;FALSE
+196;Conway;Male;22/04/1998;26;Premium;3;Sat, Thu, Tue;FALSE;;14:11:00;15:11:00;60;TRUE;passion_fruit, coconut_pineapple;FALSE;;FALSE
+197;Eddie;Male;14/10/2005;19;Standard;3;Mon, Sun, Wed;FALSE;;14:34:00;15:34:00;60;TRUE;coconut_pineapple, lemon;FALSE;;TRUE
+198;January;Female;26/02/1983;41;Standard;1;Sun;FALSE;;11:52:00;12:53:00;61;FALSE;;FALSE;;FALSE
+199;Claribel;Female;21/11/1988;35;Standard;2;Fri, Mon;TRUE;Pilates, XCore;16:20:00;17:21:00;61;TRUE;passion_fruit;TRUE;Jeffrey;FALSE
+200;Johnny;Male;21/03/1991;33;Standard;2;Sat, Thu;TRUE;LesMiles;14:56:00;15:57:00;61;TRUE;black_currant;TRUE;Mike;TRUE
+201;Derek;Male;12/01/1988;36;Premium;3;Sat, Sun, Wed;TRUE;LesMiles;19:37:00;20:38:00;61;FALSE;;FALSE;;TRUE
+202;Adele;Female;21/03/1989;35;Premium;3;Mon, Tue, Wed;FALSE;;19:50:00;20:51:00;61;TRUE;black_currant;FALSE;;FALSE
+203;Josephine;Female;05/08/1994;30;Standard;3;Fri, Thu, Tue;FALSE;;08:05:00;09:06:00;61;TRUE;coconut_pineapple;TRUE;Jeffrey;FALSE
+204;Adriana;Female;20/12/1987;36;Standard;4;Mon, Thu, Tue, Wed;TRUE;Spinning, Zumba, XCore;17:28:00;18:29:00;61;FALSE;;FALSE;;FALSE
+205;Kermit;Male;07/11/1994;29;Premium;5;Fri, Mon, Sat, Thu, Wed;TRUE;Pilates, BodyPump, Yoga;09:38:00;10:39:00;61;FALSE;;FALSE;;TRUE
+206;Carrie Anne;Female;18/12/1985;38;Premium;1;Sat;TRUE;Pilates;17:37:00;18:39:00;62;FALSE;;TRUE;Mike;FALSE
+207;Edwin;Male;16/01/1988;36;Standard;1;Sat;TRUE;XCore;11:56:00;12:58:00;62;TRUE;lemon, passion_fruit;TRUE;Mike;TRUE
+208;Claudia;Female;05/06/1980;44;Premium;2;Fri, Mon;TRUE;BodyBalance;17:13:00;18:15:00;62;FALSE;;FALSE;;TRUE
+209;Abner;Male;07/08/1994;30;Premium;3;Sat, Thu, Wed;TRUE;LesMiles, BodyPump;19:46:00;20:48:00;62;FALSE;;FALSE;;FALSE
+210;Jess;Male;28/02/2006;18;Standard;3;Mon, Thu, Wed;TRUE;Running;14:33:00;15:35:00;62;FALSE;;FALSE;;FALSE
+211;Clinton;Male;09/07/2011;13;Premium;3;Mon, Sat, Wed;TRUE;Spinning, XCore, LesMiles;14:53:00;15:55:00;62;FALSE;;FALSE;;FALSE
+212;Kay;Male;23/01/1985;39;Premium;4;Sun, Thu, Tue, Wed;TRUE;BodyBalance, LesMiles;13:35:00;14:37:00;62;TRUE;lemon, coconut_pineapple;TRUE;Chantal;TRUE
+213;Iggy;Male;10/07/1985;39;Premium;5;Mon, Sun, Thu, Tue, Wed;FALSE;;15:28:00;16:30:00;62;FALSE;;TRUE;Chantal;TRUE
+214;Jeb;Male;18/02/1995;29;Standard;1;Tue;TRUE;LesMiles, Running, Zumba;12:59:00;14:02:00;63;FALSE;;TRUE;Mike;TRUE
+215;Jasper;Male;20/07/1990;34;Premium;2;Mon, Sat;FALSE;;18:44:00;19:47:00;63;TRUE;coconut_pineapple;FALSE;;TRUE
+216;Helene;Female;09/11/1997;26;Premium;2;Fri, Sun;TRUE;Kickboxen;20:45:00;21:48:00;63;FALSE;;TRUE;Chantal;TRUE
+217;Eden;Male;14/03/2005;19;Premium;2;Sun, Tue;TRUE;Pilates, Zumba, Spinning;19:22:00;20:25:00;63;FALSE;;FALSE;;FALSE
+218;Larry;Male;23/01/1986;38;Standard;3;Fri, Tue, Wed;TRUE;BodyBalance, HIT;12:46:00;13:49:00;63;TRUE;lemon;TRUE;Mike;TRUE
+219;Jon;Male;01/01/1999;25;Premium;3;Fri, Mon, Tue;TRUE;HIT, LesMiles, BodyBalance;14:45:00;15:48:00;63;FALSE;;FALSE;;TRUE
+220;Ed;Male;07/08/1981;43;Premium;4;Mon, Sat, Tue, Wed;TRUE;BodyBalance, Spinning, XCore;10:38:00;11:41:00;63;TRUE;orange;TRUE;Jeffrey;TRUE
+221;Jackie;Male;09/05/1983;41;Premium;1;Wed;TRUE;BodyBalance;19:23:00;20:27:00;64;FALSE;;FALSE;;FALSE
+222;Kayla;Female;31/08/1985;39;Standard;3;Sat, Sun, Tue;FALSE;;17:06:00;18:10:00;64;TRUE;coconut_pineapple;TRUE;Jeffrey;FALSE
+223;Lincoln;Male;07/10/1997;27;Premium;3;Sat, Thu, Wed;FALSE;;11:50:00;12:54:00;64;FALSE;;FALSE;;FALSE
+224;Bobby;Female;15/10/1981;42;Premium;4;Fri, Mon, Thu, Tue;TRUE;Running;09:55:00;10:59:00;64;FALSE;;FALSE;;TRUE
+225;Louisa;Female;10/07/2006;18;Standard;4;Fri, Mon, Sat, Thu;FALSE;;09:42:00;10:46:00;64;FALSE;;TRUE;Mike;TRUE
+226;Benjamin;Male;28/05/1984;40;Premium;3;Mon, Thu, Tue;TRUE;LesMiles, HIT;19:59:00;21:04:00;65;FALSE;;TRUE;Mike;FALSE
+227;Debbie;Female;18/06/1991;33;Standard;3;Fri, Sat, Sun;FALSE;;08:47:00;09:52:00;65;FALSE;;FALSE;;TRUE
+228;Cody;Female;05/02/1999;25;Standard;3;Fri, Sun, Tue;FALSE;;15:21:00;16:26:00;65;FALSE;;TRUE;Hanna;FALSE
+229;Jasmine;Female;13/06/1980;44;Standard;1;Wed;TRUE;Yoga, BodyPump, BodyBalance;08:17:00;09:23:00;66;TRUE;berry_boost, orange;TRUE;Jeffrey;FALSE
+230;Chucky;Male;12/01/1975;49;Premium;2;Fri, Tue;TRUE;Yoga;13:20:00;14:26:00;66;FALSE;;TRUE;Chantal;TRUE
+231;Chloe;Female;06/08/1989;35;Premium;2;Mon, Wed;TRUE;Kickboxen, LesMiles;16:36:00;17:42:00;66;TRUE;passion_fruit;FALSE;;FALSE
+232;Lillie;Female;10/01/2010;14;Premium;2;Sat, Sun;FALSE;;10:09:00;11:15:00;66;FALSE;;TRUE;Chantal;TRUE
+233;Brad;Male;19/09/1992;32;Premium;3;Sat, Tue, Wed;FALSE;;20:34:00;21:40:00;66;FALSE;;TRUE;Chantal;TRUE
+234;Dominic;Male;26/12/1993;30;Standard;3;Sat, Thu, Wed;TRUE;Yoga;14:55:00;16:01:00;66;FALSE;;TRUE;Chantal;TRUE
+235;Demetrius;Male;14/11/1994;29;Standard;3;Fri, Sat, Thu;TRUE;Kickboxen;13:02:00;14:08:00;66;FALSE;;FALSE;;TRUE
+236;Annabeth;Female;09/02/1997;27;Standard;3;Mon, Sun, Tue;TRUE;BodyPump, BodyBalance, XCore;20:29:00;21:35:00;66;FALSE;;TRUE;Chantal;FALSE
+237;Kyle;Male;14/02/2003;21;Premium;3;Mon, Sat, Wed;FALSE;;13:49:00;14:55:00;66;FALSE;;TRUE;Hanna;TRUE
+238;Galton;Male;17/01/2000;24;Standard;4;Fri, Sat, Sun, Tue;FALSE;;15:28:00;16:34:00;66;FALSE;;TRUE;Chantal;FALSE
+239;Ebenezer;Male;03/12/1979;44;Premium;1;Sun;FALSE;;15:34:00;16:41:00;67;TRUE;coconut_pineapple;TRUE;Jeffrey;FALSE
+240;Lisa;Female;20/02/1983;41;Standard;1;Sat;FALSE;;10:23:00;11:30:00;67;TRUE;passion_fruit;FALSE;;FALSE
+241;Kaden;Male;27/03/2008;16;Standard;1;Mon;TRUE;XCore, Yoga;12:59:00;14:06:00;67;FALSE;;FALSE;;TRUE
+242;Charly;Male;27/10/1983;40;Premium;2;Fri, Tue;TRUE;Yoga, HIT;14:33:00;15:40:00;67;TRUE;lemon;TRUE;Jeffrey;FALSE
+243;Claude;Male;01/06/2003;21;Premium;2;Fri, Mon;TRUE;Pilates, XCore, Kickboxen;15:40:00;16:47:00;67;FALSE;;TRUE;Chantal;TRUE
+244;Jayden;Male;13/04/1976;48;Standard;3;Mon, Sat, Tue;FALSE;;19:44:00;20:51:00;67;TRUE;coconut_pineapple;FALSE;;FALSE
+245;Baron;Male;07/07/1978;46;Premium;3;Mon, Sun, Wed;TRUE;HIT, BodyPump;13:30:00;14:37:00;67;FALSE;;TRUE;Jeffrey;FALSE
+246;Gavin;Male;30/10/1980;43;Premium;3;Fri, Thu, Tue;FALSE;;08:39:00;09:46:00;67;FALSE;;FALSE;;FALSE
+247;Eileen;Female;24/03/1986;38;Standard;3;Thu, Tue, Wed;TRUE;Spinning;16:41:00;17:48:00;67;TRUE;lemon, berry_boost;FALSE;;TRUE
+248;Karen;Female;22/11/1997;26;Standard;3;Thu, Tue, Wed;FALSE;;09:38:00;10:45:00;67;FALSE;;TRUE;Hanna;TRUE
+249;Chas;Male;27/10/2003;20;Standard;4;Fri, Mon, Sun, Wed;FALSE;;17:12:00;18:19:00;67;FALSE;;FALSE;;TRUE
+250;Bud;Male;09/02/1985;39;Premium;5;Fri, Mon, Sat, Thu, Wed;FALSE;;20:01:00;21:08:00;67;TRUE;lemon;TRUE;Jeffrey;FALSE
+251;Cathy;Female;12/05/1988;36;Standard;5;Fri, Mon, Sat, Sun, Tue;FALSE;;11:33:00;12:40:00;67;TRUE;coconut_pineapple;FALSE;;TRUE
+252;Beverly;Female;20/08/2010;14;Standard;5;Fri, Sat, Sun, Thu, Tue;TRUE;XCore, Yoga, LesMiles;20:23:00;21:30:00;67;TRUE;black_currant, passion_fruit;TRUE;Mike;TRUE
+253;Jimmy;Male;24/12/2000;23;Premium;2;Fri, Tue;FALSE;;19:11:00;20:19:00;68;TRUE;coconut_pineapple, lemon;TRUE;Chantal;TRUE
+254;Kyra;Female;18/04/1985;39;Premium;3;Sat, Tue, Wed;TRUE;Pilates, Spinning;16:37:00;17:45:00;68;FALSE;;TRUE;Jeffrey;FALSE
+255;Ana;Female;13/05/1995;29;Standard;3;Sat, Tue, Wed;FALSE;;10:28:00;11:36:00;68;FALSE;;TRUE;Chantal;TRUE
+256;Karli;Female;16/11/1982;41;Premium;4;Fri, Mon, Thu, Wed;FALSE;;17:08:00;18:16:00;68;TRUE;coconut_pineapple, black_currant;TRUE;Jeffrey;FALSE
+257;Cwichelm;Male;11/08/1998;26;Standard;5;Fri, Sat, Sun, Tue, Wed;TRUE;HIT;17:57:00;19:05:00;68;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+258;Fiona;Female;24/05/1977;47;Premium;2;Sun, Tue;TRUE;LesMiles, BodyBalance;15:09:00;16:18:00;69;TRUE;berry_boost, black_currant;TRUE;Chantal;TRUE
+259;Alyson;Female;17/07/2004;20;Premium;2;Sun, Thu;TRUE;BodyBalance, Running;09:26:00;10:35:00;69;FALSE;;FALSE;;FALSE
+260;Eardwulf;Male;19/11/2007;16;Standard;2;Fri, Thu;FALSE;;11:43:00;12:52:00;69;FALSE;;FALSE;;TRUE
+261;Katey;Female;06/07/1983;41;Standard;3;Fri, Mon, Wed;FALSE;;09:26:00;10:35:00;69;TRUE;passion_fruit;FALSE;;TRUE
+262;Drew;Female;21/05/1990;34;Standard;4;Fri, Thu, Tue, Wed;FALSE;;12:46:00;13:55:00;69;FALSE;;FALSE;;FALSE
+263;Celestia;Female;15/10/1994;29;Standard;4;Fri, Mon, Sun, Wed;FALSE;;10:43:00;11:52:00;69;TRUE;lemon;TRUE;Hanna;FALSE
+264;Jenny;Female;14/10/2000;24;Standard;5;Mon, Sat, Sun, Thu, Tue;TRUE;Yoga, BodyBalance, Running;11:19:00;12:28:00;69;FALSE;;FALSE;;TRUE
+265;Lilibeth;Female;27/05/1988;36;Premium;1;Wed;FALSE;;17:30:00;18:40:00;70;TRUE;coconut_pineapple;FALSE;;FALSE
+266;Bert;Male;27/06/2005;19;Premium;1;Sat;FALSE;;16:10:00;17:20:00;70;FALSE;;TRUE;Mike;TRUE
+267;Jonny;Male;23/07/2010;14;Standard;2;Mon, Wed;FALSE;;09:46:00;10:56:00;70;FALSE;;FALSE;;TRUE
+268;Leonard;Male;28/11/1988;35;Standard;3;Mon, Sat, Thu;TRUE;BodyPump;10:36:00;11:46:00;70;TRUE;orange, berry_boost;TRUE;Mike;TRUE
+269;Graham;Male;25/10/1997;26;Standard;3;Mon, Sun, Thu;FALSE;;13:11:00;14:21:00;70;FALSE;;FALSE;;FALSE
+270;Colton;Male;28/12/2009;14;Standard;3;Fri, Tue, Wed;FALSE;;20:52:00;22:02:00;70;TRUE;coconut_pineapple, lemon;TRUE;Chantal;TRUE
+271;Drake;Male;02/01/1979;45;Standard;1;Mon;TRUE;Running, LesMiles;09:31:00;10:42:00;71;TRUE;orange, lemon;FALSE;;TRUE
+272;Celinda;Female;21/12/2010;13;Standard;2;Mon, Sat;FALSE;;12:52:00;14:03:00;71;FALSE;;FALSE;;FALSE
+273;Carissa;Female;01/10/1976;48;Premium;3;Mon, Sat, Tue;TRUE;XCore, BodyPump;20:37:00;21:48:00;71;FALSE;;TRUE;Jeffrey;TRUE
+274;Madelyn;Female;24/01/2002;22;Premium;3;Fri, Mon, Tue;TRUE;HIT, Running, Spinning;16:37:00;17:48:00;71;TRUE;berry_boost;FALSE;;TRUE
+275;Allan;Male;26/07/2002;22;Standard;3;Fri, Sun, Tue;FALSE;;17:13:00;18:24:00;71;FALSE;;FALSE;;TRUE
+276;Jacinta;Female;07/10/1999;25;Premium;4;Fri, Thu, Tue, Wed;TRUE;Kickboxen, BodyPump, HIT;09:25:00;10:36:00;71;FALSE;;FALSE;;TRUE
+277;Irma;Female;13/10/1997;27;Premium;5;Fri, Mon, Sat, Tue, Wed;TRUE;Running;14:42:00;15:53:00;71;FALSE;;FALSE;;FALSE
+278;Evelyn;Male;10/06/2008;16;Premium;2;Fri, Wed;TRUE;Running, Zumba, HIT;12:40:00;13:52:00;72;TRUE;lemon, orange;TRUE;Chantal;FALSE
+279;Don;Male;02/03/1978;46;Standard;3;Sat, Thu, Tue;FALSE;;18:28:00;19:40:00;72;FALSE;;TRUE;Jeffrey;FALSE
+280;Kristin;Female;16/09/1995;29;Standard;3;Mon, Sat, Sun;FALSE;;11:00:00;12:12:00;72;TRUE;orange, black_currant;FALSE;;FALSE
+281;Bryony;Female;06/01/2009;15;Premium;3;Mon, Thu, Tue;FALSE;;09:55:00;11:07:00;72;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+282;Charlee;Female;09/04/1990;34;Premium;2;Mon, Sun;FALSE;;19:17:00;20:30:00;73;FALSE;;TRUE;Chantal;TRUE
+283;Flynn;Male;29/08/1993;31;Standard;2;Fri, Tue;TRUE;XCore, BodyPump;09:51:00;11:04:00;73;FALSE;;TRUE;Chantal;TRUE
+284;Bertrand;Male;25/09/1997;27;Premium;2;Thu, Wed;FALSE;;20:44:00;21:57:00;73;FALSE;;TRUE;Hanna;TRUE
+285;Clarissa;Female;31/05/2009;15;Premium;2;Fri, Mon;FALSE;;13:37:00;14:50:00;73;TRUE;berry_boost;TRUE;Mike;TRUE
+286;Beatrix;Female;29/07/2010;14;Premium;3;Fri, Sat, Wed;FALSE;;14:40:00;15:53:00;73;FALSE;;TRUE;Hanna;FALSE
+287;Brooklyn;Female;09/06/2012;12;Premium;3;Sun, Thu, Tue;TRUE;Zumba, BodyPump, XCore;13:57:00;15:10:00;73;FALSE;;FALSE;;TRUE
+288;Elle;Female;16/06/1985;39;Standard;4;Sat, Sun, Thu, Tue;TRUE;Spinning, HIT;16:21:00;17:34:00;73;TRUE;lemon, black_currant;TRUE;Jeffrey;FALSE
+289;Jay;Female;16/05/2000;24;Premium;5;Fri, Sat, Sun, Thu, Wed;TRUE;BodyPump, Kickboxen;09:06:00;10:19:00;73;TRUE;passion_fruit, orange;FALSE;;TRUE
+290;Eustace;Male;16/11/1983;40;Standard;1;Fri;FALSE;;18:30:00;19:44:00;74;TRUE;lemon, black_currant;FALSE;;TRUE
+291;Joey;Male;10/11/1994;29;Standard;1;Thu;FALSE;;20:43:00;21:57:00;74;FALSE;;TRUE;Mike;TRUE
+292;Dwayne;Male;03/05/1996;28;Standard;2;Fri, Tue;FALSE;;14:12:00;15:26:00;74;TRUE;passion_fruit, orange;FALSE;;FALSE
+293;Colby;Male;28/06/1995;29;Standard;3;Mon, Sat, Thu;FALSE;;15:05:00;16:19:00;74;FALSE;;TRUE;Mike;TRUE
+294;Gertie;Female;18/12/1997;26;Standard;3;Sat, Sun, Wed;TRUE;BodyPump;10:22:00;11:36:00;74;FALSE;;TRUE;Chantal;FALSE
+295;Esther;Female;23/04/1976;48;Standard;1;Fri;FALSE;;10:42:00;11:57:00;75;TRUE;lemon;TRUE;Chantal;TRUE
+296;Jeremy;Male;28/05/1977;47;Standard;2;Sat, Thu;FALSE;;12:18:00;13:33:00;75;TRUE;orange;TRUE;Mike;FALSE
+297;Jace;Male;25/10/1980;43;Standard;2;Fri, Wed;FALSE;;13:10:00;14:25:00;75;FALSE;;TRUE;Mike;TRUE
+298;Geoffrey;Male;07/02/1985;39;Standard;2;Sat, Sun;FALSE;;16:53:00;18:08:00;75;FALSE;;TRUE;Mike;FALSE
+299;Jaylon;Male;27/12/1999;24;Standard;2;Sun, Thu;FALSE;;13:22:00;14:37:00;75;TRUE;berry_boost, black_currant;TRUE;Jeffrey;FALSE
+300;Erika;Female;29/10/2001;22;Standard;4;Fri, Sat, Thu, Tue;FALSE;;14:33:00;15:48:00;75;TRUE;orange;FALSE;;TRUE
+301;Howard;Male;17/02/2006;18;Standard;4;Mon, Sun, Thu, Tue;TRUE;Yoga, Zumba, Pilates;19:42:00;20:57:00;75;FALSE;;FALSE;;FALSE
+302;Clay;Male;06/07/1999;25;Standard;5;Mon, Sat, Sun, Thu, Wed;TRUE;Zumba, BodyPump;12:25:00;13:40:00;75;TRUE;black_currant;FALSE;;TRUE
+303;Charity;Female;04/05/1998;26;Premium;1;Thu;TRUE;Yoga, Kickboxen;16:31:00;17:47:00;76;TRUE;lemon, passion_fruit;TRUE;Hanna;TRUE
+304;Justin;Male;14/06/1988;36;Premium;3;Mon, Sat, Tue;FALSE;;16:53:00;18:09:00;76;FALSE;;TRUE;Hanna;FALSE
+305;Coral;Female;27/06/1990;34;Standard;3;Sat, Thu, Wed;TRUE;Spinning, BodyBalance, Yoga;10:47:00;12:03:00;76;FALSE;;TRUE;Chantal;TRUE
+306;Lenny;Male;21/11/1993;30;Premium;3;Fri, Sat, Thu;TRUE;Yoga, BodyPump, Kickboxen;14:44:00;16:00:00;76;TRUE;coconut_pineapple;TRUE;Hanna;TRUE
+307;Keith;Male;05/09/1994;30;Premium;3;Sat, Sun, Wed;TRUE;Pilates;11:09:00;12:25:00;76;TRUE;berry_boost, black_currant;FALSE;;TRUE
+308;Josh;Male;21/06/1975;49;Standard;1;Tue;TRUE;HIT, BodyPump, XCore;16:18:00;17:35:00;77;TRUE;orange;FALSE;;FALSE
+309;Kelsey;Male;02/06/1994;30;Premium;1;Fri;FALSE;;17:41:00;18:58:00;77;TRUE;lemon;FALSE;;TRUE
+310;Hayden;Female;20/04/1975;49;Premium;2;Tue, Wed;FALSE;;10:11:00;11:28:00;77;TRUE;berry_boost;TRUE;Hanna;FALSE
+311;Dom;Male;09/04/1991;33;Premium;3;Mon, Thu, Tue;FALSE;;09:14:00;10:31:00;77;TRUE;orange, lemon;FALSE;;TRUE
+312;Antonia;Female;08/03/2003;21;Premium;3;Mon, Sat, Sun;FALSE;;13:04:00;14:21:00;77;TRUE;berry_boost;FALSE;;FALSE
+313;Bobbi;Female;22/12/2006;17;Standard;3;Sat, Thu, Tue;TRUE;XCore;15:41:00;16:58:00;77;TRUE;berry_boost, lemon;TRUE;Chantal;FALSE
+314;Loraine;Female;16/08/2011;13;Premium;3;Sat, Thu, Wed;TRUE;BodyPump, Spinning, XCore;13:47:00;15:04:00;77;TRUE;lemon, berry_boost;FALSE;;FALSE
+315;Jeanie;Female;30/11/2007;16;Premium;4;Mon, Sun, Thu, Tue;TRUE;BodyPump;16:21:00;17:38:00;77;FALSE;;TRUE;Hanna;FALSE
+316;Hayden;Male;11/03/2002;22;Standard;5;Fri, Sat, Sun, Tue, Wed;TRUE;BodyBalance;10:31:00;11:48:00;77;TRUE;black_currant;TRUE;Mike;FALSE
+317;Darwin;Male;02/06/1981;43;Standard;1;Wed;FALSE;;19:38:00;20:56:00;78;TRUE;berry_boost;FALSE;;FALSE
+318;Charlton;Male;21/06/2006;18;Standard;2;Fri, Thu;TRUE;Yoga, Pilates, BodyPump;08:05:00;09:23:00;78;TRUE;black_currant;FALSE;;FALSE
+319;Brielle;Female;24/03/1975;49;Standard;3;Fri, Sun, Wed;FALSE;;17:42:00;19:00:00;78;TRUE;passion_fruit;TRUE;Mike;TRUE
+320;Herschel;Male;30/11/1991;32;Standard;3;Mon, Sat, Wed;TRUE;HIT, Yoga, Kickboxen;17:29:00;18:47:00;78;TRUE;passion_fruit, coconut_pineapple;FALSE;;TRUE
+321;Kendrick;Male;23/07/1979;45;Premium;5;Fri, Sat, Sun, Thu, Tue;FALSE;;19:43:00;21:01:00;78;TRUE;passion_fruit, black_currant;FALSE;;FALSE
+322;Carroll;Male;12/11/1987;36;Premium;5;Fri, Mon, Sun, Thu, Tue;FALSE;;20:57:00;22:15:00;78;TRUE;lemon;TRUE;Mike;FALSE
+323;Frankie;Male;22/12/1975;48;Premium;1;Fri;FALSE;;18:52:00;20:11:00;79;TRUE;orange;TRUE;Mike;FALSE
+324;Diane;Female;01/01/1995;29;Standard;1;Sun;TRUE;BodyPump;12:26:00;13:45:00;79;FALSE;;FALSE;;FALSE
+325;Carlene;Female;10/09/2005;19;Standard;1;Sun;FALSE;;20:26:00;21:45:00;79;FALSE;;FALSE;;TRUE
+326;Emo;Male;04/09/1976;48;Premium;2;Mon, Thu;FALSE;;16:59:00;18:18:00;79;FALSE;;FALSE;;FALSE
+327;Juno;Male;13/09/1984;40;Premium;2;Sat, Tue;TRUE;Pilates, HIT, Running;20:33:00;21:52:00;79;TRUE;berry_boost, orange;TRUE;Jeffrey;TRUE
+328;Arthur;Male;18/05/1980;44;Standard;3;Sat, Sun, Wed;TRUE;HIT;10:11:00;11:30:00;79;TRUE;black_currant;TRUE;Jeffrey;TRUE
+329;Alexa;Female;18/03/1981;43;Standard;5;Fri, Sat, Sun, Tue, Wed;FALSE;;09:02:00;10:21:00;79;FALSE;;FALSE;;FALSE
+330;Hale;Male;11/01/1987;37;Premium;1;Wed;TRUE;LesMiles;09:10:00;10:30:00;80;TRUE;orange, black_currant;FALSE;;FALSE
+331;Gwenda;Female;26/03/1987;37;Standard;1;Fri;TRUE;LesMiles, Yoga;10:36:00;11:56:00;80;TRUE;coconut_pineapple;FALSE;;TRUE
+332;Daniel;Male;09/05/1995;29;Premium;1;Mon;TRUE;HIT;17:22:00;18:42:00;80;TRUE;black_currant;TRUE;Jeffrey;TRUE
+333;Leisha;Female;05/02/1995;29;Premium;2;Fri, Sun;FALSE;;11:02:00;12:22:00;80;TRUE;orange, coconut_pineapple;TRUE;Chantal;TRUE
+334;Emerald;Female;14/02/1986;38;Standard;3;Mon, Sun, Tue;TRUE;Pilates;11:37:00;12:57:00;80;TRUE;orange, black_currant;TRUE;Jeffrey;TRUE
+335;Darren;Male;13/10/1990;34;Premium;3;Fri, Tue, Wed;FALSE;;14:36:00;15:56:00;80;FALSE;;TRUE;Mike;FALSE
+336;Dimity;Female;26/12/1994;29;Premium;1;Sat;FALSE;;16:54:00;18:15:00;81;FALSE;;TRUE;Chantal;TRUE
+337;Bill;Male;22/07/1977;47;Premium;2;Fri, Tue;TRUE;Running, BodyPump;16:41:00;18:02:00;81;TRUE;passion_fruit, orange;TRUE;Chantal;TRUE
+338;Lauren;Female;08/04/1989;35;Premium;2;Fri, Sun;TRUE;BodyPump, Spinning;14:22:00;15:43:00;81;TRUE;black_currant;FALSE;;FALSE
+339;Felix;Male;21/10/1995;28;Standard;3;Sat, Thu, Wed;FALSE;;10:48:00;12:09:00;81;FALSE;;FALSE;;FALSE
+340;Albina;Female;04/11/2002;21;Premium;3;Fri, Mon, Thu;TRUE;Spinning, BodyPump, Zumba;20:15:00;21:36:00;81;TRUE;orange, coconut_pineapple;FALSE;;TRUE
+341;Charlee;Male;03/01/2005;19;Premium;4;Sat, Sun, Tue, Wed;TRUE;Kickboxen, Running;15:49:00;17:10:00;81;TRUE;passion_fruit;FALSE;;FALSE
+342;Gwendolyn;Female;23/09/1981;43;Premium;5;Mon, Sat, Sun, Thu, Wed;TRUE;BodyPump, Running;13:20:00;14:41:00;81;TRUE;black_currant, orange;FALSE;;TRUE
+343;Lucia;Female;31/10/2001;22;Standard;5;Fri, Mon, Sat, Sun, Wed;TRUE;Running;15:44:00;17:05:00;81;FALSE;;TRUE;Chantal;FALSE
+344;Hazel;Female;30/03/1975;49;Premium;2;Mon, Sun;FALSE;;19:30:00;20:52:00;82;TRUE;berry_boost;TRUE;Chantal;FALSE
+345;Alison;Male;21/04/1996;28;Premium;2;Sat, Wed;TRUE;BodyPump, Yoga;20:58:00;22:20:00;82;FALSE;;FALSE;;TRUE
+346;Kelsey;Female;18/08/1986;38;Premium;3;Sat, Sun, Wed;TRUE;XCore;13:20:00;14:42:00;82;FALSE;;FALSE;;FALSE
+347;George;Male;08/08/2007;17;Standard;3;Sat, Thu, Tue;FALSE;;11:02:00;12:24:00;82;FALSE;;TRUE;Chantal;TRUE
+348;Joelle;Female;25/06/2005;19;Premium;4;Fri, Sat, Sun, Thu;FALSE;;11:16:00;12:38:00;82;FALSE;;FALSE;;TRUE
+349;Davis;Male;09/06/1975;49;Premium;1;Fri;TRUE;Kickboxen, BodyBalance;13:06:00;14:29:00;83;FALSE;;TRUE;Hanna;TRUE
+350;Liliana;Female;27/10/1987;36;Premium;1;Fri;FALSE;;11:05:00;12:28:00;83;TRUE;orange, black_currant;FALSE;;TRUE
+351;Brock;Male;14/07/2010;14;Premium;1;Fri;FALSE;;13:06:00;14:29:00;83;FALSE;;FALSE;;TRUE
+352;Gwendolen;Female;08/08/1978;46;Premium;2;Mon, Tue;FALSE;;17:54:00;19:17:00;83;FALSE;;FALSE;;TRUE
+353;Enoch;Male;08/09/2002;22;Standard;2;Sat, Thu;FALSE;;16:19:00;17:42:00;83;TRUE;lemon;FALSE;;FALSE
+354;Elmer;Male;13/09/2004;20;Premium;2;Mon, Wed;FALSE;;08:50:00;10:13:00;83;FALSE;;FALSE;;FALSE
+355;Clementine;Female;16/09/2007;17;Standard;2;Fri, Sun;TRUE;LesMiles;20:55:00;22:18:00;83;TRUE;lemon, orange;FALSE;;FALSE
+356;Kim;Male;05/08/1975;49;Premium;3;Sat, Sun, Tue;TRUE;Zumba;10:55:00;12:18:00;83;TRUE;orange;FALSE;;TRUE
+357;Bayard;Male;17/11/1989;34;Standard;3;Fri, Thu, Tue;FALSE;;15:41:00;17:04:00;83;TRUE;lemon, passion_fruit;TRUE;Hanna;FALSE
+358;Frank;Male;25/07/1978;46;Premium;5;Mon, Sat, Thu, Tue, Wed;FALSE;;20:46:00;22:09:00;83;TRUE;orange, black_currant;TRUE;Hanna;TRUE
+359;Krista;Female;20/09/1983;41;Standard;1;Fri;TRUE;HIT, LesMiles;09:46:00;11:10:00;84;TRUE;black_currant;TRUE;Chantal;FALSE
+360;Arlo;Male;02/04/1995;29;Premium;1;Mon;FALSE;;08:33:00;09:57:00;84;TRUE;coconut_pineapple;FALSE;;FALSE
+361;Douglas;Male;07/10/1998;26;Premium;1;Fri;TRUE;Pilates;12:45:00;14:09:00;84;TRUE;black_currant, orange;TRUE;Chantal;TRUE
+362;Frances;Female;23/10/2002;21;Standard;1;Mon;FALSE;;08:29:00;09:53:00;84;TRUE;passion_fruit;FALSE;;FALSE
+363;Eugene;Male;21/07/1993;31;Premium;2;Mon, Wed;TRUE;Yoga, Zumba;20:28:00;21:52:00;84;TRUE;black_currant;TRUE;Hanna;FALSE
+364;Charli;Female;23/01/1982;42;Standard;3;Sun, Thu, Wed;FALSE;;13:32:00;14:56:00;84;FALSE;;TRUE;Hanna;TRUE
+365;Brenda;Female;29/01/2001;23;Premium;3;Mon, Sun, Thu;FALSE;;09:56:00;11:20:00;84;TRUE;berry_boost, coconut_pineapple;TRUE;Chantal;FALSE
+366;Beau;Female;16/12/2004;19;Standard;3;Fri, Thu, Tue;FALSE;;10:58:00;12:22:00;84;FALSE;;TRUE;Hanna;TRUE
+367;Mable;Female;24/12/1990;33;Premium;4;Fri, Mon, Sun, Thu;FALSE;;10:24:00;11:48:00;84;TRUE;lemon;FALSE;;FALSE
+368;Bramwell;Male;17/03/1975;49;Premium;1;Sat;FALSE;;11:21:00;12:46:00;85;FALSE;;FALSE;;TRUE
+369;Gerard;Male;27/03/1987;37;Premium;1;Sun;TRUE;Zumba, LesMiles;12:16:00;13:41:00;85;FALSE;;FALSE;;TRUE
+370;Fleur;Female;21/03/1997;27;Premium;1;Thu;FALSE;;14:17:00;15:42:00;85;FALSE;;FALSE;;FALSE
+371;Kristen;Female;24/12/1978;45;Standard;2;Thu, Wed;FALSE;;08:54:00;10:19:00;85;FALSE;;TRUE;Hanna;TRUE
+372;Des;Male;19/04/1993;31;Standard;2;Sun, Thu;TRUE;Yoga, Pilates, BodyPump;17:57:00;19:22:00;85;TRUE;lemon, passion_fruit;TRUE;Jeffrey;TRUE
+373;Becca;Female;27/02/1992;32;Premium;3;Fri, Sun, Thu;FALSE;;14:23:00;15:48:00;85;TRUE;passion_fruit, orange;FALSE;;FALSE
+374;Jacob;Male;10/08/2005;19;Standard;3;Sat, Thu, Tue;TRUE;Kickboxen, Zumba, LesMiles;13:19:00;14:44:00;85;TRUE;lemon;FALSE;;FALSE
+375;Bettina;Female;19/03/2008;16;Premium;3;Fri, Sun, Wed;FALSE;;17:21:00;18:46:00;85;FALSE;;TRUE;Chantal;FALSE
+376;Griffin;Male;01/01/1999;25;Standard;4;Fri, Mon, Tue, Wed;FALSE;;19:23:00;20:48:00;85;FALSE;;FALSE;;TRUE
+377;Cassidy;Female;30/07/1992;32;Standard;5;Fri, Sun, Thu, Tue, Wed;FALSE;;19:52:00;21:17:00;85;TRUE;black_currant;TRUE;Mike;TRUE
+378;Ethan;Male;19/03/1982;42;Standard;1;Thu;TRUE;Kickboxen, Zumba, HIT;12:52:00;14:18:00;86;FALSE;;FALSE;;FALSE
+379;Alex;Female;07/12/1976;47;Premium;2;Mon, Sat;TRUE;XCore, Running, BodyBalance;14:42:00;16:08:00;86;FALSE;;TRUE;Hanna;TRUE
+380;Darby;Male;14/12/1998;25;Premium;2;Fri, Mon;FALSE;;16:54:00;18:20:00;86;FALSE;;TRUE;Mike;FALSE
+381;Dean;Male;17/03/2005;19;Standard;2;Fri, Sat;TRUE;LesMiles, Kickboxen;20:23:00;21:49:00;86;FALSE;;TRUE;Jeffrey;FALSE
+382;Alvin;Male;11/07/2007;17;Premium;2;Fri, Tue;TRUE;Kickboxen;10:40:00;12:06:00;86;FALSE;;FALSE;;TRUE
+383;Ariel;Female;08/02/2003;21;Premium;3;Mon, Sat, Wed;FALSE;;08:34:00;10:00:00;86;FALSE;;FALSE;;TRUE
+384;Edmund;Male;18/09/1979;45;Standard;1;Mon;FALSE;;19:23:00;20:50:00;87;FALSE;;TRUE;Jeffrey;TRUE
+385;Aurora;Female;27/03/1991;33;Premium;1;Thu;FALSE;;14:02:00;15:29:00;87;FALSE;;FALSE;;FALSE
+386;Corina;Female;05/01/1996;28;Premium;1;Tue;TRUE;Spinning, LesMiles, Yoga;13:08:00;14:35:00;87;TRUE;black_currant;TRUE;Hanna;TRUE
+387;Alexander;Male;04/03/1989;35;Standard;3;Sun, Tue, Wed;FALSE;;15:02:00;16:29:00;87;FALSE;;FALSE;;FALSE
+388;Josiah;Male;23/02/2006;18;Premium;3;Fri, Mon, Thu;TRUE;Spinning, Running, BodyBalance;11:41:00;13:08:00;87;FALSE;;FALSE;;FALSE
+389;Darla;Female;12/09/2012;12;Standard;3;Mon, Sat, Tue;FALSE;;08:59:00;10:26:00;87;FALSE;;TRUE;Hanna;FALSE
+390;Charlotte;Female;02/07/1993;31;Premium;4;Fri, Mon, Sat, Thu;FALSE;;11:54:00;13:21:00;87;FALSE;;FALSE;;TRUE
+391;Haisley;Female;20/06/2008;16;Premium;5;Fri, Sat, Thu, Tue, Wed;FALSE;;18:39:00;20:06:00;87;FALSE;;TRUE;Jeffrey;TRUE
+392;Giselle;Female;04/11/2003;20;Standard;1;Tue;FALSE;;08:55:00;10:23:00;88;TRUE;berry_boost, passion_fruit;TRUE;Hanna;TRUE
+393;Antony;Male;09/06/2004;20;Premium;1;Sun;FALSE;;15:33:00;17:01:00;88;FALSE;;TRUE;Mike;TRUE
+394;Jared;Male;01/09/1997;27;Premium;2;Fri, Sun;FALSE;;17:22:00;18:50:00;88;TRUE;coconut_pineapple, orange;TRUE;Chantal;FALSE
+395;Beresford;Male;17/03/1988;36;Standard;3;Fri, Sat, Tue;TRUE;Running, Yoga, Pilates;18:19:00;19:47:00;88;FALSE;;FALSE;;FALSE
+396;Heywood;Male;12/06/2001;23;Premium;2;Mon, Wed;TRUE;Pilates, Spinning, Running;18:01:00;19:30:00;89;FALSE;;TRUE;Hanna;TRUE
+397;Lila;Female;06/11/1987;36;Premium;3;Sat, Sun, Tue;TRUE;Pilates, HIT, Zumba;09:39:00;11:08:00;89;FALSE;;FALSE;;TRUE
+398;Charley;Female;14/04/2001;23;Premium;3;Fri, Sat, Thu;TRUE;Kickboxen, LesMiles, Yoga;13:06:00;14:35:00;89;TRUE;coconut_pineapple, orange;TRUE;Chantal;FALSE
+399;Cindy;Female;10/10/1986;38;Standard;4;Fri, Mon, Sun, Thu;TRUE;HIT;12:50:00;14:19:00;89;FALSE;;FALSE;;TRUE
+400;Julien;Male;19/09/1977;47;Premium;5;Sat, Sun, Thu, Tue, Wed;FALSE;;11:26:00;12:55:00;89;FALSE;;FALSE;;TRUE
+401;Casey;Male;05/10/2005;19;Standard;5;Fri, Mon, Sun, Thu, Tue;FALSE;;20:23:00;21:52:00;89;TRUE;coconut_pineapple;FALSE;;FALSE
+402;Jordan;Male;26/05/1984;40;Standard;1;Thu;FALSE;;20:27:00;21:57:00;90;TRUE;berry_boost, lemon;FALSE;;FALSE
+403;Deorwine;Male;26/10/1993;30;Premium;1;Sun;TRUE;LesMiles;08:38:00;10:08:00;90;FALSE;;TRUE;Mike;TRUE
+404;Eleanor;Female;11/11/1998;25;Standard;2;Mon, Tue;TRUE;Running, Spinning;13:59:00;15:29:00;90;FALSE;;TRUE;Jeffrey;TRUE
+405;Johnny;Female;21/07/2012;12;Premium;2;Sun, Thu;TRUE;HIT, Kickboxen, BodyBalance;10:42:00;12:12:00;90;FALSE;;FALSE;;FALSE
+406;Frederick;Male;23/02/1995;29;Standard;3;Fri, Mon, Thu;TRUE;XCore, HIT, Spinning;20:39:00;22:09:00;90;FALSE;;TRUE;Hanna;FALSE
+407;Harwood;Male;06/05/1996;28;Premium;3;Sun, Thu, Tue;FALSE;;10:17:00;11:47:00;90;FALSE;;TRUE;Hanna;FALSE
+408;Lysette;Female;12/04/2003;21;Premium;3;Fri, Sat, Tue;FALSE;;09:22:00;10:52:00;90;TRUE;black_currant;TRUE;Hanna;FALSE
+409;Loretta;Female;20/09/2001;23;Standard;5;Fri, Mon, Sun, Tue, Wed;FALSE;;16:33:00;18:03:00;90;FALSE;;FALSE;;FALSE
+410;Alberta;Female;21/01/1997;27;Premium;1;Wed;FALSE;;11:25:00;12:56:00;91;TRUE;orange;FALSE;;TRUE
+411;Gunner;Male;12/03/1976;48;Premium;2;Fri, Tue;TRUE;Spinning, Pilates;11:46:00;13:17:00;91;TRUE;black_currant, coconut_pineapple;FALSE;;TRUE
+412;Astrid;Female;20/12/1976;47;Premium;2;Sat, Tue;FALSE;;13:19:00;14:50:00;91;TRUE;coconut_pineapple;TRUE;Mike;TRUE
+413;Kasey;Female;23/07/1977;47;Standard;2;Fri, Tue;TRUE;LesMiles, Yoga;19:19:00;20:50:00;91;FALSE;;FALSE;;FALSE
+414;Carmelita;Female;09/01/2005;19;Premium;2;Tue, Wed;TRUE;Spinning;10:32:00;12:03:00;91;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+415;Lorna;Female;29/05/2009;15;Standard;2;Sun, Wed;FALSE;;12:35:00;14:06:00;91;FALSE;;FALSE;;FALSE
+416;Jaynie;Female;04/05/1994;30;Premium;3;Sat, Thu, Wed;FALSE;;10:16:00;11:47:00;91;TRUE;orange;FALSE;;TRUE
+417;Ashley;Male;28/08/2012;12;Premium;3;Fri, Sun, Thu;TRUE;Pilates, LesMiles;19:57:00;21:28:00;91;TRUE;orange, black_currant;FALSE;;FALSE
+418;Jolyon;Male;21/03/2010;14;Premium;1;Fri;FALSE;;12:10:00;13:42:00;92;TRUE;berry_boost;FALSE;;TRUE
+419;Isaiah;Male;06/04/2009;15;Standard;2;Mon, Sun;TRUE;Pilates;20:07:00;21:39:00;92;TRUE;coconut_pineapple, orange;FALSE;;FALSE
+420;Absalom;Male;28/07/1978;46;Premium;3;Sat, Sun, Thu;TRUE;BodyPump;09:45:00;11:17:00;92;TRUE;orange, lemon;TRUE;Mike;FALSE
+421;Ian;Male;01/11/1983;40;Standard;3;Mon, Thu, Tue;FALSE;;19:38:00;21:10:00;92;TRUE;black_currant;TRUE;Chantal;TRUE
+422;Drummond;Male;03/08/1991;33;Standard;3;Sat, Sun, Wed;TRUE;BodyBalance, Kickboxen, HIT;16:59:00;18:31:00;92;TRUE;orange;TRUE;Jeffrey;FALSE
+423;Curtley;Male;04/10/1997;27;Premium;3;Mon, Thu, Wed;TRUE;Zumba, HIT;10:06:00;11:38:00;92;TRUE;coconut_pineapple, passion_fruit;FALSE;;FALSE
+424;Hero;Female;23/07/1998;26;Standard;5;Fri, Sun, Thu, Tue, Wed;FALSE;;19:51:00;21:23:00;92;TRUE;orange;TRUE;Chantal;TRUE
+425;Gerald;Male;25/07/2003;21;Standard;5;Fri, Mon, Sat, Sun, Tue;FALSE;;14:29:00;16:01:00;92;TRUE;orange, black_currant;TRUE;Chantal;TRUE
+426;Lewis;Male;16/12/1981;42;Standard;1;Mon;TRUE;HIT;14:05:00;15:38:00;93;TRUE;lemon, black_currant;TRUE;Hanna;TRUE
+427;Gary;Male;10/10/1983;41;Standard;1;Thu;FALSE;;10:52:00;12:25:00;93;TRUE;lemon;FALSE;;TRUE
+428;Bo;Male;27/01/1995;29;Standard;1;Sun;FALSE;;17:00:00;18:33:00;93;TRUE;lemon;FALSE;;TRUE
+429;Angus;Male;31/12/1988;35;Premium;2;Mon, Tue;FALSE;;17:06:00;18:39:00;93;TRUE;berry_boost;TRUE;Chantal;FALSE
+430;Clarence;Male;03/02/1992;32;Premium;2;Fri, Sun;TRUE;Yoga;13:19:00;14:52:00;93;TRUE;lemon, black_currant;TRUE;Mike;TRUE
+431;Barb;Female;30/03/2002;22;Premium;2;Sun, Thu;TRUE;BodyPump, Yoga, Pilates;19:19:00;20:52:00;93;TRUE;lemon, black_currant;FALSE;;FALSE
+432;Elisha;Male;28/06/2007;17;Standard;2;Fri, Wed;TRUE;BodyPump, XCore;08:24:00;09:57:00;93;FALSE;;FALSE;;FALSE
+433;Ken;Male;28/06/2011;13;Standard;2;Thu, Wed;FALSE;;19:29:00;21:02:00;93;TRUE;coconut_pineapple;FALSE;;TRUE
+434;Algernon;Male;17/07/1979;45;Standard;3;Mon, Sun, Thu;FALSE;;09:43:00;11:16:00;93;TRUE;coconut_pineapple, passion_fruit;FALSE;;TRUE
+435;Joy;Female;09/12/1990;33;Standard;3;Fri, Sat, Sun;FALSE;;15:13:00;16:46:00;93;FALSE;;TRUE;Chantal;TRUE
+436;Kathy;Female;10/04/1984;40;Premium;4;Sat, Sun, Thu, Tue;TRUE;Yoga;19:35:00;21:08:00;93;FALSE;;FALSE;;FALSE
+437;Henry;Male;05/09/1983;41;Standard;5;Fri, Sat, Sun, Tue, Wed;FALSE;;10:22:00;11:55:00;93;TRUE;coconut_pineapple, orange;FALSE;;TRUE
+438;Betsy;Female;07/03/2002;22;Standard;5;Fri, Sat, Sun, Tue, Wed;TRUE;Running, BodyPump, XCore;08:13:00;09:46:00;93;FALSE;;FALSE;;TRUE
+439;Lettice;Female;21/03/2004;20;Standard;1;Tue;TRUE;XCore, HIT, Zumba;15:06:00;16:40:00;94;FALSE;;FALSE;;FALSE
+440;Leslie;Female;19/07/1990;34;Premium;2;Fri, Tue;FALSE;;17:02:00;18:36:00;94;TRUE;passion_fruit;TRUE;Mike;TRUE
+441;Anne;Female;05/10/2008;16;Premium;2;Sat, Sun;FALSE;;11:29:00;13:03:00;94;TRUE;passion_fruit, black_currant;FALSE;;TRUE
+442;Kalla;Female;21/01/2000;24;Premium;3;Mon, Sat, Sun;FALSE;;13:20:00;14:54:00;94;FALSE;;FALSE;;TRUE
+443;Dwight;Male;31/03/1979;45;Standard;1;Mon;TRUE;Yoga;18:07:00;19:42:00;95;FALSE;;FALSE;;FALSE
+444;Kailey;Female;14/09/1987;37;Standard;1;Sat;TRUE;HIT;08:37:00;10:12:00;95;TRUE;orange, passion_fruit;TRUE;Mike;FALSE
+445;Audra;Female;22/07/2003;21;Standard;2;Fri, Mon;FALSE;;20:13:00;21:48:00;95;TRUE;coconut_pineapple;FALSE;;FALSE
+446;Abraham;Male;13/11/2003;20;Standard;2;Mon, Wed;TRUE;Yoga, XCore;17:45:00;19:20:00;95;TRUE;coconut_pineapple;FALSE;;TRUE
+447;Karly;Female;14/05/1982;42;Premium;3;Mon, Sun, Thu;TRUE;HIT, Spinning;11:44:00;13:19:00;95;FALSE;;TRUE;Chantal;TRUE
+448;Bart;Male;16/10/2009;14;Standard;3;Mon, Sat, Thu;FALSE;;08:40:00;10:15:00;95;FALSE;;TRUE;Chantal;TRUE
+449;Emily;Female;20/12/1995;28;Premium;4;Mon, Sat, Thu, Wed;FALSE;;09:22:00;10:57:00;95;FALSE;;TRUE;Jeffrey;FALSE
+450;Becki;Female;20/08/1993;31;Premium;5;Fri, Mon, Sat, Thu, Wed;TRUE;Spinning, BodyPump;09:31:00;11:06:00;95;FALSE;;TRUE;Mike;TRUE
+451;Dick;Male;02/05/2001;23;Standard;1;Sun;FALSE;;11:28:00;13:04:00;96;FALSE;;TRUE;Mike;FALSE
+452;Ebony;Female;02/04/2002;22;Premium;1;Sun;TRUE;Pilates, LesMiles, Spinning;12:27:00;14:03:00;96;TRUE;coconut_pineapple;FALSE;;TRUE
+453;Leon;Male;08/10/1976;48;Standard;3;Fri, Sun, Wed;FALSE;;11:07:00;12:43:00;96;TRUE;berry_boost, coconut_pineapple;TRUE;Hanna;TRUE
+454;Cletus;Male;23/01/2004;20;Premium;5;Fri, Mon, Sat, Sun, Tue;FALSE;;20:16:00;21:52:00;96;TRUE;black_currant, coconut_pineapple;TRUE;Mike;FALSE
+455;Ciarán;Male;27/12/1996;27;Standard;2;Sun, Thu;FALSE;;11:23:00;13:00:00;97;FALSE;;TRUE;Chantal;TRUE
+456;Destiny;Female;28/09/2002;22;Standard;3;Sat, Thu, Tue;TRUE;LesMiles, Pilates;17:29:00;19:06:00;97;TRUE;lemon, black_currant;FALSE;;FALSE
+457;Chris;Female;22/02/2003;21;Premium;3;Fri, Sat, Wed;TRUE;XCore;20:22:00;21:59:00;97;TRUE;passion_fruit;FALSE;;TRUE
+458;Karyn;Female;12/08/1995;29;Standard;4;Mon, Sat, Tue, Wed;TRUE;Running, Spinning;09:11:00;10:48:00;97;FALSE;;FALSE;;TRUE
+459;Holbrook;Male;08/12/1999;24;Standard;4;Fri, Sat, Sun, Wed;TRUE;XCore, HIT;13:12:00;14:49:00;97;FALSE;;TRUE;Hanna;FALSE
+460;Jeff;Male;02/03/1988;36;Standard;1;Tue;TRUE;BodyBalance;20:44:00;22:22:00;98;TRUE;black_currant;TRUE;Chantal;TRUE
+461;Isaac;Male;16/03/1988;36;Premium;1;Mon;FALSE;;08:43:00;10:21:00;98;TRUE;black_currant, berry_boost;FALSE;;FALSE
+462;Laurie;Male;27/04/1981;43;Standard;3;Fri, Sun, Tue;FALSE;;18:37:00;20:15:00;98;FALSE;;TRUE;Mike;TRUE
+463;Aleana;Female;26/02/1982;42;Premium;3;Sat, Sun, Tue;TRUE;LesMiles, HIT;10:23:00;12:01:00;98;FALSE;;TRUE;Chantal;TRUE
+464;Alicia;Female;26/06/1995;29;Premium;1;Thu;TRUE;BodyBalance;10:25:00;12:04:00;99;TRUE;black_currant, lemon;TRUE;Chantal;FALSE
+465;Dicky;Male;22/02/1990;34;Premium;2;Tue, Wed;FALSE;;17:18:00;18:57:00;99;TRUE;passion_fruit;TRUE;Mike;FALSE
+466;Ab;Male;12/04/1980;44;Premium;3;Sat, Tue, Wed;FALSE;;09:54:00;11:33:00;99;TRUE;passion_fruit;TRUE;Mike;TRUE
+467;Herbert;Male;18/06/1988;36;Premium;3;Sat, Sun, Tue;TRUE;Pilates, BodyPump, Yoga;16:01:00;17:40:00;99;TRUE;black_currant;TRUE;Mike;TRUE
+468;Isabel;Female;22/12/1999;24;Premium;1;Sat;FALSE;;16:51:00;18:31:00;100;FALSE;;TRUE;Mike;TRUE
+469;Becky;Female;19/05/2003;21;Standard;2;Sun, Thu;FALSE;;13:05:00;14:45:00;100;TRUE;passion_fruit;TRUE;Mike;FALSE
+470;Brian;Male;20/06/1976;48;Premium;3;Fri, Sat, Thu;TRUE;Kickboxen, Running, LesMiles;08:33:00;10:13:00;100;TRUE;passion_fruit;TRUE;Jeffrey;TRUE
+471;Mallory;Female;14/03/1979;45;Premium;5;Fri, Mon, Sun, Thu, Wed;FALSE;;19:04:00;20:44:00;100;TRUE;orange;TRUE;Chantal;TRUE
+472;Charlene;Female;27/03/1981;43;Premium;5;Fri, Sat, Sun, Tue, Wed;FALSE;;12:31:00;14:11:00;100;TRUE;orange, passion_fruit;TRUE;Mike;FALSE
+473;Lawrence;Male;01/11/2009;14;Standard;1;Mon;TRUE;Yoga, BodyBalance, XCore;11:56:00;13:37:00;101;FALSE;;FALSE;;FALSE
+474;Gina;Female;21/09/2012;12;Premium;2;Mon, Tue;TRUE;BodyBalance, HIT;09:49:00;11:30:00;101;FALSE;;TRUE;Hanna;FALSE
+475;Christina;Female;04/09/1983;41;Standard;3;Sun, Thu, Wed;TRUE;XCore, Pilates, HIT;15:40:00;17:21:00;101;TRUE;passion_fruit, orange;TRUE;Chantal;FALSE
+476;Leslie;Male;18/05/1992;32;Standard;3;Fri, Tue, Wed;TRUE;Kickboxen;17:47:00;19:28:00;101;FALSE;;FALSE;;TRUE
+477;Fletcher;Male;16/03/1998;26;Premium;5;Fri, Sat, Sun, Tue, Wed;TRUE;Spinning;15:57:00;17:38:00;101;FALSE;;FALSE;;TRUE
+478;Cameron;Male;02/01/1983;41;Premium;1;Thu;TRUE;Running, HIT;11:28:00;13:10:00;102;TRUE;lemon, coconut_pineapple;TRUE;Jeffrey;TRUE
+479;Adrien;Male;17/06/1989;35;Standard;1;Fri;TRUE;BodyBalance, Zumba, Yoga;13:12:00;14:54:00;102;TRUE;coconut_pineapple;TRUE;Chantal;FALSE
+480;Clifford;Male;26/07/2007;17;Standard;1;Fri;FALSE;;16:59:00;18:41:00;102;TRUE;passion_fruit, black_currant;FALSE;;FALSE
+481;Kate;Female;10/11/1997;26;Premium;2;Sun, Thu;TRUE;Spinning;08:00:00;09:42:00;102;FALSE;;TRUE;Hanna;TRUE
+482;Jay;Male;28/02/1978;46;Premium;4;Mon, Sat, Thu, Wed;TRUE;Pilates, LesMiles;16:32:00;18:14:00;102;TRUE;lemon, orange;TRUE;Hanna;TRUE
+483;Ella;Female;09/04/1994;30;Premium;4;Fri, Sat, Sun, Wed;TRUE;BodyPump, Pilates, Yoga;14:27:00;16:09:00;102;FALSE;;TRUE;Jeffrey;FALSE
+484;Magnolia;Female;12/10/1975;49;Premium;1;Fri;TRUE;Pilates, Kickboxen, BodyBalance;15:17:00;17:00:00;103;TRUE;coconut_pineapple;FALSE;;FALSE
+485;Hunter;Female;04/12/1987;36;Premium;1;Fri;TRUE;Yoga, Pilates;14:49:00;16:32:00;103;TRUE;passion_fruit, berry_boost;TRUE;Chantal;FALSE
+486;Anna;Female;23/09/1988;36;Standard;2;Fri, Tue;TRUE;Yoga, LesMiles, Spinning;18:19:00;20:02:00;103;FALSE;;TRUE;Jeffrey;TRUE
+487;Jonnie;Male;13/10/1989;35;Standard;2;Sat, Sun;TRUE;HIT;12:59:00;14:42:00;103;FALSE;;FALSE;;FALSE
+488;Henrietta;Female;21/11/1980;43;Standard;3;Sat, Sun, Wed;TRUE;BodyBalance, Zumba, Kickboxen;10:17:00;12:00:00;103;FALSE;;TRUE;Mike;FALSE
+489;Estelle;Female;28/01/1983;41;Premium;3;Fri, Sat, Sun;FALSE;;09:56:00;11:39:00;103;FALSE;;TRUE;Chantal;TRUE
+490;Gus;Male;11/06/1985;39;Premium;3;Sun, Thu, Wed;FALSE;;12:36:00;14:19:00;103;FALSE;;TRUE;Chantal;FALSE
+491;Honor;Female;20/05/1988;36;Standard;3;Fri, Thu, Tue;TRUE;BodyBalance, Running, LesMiles;17:33:00;19:16:00;103;FALSE;;FALSE;;TRUE
+492;Hank;Male;20/08/1999;25;Standard;3;Thu, Tue, Wed;TRUE;Pilates, HIT, LesMiles;16:33:00;18:16:00;103;FALSE;;TRUE;Jeffrey;FALSE
+493;Doug;Male;27/01/2010;14;Premium;5;Sat, Sun, Thu, Tue, Wed;TRUE;BodyBalance, Zumba;08:25:00;10:08:00;103;FALSE;;TRUE;Mike;TRUE
+494;Ike;Male;24/01/1977;47;Standard;1;Tue;TRUE;BodyPump, Running;18:15:00;19:59:00;104;TRUE;coconut_pineapple;FALSE;;TRUE
+495;Avis;Female;31/07/1977;47;Premium;1;Sun;FALSE;;16:23:00;18:07:00;104;FALSE;;TRUE;Chantal;FALSE
+496;Isidore;Male;27/08/1997;27;Standard;1;Sun;FALSE;;18:02:00;19:46:00;104;TRUE;coconut_pineapple, black_currant;FALSE;;FALSE
+497;Gregory;Male;15/06/1984;40;Premium;2;Mon, Sat;TRUE;BodyPump, Pilates;14:58:00;16:42:00;104;FALSE;;FALSE;;TRUE
+498;Cyrus;Male;18/08/1985;39;Standard;2;Mon, Sat;FALSE;;14:30:00;16:14:00;104;FALSE;;TRUE;Mike;FALSE
+499;Jayda;Female;21/11/1984;39;Standard;4;Sat, Sun, Tue, Wed;FALSE;;13:57:00;15:41:00;104;TRUE;passion_fruit;TRUE;Hanna;TRUE
+500;Jefferson;Male;20/05/2006;18;Premium;4;Mon, Sat, Thu, Wed;FALSE;;08:59:00;10:43:00;104;FALSE;;TRUE;Mike;FALSE
+501;Gorden;Male;13/09/2010;14;Premium;4;Mon, Sun, Thu, Wed;FALSE;;20:36:00;22:20:00;104;TRUE;passion_fruit;FALSE;;FALSE
+502;Jess;Female;20/03/1983;41;Standard;2;Sat, Sun;TRUE;Zumba, XCore;09:57:00;11:42:00;105;TRUE;coconut_pineapple, lemon;FALSE;;FALSE
+503;Davina;Female;18/05/1985;39;Standard;2;Thu, Wed;TRUE;Spinning, Yoga;08:25:00;10:10:00;105;FALSE;;TRUE;Jeffrey;FALSE
+504;Louise;Female;27/03/2000;24;Premium;2;Mon, Tue;TRUE;Spinning, LesMiles, BodyPump;11:39:00;13:24:00;105;FALSE;;FALSE;;FALSE
+505;Brianna;Female;25/11/2010;13;Standard;2;Mon, Tue;FALSE;;17:27:00;19:12:00;105;FALSE;;FALSE;;FALSE
+506;Liam;Male;29/07/1977;47;Premium;3;Mon, Sun, Tue;FALSE;;10:48:00;12:33:00;105;TRUE;black_currant, lemon;FALSE;;TRUE
+507;Clara;Female;08/10/1985;39;Standard;3;Mon, Tue, Wed;FALSE;;16:51:00;18:36:00;105;FALSE;;FALSE;;TRUE
+508;Jarrod;Male;26/06/1988;36;Standard;3;Fri, Sun, Wed;TRUE;Spinning;18:25:00;20:10:00;105;TRUE;passion_fruit;TRUE;Chantal;FALSE
+509;Betty;Female;21/06/2010;14;Premium;3;Sat, Sun, Wed;FALSE;;10:11:00;11:56:00;105;TRUE;lemon, passion_fruit;FALSE;;TRUE
+510;Georgiana;Female;29/08/1985;39;Premium;4;Mon, Thu, Tue, Wed;FALSE;;18:58:00;20:43:00;105;FALSE;;FALSE;;FALSE
+511;Ellie;Female;10/01/1999;25;Premium;4;Mon, Sun, Tue, Wed;TRUE;Running;18:14:00;19:59:00;105;FALSE;;TRUE;Chantal;TRUE
+512;Kristy;Female;29/04/1993;31;Standard;5;Fri, Sat, Sun, Tue, Wed;TRUE;Pilates, BodyBalance, Spinning;09:47:00;11:32:00;105;FALSE;;TRUE;Chantal;TRUE
+513;Darlene;Female;06/02/1998;26;Standard;5;Fri, Mon, Sat, Thu, Tue;FALSE;;13:34:00;15:19:00;105;TRUE;passion_fruit, berry_boost;FALSE;;TRUE
+514;Lilla;Female;14/01/1984;40;Standard;1;Sun;TRUE;BodyPump, Spinning;16:03:00;17:49:00;106;FALSE;;FALSE;;TRUE
+515;Kathleen;Female;04/06/1976;48;Premium;2;Mon, Thu;TRUE;BodyPump, XCore, Zumba;08:15:00;10:01:00;106;TRUE;lemon;TRUE;Jeffrey;TRUE
+516;Duane;Male;04/04/2001;23;Standard;2;Sat, Thu;FALSE;;11:56:00;13:42:00;106;FALSE;;TRUE;Jeffrey;TRUE
+517;Danny;Male;25/05/2003;21;Premium;2;Mon, Wed;FALSE;;20:10:00;21:56:00;106;FALSE;;FALSE;;TRUE
+518;Armistead;Male;27/06/1977;47;Premium;3;Fri, Sat, Tue;TRUE;Kickboxen, HIT, BodyPump;12:51:00;14:37:00;106;FALSE;;TRUE;Chantal;TRUE
+519;Margaret;Female;22/09/1984;40;Standard;3;Thu, Tue, Wed;FALSE;;20:56:00;22:42:00;106;FALSE;;FALSE;;FALSE
+520;Coloman;Male;29/02/2008;16;Premium;1;Tue;TRUE;XCore, Spinning, BodyPump;08:38:00;10:25:00;107;FALSE;;TRUE;Mike;TRUE
+521;Emil;Male;26/06/1980;44;Premium;2;Mon, Sun;FALSE;;08:10:00;09:57:00;107;TRUE;orange;TRUE;Jeffrey;TRUE
+522;Archibald;Male;24/10/1990;33;Premium;2;Mon, Sun;TRUE;Zumba, Spinning, BodyBalance;16:16:00;18:03:00;107;TRUE;berry_boost;TRUE;Mike;FALSE
+523;Alexandria;Female;19/01/2006;18;Premium;2;Mon, Tue;TRUE;LesMiles;10:26:00;12:13:00;107;TRUE;passion_fruit, black_currant;FALSE;;TRUE
+524;Amy;Female;08/05/1977;47;Premium;3;Mon, Sun, Wed;FALSE;;18:30:00;20:17:00;107;FALSE;;TRUE;Chantal;FALSE
+525;Charl;Male;27/10/2003;20;Standard;3;Fri, Mon, Thu;TRUE;Zumba, Yoga, Pilates;17:30:00;19:17:00;107;FALSE;;TRUE;Jeffrey;TRUE
+526;Jamie;Female;15/10/2006;17;Standard;3;Fri, Sat, Sun;FALSE;;18:02:00;19:49:00;107;FALSE;;FALSE;;TRUE
+527;Alexis;Female;11/06/2008;16;Premium;3;Mon, Sun, Tue;FALSE;;16:04:00;17:51:00;107;TRUE;coconut_pineapple;TRUE;Hanna;TRUE
+528;Enid;Female;20/09/1986;38;Premium;4;Fri, Mon, Thu, Wed;TRUE;BodyPump, LesMiles, HIT;20:54:00;22:41:00;107;FALSE;;TRUE;Hanna;TRUE
+529;Clyde;Male;02/08/1998;26;Standard;4;Sat, Sun, Thu, Wed;TRUE;Spinning, Running, LesMiles;08:48:00;10:35:00;107;FALSE;;FALSE;;FALSE
+530;Jaime;Female;28/05/2002;22;Standard;5;Fri, Mon, Sun, Tue, Wed;FALSE;;13:50:00;15:37:00;107;FALSE;;FALSE;;FALSE
+531;Greg;Male;24/09/2011;13;Standard;5;Fri, Mon, Sat, Sun, Thu;TRUE;Yoga, BodyBalance, HIT;17:13:00;19:00:00;107;FALSE;;FALSE;;FALSE
+532;Barbara;Female;02/07/1981;43;Premium;1;Fri;TRUE;Kickboxen;20:09:00;21:57:00;108;FALSE;;FALSE;;TRUE
+533;Leo;Male;18/03/1991;33;Standard;1;Wed;TRUE;BodyPump;16:41:00;18:29:00;108;FALSE;;FALSE;;TRUE
+534;Kenneth;Male;11/05/1985;39;Premium;2;Mon, Thu;FALSE;;17:57:00;19:45:00;108;TRUE;coconut_pineapple, berry_boost;TRUE;Jeffrey;TRUE
+535;Juniper;Female;30/01/1995;29;Standard;2;Fri, Tue;FALSE;;20:52:00;22:40:00;108;FALSE;;TRUE;Chantal;FALSE
+536;Horace;Male;28/11/1996;27;Standard;2;Mon, Thu;TRUE;XCore;20:32:00;22:20:00;108;TRUE;passion_fruit, orange;FALSE;;FALSE
+537;Carina;Female;30/07/2000;24;Standard;2;Fri, Mon;FALSE;;20:41:00;22:29:00;108;FALSE;;FALSE;;FALSE
+538;Flynn;Male;28/06/2009;15;Standard;4;Fri, Sat, Sun, Wed;FALSE;;14:06:00;15:54:00;108;TRUE;coconut_pineapple, lemon;FALSE;;TRUE
+539;Benedict;Male;10/04/1988;36;Standard;1;Tue;FALSE;;20:55:00;22:44:00;109;TRUE;lemon;FALSE;;TRUE
+540;June;Female;27/06/1988;36;Premium;1;Wed;FALSE;;20:00:00;21:49:00;109;FALSE;;TRUE;Mike;TRUE
+541;Daphne;Female;11/06/1990;34;Premium;1;Thu;TRUE;Spinning, BodyBalance;17:57:00;19:46:00;109;FALSE;;TRUE;Chantal;TRUE
+542;Blake;Female;03/06/2002;22;Standard;3;Sat, Sun, Wed;TRUE;Kickboxen, HIT;17:57:00;19:46:00;109;FALSE;;TRUE;Hanna;FALSE
+543;Braden;Male;05/10/2010;14;Standard;3;Mon, Sun, Thu;TRUE;Running, BodyBalance, Kickboxen;12:27:00;14:16:00;109;FALSE;;FALSE;;TRUE
+544;Bertram;Male;02/02/1995;29;Premium;2;Fri, Mon;TRUE;Pilates, HIT;20:15:00;22:05:00;110;FALSE;;FALSE;;TRUE
+545;Irene;Female;19/06/1995;29;Premium;2;Sat, Tue;TRUE;Spinning, LesMiles;20:00:00;21:50:00;110;TRUE;black_currant;TRUE;Chantal;FALSE
+546;Karyne;Female;27/08/1990;34;Premium;3;Fri, Sun, Wed;FALSE;;09:21:00;11:11:00;110;TRUE;lemon;FALSE;;FALSE
+547;Jameson;Male;13/07/1989;35;Premium;5;Sat, Sun, Thu, Tue, Wed;FALSE;;13:07:00;14:57:00;110;TRUE;coconut_pineapple, berry_boost;TRUE;Chantal;FALSE
+548;Colin;Male;03/06/2002;22;Premium;5;Fri, Sat, Thu, Tue, Wed;TRUE;LesMiles;17:41:00;19:31:00;110;FALSE;;FALSE;;FALSE
+549;Madison;Female;13/10/2008;16;Premium;5;Fri, Mon, Thu, Tue, Wed;FALSE;;16:39:00;18:30:00;111;TRUE;orange;FALSE;;FALSE
+550;Janie;Female;17/11/2009;14;Premium;5;Sat, Sun, Thu, Tue, Wed;TRUE;Yoga, BodyBalance, Zumba;10:49:00;12:40:00;111;TRUE;lemon;FALSE;;FALSE
+551;Lizzie;Female;29/11/1989;34;Standard;1;Wed;TRUE;BodyBalance;10:28:00;12:20:00;112;TRUE;berry_boost, orange;TRUE;Chantal;FALSE
+552;Alanna;Female;04/10/2008;16;Premium;1;Fri;FALSE;;08:42:00;10:34:00;112;FALSE;;FALSE;;FALSE
+553;Finn;Female;09/07/1997;27;Premium;2;Tue, Wed;FALSE;;18:28:00;20:20:00;112;TRUE;coconut_pineapple;FALSE;;FALSE
+554;Dorothy;Female;09/01/1998;26;Standard;3;Thu, Tue, Wed;FALSE;;14:54:00;16:46:00;112;TRUE;orange, black_currant;TRUE;Chantal;TRUE
+555;Clover;Female;27/07/1987;37;Standard;1;Tue;TRUE;XCore;18:06:00;19:59:00;113;FALSE;;FALSE;;FALSE
+556;Fabienne;Female;22/07/2012;12;Standard;3;Sat, Thu, Wed;TRUE;BodyPump;11:50:00;13:43:00;113;TRUE;passion_fruit, orange;FALSE;;TRUE
+557;Lily;Female;22/03/2012;12;Standard;5;Fri, Mon, Sun, Thu, Wed;FALSE;;10:25:00;12:18:00;113;FALSE;;FALSE;;TRUE
+558;Helen;Female;22/08/1980;44;Premium;2;Sun, Wed;TRUE;BodyPump;14:41:00;16:35:00;114;FALSE;;FALSE;;FALSE
+559;Cecily;Female;25/04/1999;25;Standard;2;Thu, Wed;FALSE;;10:38:00;12:32:00;114;TRUE;coconut_pineapple;TRUE;Hanna;FALSE
+560;Dora;Female;25/09/1975;49;Premium;3;Mon, Sun, Wed;FALSE;;19:37:00;21:31:00;114;TRUE;berry_boost, coconut_pineapple;FALSE;;FALSE
+561;Cathleen;Female;06/02/1987;37;Standard;3;Mon, Tue, Wed;TRUE;Zumba, BodyBalance;18:07:00;20:01:00;114;FALSE;;FALSE;;TRUE
+562;Aidan;Male;10/04/1992;32;Standard;5;Fri, Sat, Sun, Tue, Wed;TRUE;BodyBalance, Pilates, Running;19:41:00;21:35:00;114;TRUE;berry_boost;TRUE;Chantal;FALSE
+563;Karlene;Female;17/11/2003;20;Standard;1;Fri;FALSE;;11:35:00;13:30:00;115;FALSE;;FALSE;;TRUE
+564;Laurel;Female;16/12/1999;24;Premium;2;Sat, Thu;TRUE;HIT, XCore, Pilates;18:33:00;20:28:00;115;TRUE;orange, black_currant;FALSE;;FALSE
+565;Julia;Female;23/12/2001;22;Standard;2;Mon, Wed;TRUE;LesMiles;12:13:00;14:08:00;115;TRUE;berry_boost;FALSE;;FALSE
+566;Heidi;Female;24/11/2002;21;Standard;2;Mon, Wed;FALSE;;10:26:00;12:21:00;115;TRUE;black_currant, coconut_pineapple;TRUE;Mike;TRUE
+567;Branden;Male;22/09/2005;19;Standard;2;Mon, Tue;TRUE;Yoga;14:01:00;15:56:00;115;FALSE;;FALSE;;FALSE
+568;Grace;Female;19/01/1978;46;Premium;3;Sat, Thu, Tue;TRUE;BodyPump, LesMiles;18:15:00;20:10:00;115;FALSE;;TRUE;Jeffrey;TRUE
+569;Julianne;Female;22/11/1978;45;Premium;3;Fri, Mon, Wed;TRUE;LesMiles, Kickboxen;15:39:00;17:34:00;115;TRUE;coconut_pineapple, orange;TRUE;Mike;TRUE
+570;Hannibal;Male;27/10/1989;34;Premium;3;Fri, Sun, Tue;FALSE;;10:54:00;12:49:00;115;TRUE;passion_fruit;TRUE;Hanna;TRUE
+571;Eversley;Male;02/04/1983;41;Premium;5;Mon, Sat, Sun, Tue, Wed;FALSE;;20:35:00;22:30:00;115;FALSE;;FALSE;;TRUE
+572;Jack;Female;06/04/2007;17;Premium;5;Mon, Sat, Sun, Tue, Wed;TRUE;BodyBalance, Kickboxen;10:00:00;11:55:00;115;TRUE;orange;FALSE;;FALSE
+573;Curtis;Male;13/04/1982;42;Premium;2;Fri, Mon;FALSE;;18:22:00;20:18:00;116;TRUE;orange, black_currant;TRUE;Chantal;FALSE
+574;Gwen;Female;20/04/1985;39;Standard;2;Fri, Wed;FALSE;;10:32:00;12:28:00;116;FALSE;;FALSE;;TRUE
+575;Ernest;Male;27/05/1985;39;Premium;4;Mon, Sun, Tue, Wed;TRUE;BodyPump;19:22:00;21:18:00;116;TRUE;passion_fruit, orange;FALSE;;FALSE
+576;Abby;Female;18/04/1997;27;Premium;4;Mon, Sat, Tue, Wed;TRUE;Kickboxen, BodyPump, Zumba;19:31:00;21:27:00;116;FALSE;;FALSE;;TRUE
+577;Horatio;Male;20/01/1990;34;Standard;5;Fri, Mon, Sun, Thu, Tue;FALSE;;08:33:00;10:29:00;116;FALSE;;FALSE;;FALSE
+578;Carolyn;Female;14/11/1995;28;Premium;5;Fri, Mon, Sat, Sun, Wed;TRUE;Zumba, HIT;18:00:00;19:56:00;116;FALSE;;FALSE;;FALSE
+579;Madelaine;Female;25/03/1998;26;Standard;1;Mon;TRUE;XCore;11:42:00;13:39:00;117;FALSE;;TRUE;Jeffrey;FALSE
+580;Chaz;Male;28/03/1979;45;Standard;2;Mon, Wed;TRUE;XCore, HIT, Kickboxen;08:12:00;10:09:00;117;TRUE;coconut_pineapple, black_currant;FALSE;;FALSE
+581;Jeffrey;Male;19/03/1994;30;Premium;2;Sat, Thu;FALSE;;11:18:00;13:15:00;117;FALSE;;TRUE;Jeffrey;FALSE
+582;Art;Male;18/09/2005;19;Premium;2;Sat, Tue;FALSE;;16:57:00;18:54:00;117;TRUE;coconut_pineapple;TRUE;Jeffrey;FALSE
+583;Dana;Male;04/06/1980;44;Standard;3;Fri, Mon, Tue;FALSE;;10:31:00;12:28:00;117;TRUE;coconut_pineapple;TRUE;Chantal;FALSE
+584;Ellen;Female;25/03/1994;30;Standard;3;Sat, Sun, Wed;TRUE;Yoga, Spinning;18:36:00;20:33:00;117;TRUE;orange;TRUE;Jeffrey;FALSE
+585;Danna;Female;12/01/2008;16;Premium;3;Sun, Thu, Wed;TRUE;LesMiles, HIT, Pilates;12:45:00;14:42:00;117;TRUE;orange, lemon;TRUE;Hanna;FALSE
+586;Alexandra;Female;01/11/1983;40;Premium;2;Sat, Thu;FALSE;;08:39:00;10:37:00;118;FALSE;;FALSE;;FALSE
+587;Gloria;Female;21/09/1988;36;Standard;2;Mon, Sun;FALSE;;15:38:00;17:36:00;118;FALSE;;TRUE;Mike;FALSE
+588;Gia;Female;03/08/1995;29;Standard;2;Fri, Thu;FALSE;;14:45:00;16:43:00;118;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+589;Digby;Male;20/12/2011;12;Standard;2;Sat, Wed;TRUE;Kickboxen, BodyBalance;13:58:00;15:56:00;118;TRUE;orange, lemon;TRUE;Chantal;TRUE
+590;Leila;Female;22/12/2002;21;Premium;3;Mon, Sun, Thu;FALSE;;10:39:00;12:37:00;118;TRUE;orange;TRUE;Chantal;FALSE
+591;Ælfweard;Male;31/03/2005;19;Premium;3;Fri, Sun, Wed;TRUE;Zumba;15:01:00;16:59:00;118;TRUE;berry_boost, passion_fruit;FALSE;;FALSE
+592;Godfrey;Male;15/09/2012;12;Premium;3;Fri, Mon, Wed;TRUE;Kickboxen, HIT;14:54:00;16:52:00;118;FALSE;;FALSE;;FALSE
+593;Jeffery;Male;24/09/1994;30;Premium;2;Sun, Wed;TRUE;BodyBalance, Yoga, Running;14:19:00;16:18:00;119;TRUE;orange, berry_boost;TRUE;Chantal;FALSE
+594;Ben;Male;26/04/1997;27;Premium;2;Fri, Tue;TRUE;Zumba;11:35:00;13:34:00;119;TRUE;orange;FALSE;;TRUE
+595;Adrian;Male;24/01/2010;14;Premium;3;Sat, Tue, Wed;FALSE;;14:34:00;16:33:00;119;TRUE;lemon, coconut_pineapple;TRUE;Jeffrey;TRUE
+596;Agatha;Female;30/04/2011;13;Standard;3;Sat, Thu, Tue;FALSE;;16:54:00;18:53:00;119;FALSE;;TRUE;Mike;TRUE
+597;Chandos;Male;24/08/1985;39;Standard;5;Fri, Mon, Sat, Thu, Wed;TRUE;XCore, Pilates;15:16:00;17:15:00;119;TRUE;lemon;TRUE;Mike;FALSE
+598;Effie;Female;20/04/1981;43;Standard;1;Sat;TRUE;Yoga;14:44:00;16:44:00;120;TRUE;passion_fruit, berry_boost;TRUE;Chantal;TRUE
+599;Kimberly;Female;26/02/1992;32;Standard;1;Sat;FALSE;;17:58:00;19:58:00;120;TRUE;lemon;FALSE;;TRUE
+600;Elisha;Female;05/12/1982;41;Standard;2;Sun, Tue;TRUE;HIT, BodyBalance;14:06:00;16:06:00;120;TRUE;orange, berry_boost;TRUE;Jeffrey;TRUE
+601;Carlton;Male;18/06/1979;45;Standard;5;Fri, Mon, Sun, Tue, Wed;TRUE;Spinning, BodyBalance, BodyPump;14:59:00;16:59:00;120;FALSE;;FALSE;;TRUE
+602;Elton;Male;31/01/1996;28;Standard;5;Fri, Mon, Sat, Tue, Wed;FALSE;;14:53:00;16:53:00;120;TRUE;lemon;FALSE;;FALSE
+603;Lois;Female;05/09/1981;43;Standard;1;Mon;FALSE;;15:04:00;17:05:00;121;FALSE;;TRUE;Jeffrey;FALSE
+604;Clare;Female;18/06/1985;39;Standard;2;Sun, Thu;FALSE;;12:53:00;14:54:00;121;FALSE;;TRUE;Jeffrey;FALSE
+605;Laurence;Female;10/07/2002;22;Premium;3;Fri, Thu, Wed;TRUE;Zumba;11:46:00;13:47:00;121;FALSE;;TRUE;Chantal;TRUE
+606;Kelly;Male;26/11/1989;34;Standard;1;Sun;TRUE;LesMiles, Running, Zumba;14:47:00;16:49:00;122;TRUE;black_currant, passion_fruit;FALSE;;FALSE
+607;Amelia;Female;20/08/1988;36;Standard;2;Sat, Thu;TRUE;XCore, Zumba;19:38:00;21:40:00;122;TRUE;orange;TRUE;Chantal;TRUE
+608;Julian;Male;28/08/1997;27;Premium;3;Sat, Thu, Wed;FALSE;;20:18:00;22:20:00;122;TRUE;passion_fruit;TRUE;Hanna;FALSE
+609;Lavender;Female;09/07/1991;33;Premium;5;Fri, Sat, Sun, Thu, Tue;TRUE;XCore, Running, LesMiles;12:21:00;14:23:00;122;TRUE;berry_boost, coconut_pineapple;FALSE;;TRUE
+610;Aaron;Male;30/03/1983;41;Premium;1;Sat;TRUE;XCore;08:29:00;10:32:00;123;TRUE;berry_boost, lemon;TRUE;Mike;FALSE
+611;Arabella;Female;03/06/1983;41;Standard;2;Tue, Wed;TRUE;BodyPump, Spinning, HIT;16:43:00;18:46:00;123;TRUE;coconut_pineapple;TRUE;Chantal;TRUE
+612;Francis;Male;13/05/1991;33;Standard;2;Sat, Wed;TRUE;BodyPump, Running;17:06:00;19:09:00;123;TRUE;orange, berry_boost;TRUE;Hanna;FALSE
+613;Holden;Male;06/11/1986;37;Standard;3;Sun, Thu, Wed;TRUE;BodyPump, HIT;10:37:00;12:40:00;123;FALSE;;TRUE;Chantal;FALSE
+614;Freddy;Male;28/04/1975;49;Standard;2;Sat, Wed;FALSE;;15:41:00;17:45:00;124;TRUE;passion_fruit, orange;FALSE;;FALSE
+615;Charle;Female;30/12/2000;23;Standard;4;Fri, Sun, Thu, Wed;FALSE;;10:17:00;12:21:00;124;TRUE;lemon, passion_fruit;FALSE;;TRUE
+616;Judith;Female;05/11/1997;26;Standard;5;Sat, Sun, Thu, Tue, Wed;FALSE;;15:16:00;17:20:00;124;FALSE;;TRUE;Jeffrey;FALSE
+617;Karl;Male;28/07/1976;48;Standard;2;Thu, Wed;TRUE;Zumba, HIT, XCore;15:12:00;17:17:00;125;TRUE;berry_boost, black_currant;FALSE;;FALSE
+618;Guy;Male;08/01/1977;47;Standard;2;Sun, Wed;TRUE;LesMiles;08:13:00;10:18:00;125;FALSE;;TRUE;Jeffrey;TRUE
+619;Harvey;Male;28/08/1979;45;Premium;3;Mon, Sat, Tue;FALSE;;13:10:00;15:15:00;125;TRUE;passion_fruit;FALSE;;TRUE
+620;Homer;Male;06/06/1981;43;Premium;3;Fri, Sun, Tue;FALSE;;12:02:00;14:07:00;125;TRUE;black_currant;TRUE;Mike;TRUE
+621;Arliss;Male;06/11/1981;42;Standard;3;Sun, Thu, Wed;TRUE;Running, Kickboxen;18:55:00;21:00:00;125;FALSE;;FALSE;;FALSE
+622;Eric;Male;14/12/1986;37;Standard;3;Fri, Thu, Wed;TRUE;Kickboxen, Pilates, XCore;18:23:00;20:28:00;125;FALSE;;FALSE;;FALSE
+623;Carolina;Female;17/09/2000;24;Premium;4;Sun, Thu, Tue, Wed;FALSE;;09:12:00;11:17:00;125;FALSE;;FALSE;;FALSE
+624;Annie;Female;24/08/1978;46;Standard;1;Sat;FALSE;;11:13:00;13:19:00;126;TRUE;lemon, berry_boost;FALSE;;TRUE
+625;Brody;Male;16/10/2006;17;Standard;1;Mon;FALSE;;17:58:00;20:04:00;126;FALSE;;TRUE;Hanna;FALSE
+626;Dobie;Male;23/02/1975;49;Standard;2;Mon, Sun;FALSE;;18:40:00;20:46:00;126;FALSE;;TRUE;Hanna;TRUE
+627;Chester;Male;02/10/1980;44;Standard;2;Thu, Tue;FALSE;;12:01:00;14:07:00;126;FALSE;;FALSE;;TRUE
+628;Dutton;Male;27/07/2005;19;Premium;2;Fri, Tue;TRUE;LesMiles;12:50:00;14:56:00;126;TRUE;passion_fruit;FALSE;;FALSE
+629;Dana;Female;07/03/2010;14;Premium;3;Sun, Thu, Tue;FALSE;;08:29:00;10:35:00;126;FALSE;;FALSE;;FALSE
+630;Cora;Female;28/06/1987;37;Premium;4;Fri, Mon, Thu, Tue;TRUE;Pilates, Zumba, Kickboxen;11:51:00;13:57:00;126;TRUE;passion_fruit, lemon;FALSE;;FALSE
+631;Lionel;Male;22/02/2001;23;Standard;4;Mon, Sun, Thu, Tue;TRUE;HIT, XCore;10:23:00;12:29:00;126;TRUE;berry_boost;TRUE;Jeffrey;FALSE
+632;Hope;Female;20/07/1990;34;Standard;2;Mon, Thu;TRUE;Yoga, Kickboxen, Pilates;14:03:00;16:10:00;127;TRUE;passion_fruit;FALSE;;TRUE
+633;Elbert;Male;23/12/2000;23;Standard;3;Sun, Tue, Wed;TRUE;XCore, Spinning, Pilates;19:02:00;21:09:00;127;FALSE;;FALSE;;FALSE
+634;Holly;Female;09/05/2006;18;Standard;3;Sat, Tue, Wed;TRUE;HIT, LesMiles, BodyBalance;08:46:00;10:53:00;127;FALSE;;FALSE;;FALSE
+635;Clark;Male;24/01/1983;41;Standard;2;Fri, Thu;TRUE;Pilates, Yoga;10:29:00;12:37:00;128;TRUE;coconut_pineapple, orange;TRUE;Chantal;TRUE
+636;Lance;Male;08/07/1990;34;Standard;2;Fri, Mon;FALSE;;17:01:00;19:09:00;128;FALSE;;TRUE;Hanna;FALSE
+637;John;Male;20/06/2000;24;Standard;3;Sat, Thu, Wed;TRUE;Spinning, HIT;12:00:00;14:08:00;128;TRUE;lemon;FALSE;;TRUE
+638;Fern;Female;01/12/2000;23;Standard;3;Sat, Tue, Wed;TRUE;HIT, BodyBalance;12:33:00;14:41:00;128;FALSE;;FALSE;;FALSE
+639;Chance;Male;22/10/2001;22;Standard;3;Fri, Sun, Wed;TRUE;Yoga;16:31:00;18:39:00;128;FALSE;;FALSE;;FALSE
+640;Ford;Male;22/10/1984;39;Standard;5;Fri, Mon, Sun, Thu, Wed;TRUE;HIT;12:50:00;14:58:00;128;FALSE;;TRUE;Jeffrey;TRUE
+641;Hervey;Male;16/06/1996;28;Premium;5;Mon, Sat, Sun, Thu, Wed;TRUE;XCore, Running;13:31:00;15:39:00;128;FALSE;;TRUE;Chantal;TRUE
+642;Faith;Female;19/09/2012;12;Premium;2;Sat, Sun;FALSE;;08:05:00;10:14:00;129;FALSE;;FALSE;;FALSE
+643;Genevieve;Female;20/08/1990;34;Premium;3;Mon, Tue, Wed;FALSE;;11:15:00;13:24:00;129;TRUE;passion_fruit;TRUE;Chantal;TRUE
+644;Donna;Female;02/11/2007;16;Standard;3;Fri, Sun, Wed;TRUE;Kickboxen, Pilates;14:53:00;17:02:00;129;TRUE;coconut_pineapple;FALSE;;TRUE
+645;Edith;Female;22/07/2008;16;Standard;3;Sat, Sun, Wed;TRUE;Pilates, BodyBalance, Spinning;14:06:00;16:15:00;129;TRUE;berry_boost;FALSE;;FALSE
+646;Gabriel;Male;09/08/2008;16;Premium;3;Sat, Thu, Tue;FALSE;;09:37:00;11:46:00;129;TRUE;coconut_pineapple;FALSE;;TRUE
+647;Drew;Male;18/11/2003;20;Standard;4;Mon, Sat, Tue, Wed;TRUE;Running, HIT;09:46:00;11:55:00;129;FALSE;;TRUE;Mike;FALSE
+648;Jet;Male;30/03/1982;42;Premium;5;Mon, Sat, Sun, Thu, Wed;TRUE;LesMiles, XCore, BodyPump;12:05:00;14:14:00;129;TRUE;berry_boost, passion_fruit;TRUE;Mike;FALSE
+649;Billy;Male;16/03/1985;39;Standard;2;Tue, Wed;TRUE;Kickboxen, BodyPump;11:18:00;13:28:00;130;TRUE;lemon, black_currant;TRUE;Mike;FALSE
+650;Desmond;Male;16/07/1993;31;Premium;2;Sun, Tue;TRUE;Zumba, Yoga, Spinning;16:01:00;18:11:00;130;TRUE;black_currant, orange;FALSE;;TRUE
+651;Eliza;Female;13/07/1997;27;Premium;2;Fri, Tue;FALSE;;17:22:00;19:32:00;130;TRUE;passion_fruit, black_currant;FALSE;;FALSE
+652;Aidin;Male;04/03/1988;36;Premium;3;Sun, Thu, Wed;FALSE;;10:01:00;12:11:00;130;FALSE;;TRUE;Jeffrey;TRUE
+653;Karrie;Female;06/10/1994;30;Standard;4;Fri, Mon, Sat, Wed;TRUE;HIT;09:21:00;11:31:00;130;TRUE;berry_boost, black_currant;TRUE;Jeffrey;TRUE
+654;Katie;Female;05/05/1997;27;Premium;4;Mon, Sun, Thu, Wed;FALSE;;16:32:00;18:42:00;130;TRUE;orange;TRUE;Hanna;FALSE
+655;Juno;Female;09/03/2012;12;Premium;5;Fri, Mon, Sun, Thu, Tue;TRUE;LesMiles;09:35:00;11:45:00;130;TRUE;black_currant;FALSE;;FALSE
+656;Lori;Female;08/07/2009;15;Premium;1;Fri;TRUE;BodyPump;19:06:00;21:17:00;131;TRUE;black_currant, coconut_pineapple;TRUE;Mike;FALSE
+657;Bernard;Male;22/03/1988;36;Premium;2;Mon, Sat;TRUE;BodyPump, Kickboxen, Zumba;09:08:00;11:19:00;131;TRUE;orange, berry_boost;TRUE;Mike;FALSE
+658;Bernie;Male;29/06/1998;26;Standard;2;Sat, Thu;FALSE;;17:57:00;20:08:00;131;FALSE;;FALSE;;FALSE
+659;Davy;Male;03/09/1998;26;Premium;2;Tue, Wed;TRUE;XCore;19:08:00;21:19:00;131;TRUE;black_currant;TRUE;Jeffrey;TRUE
+660;Levi;Male;03/10/1987;37;Standard;1;Fri;TRUE;LesMiles, Zumba;16:04:00;18:16:00;132;TRUE;black_currant;TRUE;Mike;TRUE
+661;Derick;Male;27/02/1978;46;Premium;2;Fri, Tue;FALSE;;11:27:00;13:39:00;132;TRUE;coconut_pineapple, black_currant;TRUE;Hanna;FALSE
+662;Ida;Female;08/05/1979;45;Standard;3;Mon, Sun, Wed;FALSE;;13:42:00;15:54:00;132;FALSE;;FALSE;;FALSE
+663;Kimble;Male;11/10/1992;32;Standard;3;Mon, Sun, Thu;TRUE;Yoga, HIT, LesMiles;09:57:00;12:09:00;132;TRUE;black_currant;TRUE;Mike;TRUE
+664;Georgene;Female;30/07/1998;26;Standard;3;Sat, Thu, Wed;TRUE;BodyBalance;08:27:00;10:39:00;132;TRUE;berry_boost;FALSE;;TRUE
+665;Charli;Male;19/04/1987;37;Standard;4;Fri, Sat, Thu, Wed;TRUE;BodyBalance, Running, Yoga;18:44:00;20:56:00;132;TRUE;coconut_pineapple;FALSE;;TRUE
+666;Lanny;Male;10/12/1979;44;Premium;5;Fri, Sat, Sun, Thu, Tue;TRUE;HIT, Kickboxen;15:27:00;17:39:00;132;FALSE;;TRUE;Mike;TRUE
+667;Lorinda;Female;25/02/1983;41;Premium;5;Fri, Sat, Thu, Tue, Wed;FALSE;;13:53:00;16:05:00;132;FALSE;;FALSE;;TRUE
+668;Jonas;Male;03/09/1992;32;Premium;5;Sat, Sun, Thu, Tue, Wed;FALSE;;11:08:00;13:20:00;132;TRUE;berry_boost, orange;FALSE;;TRUE
+669;Damien;Male;13/02/1987;37;Standard;1;Mon;TRUE;BodyBalance, Running;16:45:00;18:58:00;133;FALSE;;FALSE;;FALSE
+670;Charis;Female;05/05/1998;26;Standard;2;Sun, Tue;TRUE;XCore, BodyPump;15:52:00;18:05:00;133;FALSE;;FALSE;;FALSE
+671;Caden;Male;18/02/2005;19;Premium;2;Thu, Wed;TRUE;LesMiles;17:13:00;19:26:00;133;TRUE;orange;TRUE;Jeffrey;FALSE
+672;Buddy;Male;26/03/2010;14;Standard;2;Mon, Tue;FALSE;;13:53:00;16:06:00;133;TRUE;coconut_pineapple, black_currant;TRUE;Mike;FALSE
+673;Joseph;Male;22/09/2000;24;Standard;3;Sat, Sun, Tue;FALSE;;10:46:00;12:59:00;133;FALSE;;TRUE;Jeffrey;TRUE
+674;Calvin;Male;20/06/2006;18;Standard;3;Fri, Mon, Thu;TRUE;Running, BodyPump;11:47:00;14:00:00;133;FALSE;;TRUE;Chantal;FALSE
+675;Julie;Female;17/03/1978;46;Premium;1;Thu;TRUE;Kickboxen, Running;14:44:00;16:58:00;134;FALSE;;TRUE;Chantal;FALSE
+676;Leah;Female;21/08/2001;23;Premium;2;Thu, Tue;TRUE;BodyBalance, Spinning;14:42:00;16:56:00;134;TRUE;passion_fruit, orange;TRUE;Jeffrey;FALSE
+677;Emanuel;Male;25/03/1988;36;Premium;3;Fri, Sat, Tue;FALSE;;16:05:00;18:19:00;134;FALSE;;FALSE;;TRUE
+678;Harrison;Male;23/02/1995;29;Standard;3;Mon, Sat, Sun;TRUE;Kickboxen, Running, LesMiles;09:13:00;11:27:00;134;FALSE;;FALSE;;TRUE
+679;Margie;Female;19/11/2008;15;Standard;3;Fri, Mon, Sun;TRUE;XCore, Zumba;09:14:00;11:28:00;134;TRUE;orange, lemon;FALSE;;TRUE
+680;Leonora;Female;20/03/2005;19;Standard;4;Sat, Thu, Tue, Wed;TRUE;HIT;15:47:00;18:01:00;134;FALSE;;FALSE;;FALSE
+681;Alec;Male;05/07/1980;44;Premium;1;Wed;FALSE;;20:43:00;22:58:00;135;TRUE;coconut_pineapple, berry_boost;FALSE;;FALSE
+682;Jackie;Female;17/08/1999;25;Premium;1;Tue;FALSE;;08:37:00;10:52:00;135;TRUE;lemon, passion_fruit;TRUE;Chantal;FALSE
+683;Crystal;Female;26/08/1991;33;Premium;2;Sat, Sun;TRUE;BodyBalance, Pilates, LesMiles;08:52:00;11:07:00;135;FALSE;;FALSE;;TRUE
+684;Elliot;Male;26/11/2010;13;Standard;2;Sun, Tue;TRUE;XCore;10:34:00;12:49:00;135;TRUE;orange, coconut_pineapple;FALSE;;FALSE
+685;Jonathan;Male;24/09/1976;48;Premium;3;Fri, Sat, Sun;TRUE;BodyBalance, LesMiles;16:01:00;18:16:00;135;FALSE;;TRUE;Hanna;TRUE
+686;Josie;Female;30/10/1995;28;Premium;3;Fri, Mon, Thu;FALSE;;10:11:00;12:26:00;135;TRUE;berry_boost, orange;FALSE;;TRUE
+687;Joyce;Female;08/05/2008;16;Standard;3;Sat, Tue, Wed;FALSE;;18:39:00;20:54:00;135;FALSE;;FALSE;;FALSE
+688;Kelly;Female;13/07/2009;15;Standard;3;Fri, Sun, Thu;FALSE;;14:33:00;16:48:00;135;FALSE;;FALSE;;TRUE
+689;Carlena;Female;29/09/2010;14;Standard;3;Sat, Sun, Tue;FALSE;;08:34:00;10:49:00;135;FALSE;;FALSE;;TRUE
+690;Dulcie;Female;18/04/1987;37;Premium;5;Fri, Mon, Sat, Sun, Thu;TRUE;XCore;18:48:00;21:03:00;135;FALSE;;TRUE;Chantal;TRUE
+691;Carroll;Female;08/05/2007;17;Premium;5;Fri, Sun, Thu, Tue, Wed;FALSE;;10:02:00;12:17:00;135;TRUE;lemon;TRUE;Chantal;FALSE
+692;Herman;Male;16/02/1989;35;Premium;2;Sat, Wed;TRUE;XCore, Yoga, Pilates;20:14:00;22:30:00;136;TRUE;passion_fruit;TRUE;Jeffrey;TRUE
+693;Christian;Male;01/03/1985;39;Standard;3;Sat, Thu, Wed;TRUE;BodyPump, Running, Yoga;15:19:00;17:35:00;136;FALSE;;TRUE;Mike;TRUE
+694;Jan;Female;12/10/1992;32;Standard;3;Sat, Sun, Thu;FALSE;;14:01:00;16:17:00;136;FALSE;;FALSE;;FALSE
+695;Macy;Female;21/12/1995;28;Standard;3;Fri, Sat, Sun;FALSE;;13:28:00;15:44:00;136;TRUE;berry_boost, black_currant;TRUE;Jeffrey;TRUE
+696;Butch;Male;29/09/1978;46;Standard;4;Fri, Mon, Sat, Wed;TRUE;HIT, XCore, Kickboxen;13:31:00;15:47:00;136;TRUE;black_currant, coconut_pineapple;TRUE;Mike;FALSE
+697;Alfred;Male;15/11/1997;26;Premium;5;Fri, Mon, Sun, Thu, Tue;TRUE;Yoga;16:29:00;18:45:00;136;FALSE;;TRUE;Jeffrey;TRUE
+698;Jacqui;Female;16/07/2010;14;Premium;5;Fri, Mon, Sat, Sun, Wed;TRUE;Running, LesMiles;12:54:00;15:10:00;136;TRUE;coconut_pineapple;TRUE;Chantal;TRUE
+699;Francie;Female;30/10/1975;48;Premium;1;Wed;TRUE;Yoga;14:44:00;17:01:00;137;FALSE;;TRUE;Chantal;FALSE
+700;Lillian;Female;14/03/1984;40;Premium;2;Fri, Thu;TRUE;XCore;19:07:00;21:24:00;137;FALSE;;TRUE;Jeffrey;FALSE
+701;Alma;Female;23/10/1975;48;Premium;3;Fri, Thu, Tue;TRUE;Yoga, BodyBalance;11:56:00;14:13:00;137;FALSE;;TRUE;Chantal;TRUE
+702;Kirk;Male;21/12/1978;45;Premium;3;Fri, Sat, Sun;FALSE;;10:21:00;12:38:00;137;FALSE;;TRUE;Hanna;TRUE
+703;Derrick;Male;03/05/1983;41;Premium;5;Mon, Sat, Sun, Tue, Wed;FALSE;;16:21:00;18:38:00;137;FALSE;;TRUE;Chantal;FALSE
+704;Hal;Male;14/04/2010;14;Standard;5;Sat, Sun, Thu, Tue, Wed;TRUE;HIT, BodyPump, BodyBalance;20:16:00;22:33:00;137;FALSE;;FALSE;;TRUE
+705;Emerald;Female;19/03/1983;41;Premium;1;Wed;FALSE;;16:21:00;18:39:00;138;TRUE;berry_boost;TRUE;Hanna;FALSE
+706;Kelvin;Male;14/08/2000;24;Standard;1;Fri;TRUE;Kickboxen, LesMiles, HIT;15:05:00;17:23:00;138;FALSE;;FALSE;;FALSE
+707;Caroline;Female;17/08/2000;24;Premium;1;Sun;FALSE;;14:59:00;17:17:00;138;FALSE;;TRUE;Mike;TRUE
+708;Jayne;Female;25/12/2005;18;Standard;1;Wed;TRUE;Kickboxen;17:51:00;20:09:00;138;TRUE;coconut_pineapple, berry_boost;FALSE;;TRUE
+709;Emmanuel;Male;18/08/2012;12;Premium;1;Tue;TRUE;XCore, Spinning;17:08:00;19:26:00;138;FALSE;;FALSE;;FALSE
+710;Bram;Male;27/07/1977;47;Standard;2;Sun, Thu;FALSE;;16:55:00;19:13:00;138;TRUE;black_currant;FALSE;;TRUE
+711;Bubby;Male;24/04/1979;45;Premium;2;Mon, Wed;FALSE;;11:23:00;13:41:00;138;TRUE;black_currant, coconut_pineapple;FALSE;;TRUE
+712;Kirstin;Female;22/11/1999;24;Standard;2;Sun, Tue;TRUE;BodyBalance, Pilates;17:44:00;20:02:00;138;FALSE;;TRUE;Hanna;TRUE
+713;Mara;Female;01/04/1981;43;Standard;3;Mon, Sun, Thu;FALSE;;08:22:00;10:40:00;138;FALSE;;TRUE;Chantal;FALSE
+714;Chara;Female;19/04/2004;20;Premium;3;Mon, Sat, Tue;TRUE;Zumba, Kickboxen;08:53:00;11:11:00;138;FALSE;;TRUE;Mike;TRUE
+715;Frederic;Male;03/04/2007;17;Standard;3;Fri, Mon, Sun;FALSE;;15:24:00;17:42:00;138;FALSE;;FALSE;;TRUE
+716;Jake;Male;22/10/2009;14;Premium;5;Fri, Mon, Sat, Sun, Tue;TRUE;XCore, Kickboxen, Yoga;08:10:00;10:28:00;138;TRUE;berry_boost, coconut_pineapple;FALSE;;FALSE
+717;Dane;Male;09/07/2001;23;Premium;1;Sun;TRUE;BodyBalance;20:41:00;23:00:00;139;FALSE;;TRUE;Chantal;FALSE
+718;Ealdwulf;Male;08/10/1991;33;Premium;2;Sun, Tue;FALSE;;12:42:00;15:01:00;139;TRUE;berry_boost;TRUE;Mike;FALSE
+719;Margo;Female;07/05/2006;18;Premium;2;Thu, Tue;FALSE;;16:41:00;19:00:00;139;TRUE;passion_fruit, coconut_pineapple;FALSE;;FALSE
+720;Eudora;Female;17/03/1998;26;Premium;3;Fri, Thu, Wed;TRUE;BodyBalance, XCore;18:41:00;21:00:00;139;TRUE;black_currant, coconut_pineapple;TRUE;Mike;TRUE
+721;Leopold;Male;06/10/2000;24;Standard;3;Fri, Sat, Tue;FALSE;;19:00:00;21:19:00;139;TRUE;coconut_pineapple;FALSE;;FALSE
+722;Kent;Male;13/03/2001;23;Standard;3;Mon, Sun, Thu;TRUE;Spinning, Pilates, Zumba;10:03:00;12:22:00;139;TRUE;berry_boost, coconut_pineapple;TRUE;Hanna;FALSE
+723;Gordon;Male;22/08/2006;18;Premium;3;Mon, Sat, Sun;FALSE;;11:06:00;13:25:00;139;FALSE;;FALSE;;FALSE
+724;Harry;Male;05/08/2011;13;Premium;3;Mon, Thu, Tue;FALSE;;20:25:00;22:44:00;139;FALSE;;TRUE;Chantal;FALSE
+725;Charla;Female;02/09/1983;41;Premium;1;Wed;TRUE;Yoga;13:14:00;15:34:00;140;FALSE;;FALSE;;FALSE
+726;Kristi;Female;12/11/1975;48;Standard;2;Fri, Tue;FALSE;;20:26:00;22:46:00;140;FALSE;;TRUE;Hanna;FALSE
+727;Gwendoline;Female;13/07/1979;45;Standard;2;Thu, Wed;FALSE;;15:36:00;17:56:00;140;FALSE;;TRUE;Hanna;TRUE
+728;Hubert;Male;29/07/1994;30;Premium;2;Sat, Wed;FALSE;;08:38:00;10:58:00;140;TRUE;coconut_pineapple;TRUE;Chantal;FALSE
+729;Lena;Female;14/04/1995;29;Standard;2;Fri, Sat;FALSE;;15:39:00;17:59:00;140;FALSE;;TRUE;Hanna;TRUE
+730;Duke;Male;09/07/2001;23;Standard;2;Tue, Wed;TRUE;XCore, Kickboxen;17:37:00;19:57:00;140;TRUE;orange;TRUE;Mike;TRUE
+731;Ashley;Female;15/02/2000;24;Standard;3;Fri, Mon, Sun;TRUE;BodyPump;17:42:00;20:02:00;140;FALSE;;TRUE;Mike;FALSE
+732;Jessica;Female;19/08/1981;43;Standard;1;Wed;TRUE;Kickboxen, LesMiles, Running;10:50:00;13:11:00;141;FALSE;;FALSE;;TRUE
+733;Jill;Female;12/10/1982;42;Premium;2;Thu, Tue;FALSE;;19:18:00;21:39:00;141;FALSE;;TRUE;Hanna;TRUE
+734;Lawton;Male;23/02/1988;36;Premium;2;Sat, Wed;FALSE;;16:49:00;19:10:00;141;FALSE;;TRUE;Hanna;TRUE
+735;Denis;Male;05/04/1997;27;Premium;2;Mon, Sun;TRUE;LesMiles, Yoga, Spinning;16:35:00;18:56:00;141;TRUE;lemon;TRUE;Jeffrey;FALSE
+736;Duncan;Male;23/03/2010;14;Premium;2;Sun, Tue;FALSE;;12:23:00;14:44:00;141;TRUE;berry_boost;TRUE;Chantal;TRUE
+737;Cara;Female;14/12/1985;38;Standard;3;Fri, Thu, Wed;TRUE;Yoga;08:17:00;10:38:00;141;FALSE;;FALSE;;TRUE
+738;Chandler;Male;23/11/1986;37;Premium;3;Fri, Sat, Sun;FALSE;;17:53:00;20:14:00;141;FALSE;;FALSE;;TRUE
+739;Evan;Male;19/04/1997;27;Premium;3;Mon, Sat, Thu;FALSE;;18:16:00;20:37:00;141;FALSE;;FALSE;;FALSE
+740;Jonah;Male;02/01/1993;31;Standard;4;Fri, Mon, Sat, Sun;TRUE;LesMiles, Kickboxen;17:19:00;19:40:00;141;TRUE;passion_fruit, coconut_pineapple;TRUE;Mike;FALSE
+741;Jethro;Male;27/09/1996;28;Standard;4;Fri, Sat, Thu, Wed;FALSE;;09:35:00;11:56:00;141;TRUE;berry_boost;TRUE;Mike;TRUE
+742;Jodie;Female;28/09/1976;48;Standard;5;Mon, Sat, Thu, Tue, Wed;TRUE;Yoga;11:21:00;13:42:00;141;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+743;Franklin;Male;28/11/1985;38;Standard;5;Mon, Sat, Sun, Thu, Tue;FALSE;;08:35:00;10:56:00;141;TRUE;berry_boost;TRUE;Jeffrey;FALSE
+744;Jayden;Female;21/11/1986;37;Premium;1;Sat;FALSE;;09:11:00;11:33:00;142;TRUE;black_currant;TRUE;Mike;FALSE
+745;Kylie;Female;12/03/1995;29;Premium;1;Wed;TRUE;BodyBalance;19:10:00;21:32:00;142;TRUE;black_currant, coconut_pineapple;TRUE;Mike;FALSE
+746;Alisha;Female;05/04/1996;28;Standard;1;Sun;FALSE;;11:49:00;14:11:00;142;TRUE;coconut_pineapple, passion_fruit;TRUE;Hanna;TRUE
+747;Caden;Female;20/12/1980;43;Premium;2;Mon, Sun;FALSE;;18:32:00;20:54:00;142;TRUE;passion_fruit, coconut_pineapple;TRUE;Chantal;TRUE
+748;Aviva;Female;18/06/1994;30;Premium;3;Sun, Thu, Tue;FALSE;;13:51:00;16:13:00;142;FALSE;;TRUE;Jeffrey;TRUE
+749;Chelsea;Female;21/09/2011;13;Standard;3;Mon, Sun, Thu;FALSE;;14:01:00;16:23:00;142;TRUE;passion_fruit;FALSE;;TRUE
+750;Cody;Male;28/10/2003;20;Standard;2;Fri, Sun;TRUE;Running, LesMiles, Yoga;11:47:00;14:10:00;143;TRUE;lemon;TRUE;Chantal;TRUE
+751;Babette;Female;06/05/1984;40;Standard;3;Fri, Tue, Wed;FALSE;;14:55:00;17:18:00;143;TRUE;passion_fruit;TRUE;Chantal;TRUE
+752;Garrett;Male;27/10/1986;37;Premium;3;Mon, Tue, Wed;FALSE;;20:35:00;22:58:00;143;FALSE;;TRUE;Jeffrey;FALSE
+753;Elizabeth;Female;23/07/2006;18;Standard;3;Fri, Thu, Wed;TRUE;BodyBalance, Pilates, HIT;18:43:00;21:06:00;143;TRUE;passion_fruit;FALSE;;TRUE
+754;Frankie;Female;01/03/1993;31;Premium;4;Fri, Mon, Tue, Wed;FALSE;;20:33:00;22:56:00;143;TRUE;passion_fruit;FALSE;;FALSE
+755;Jerry;Female;19/08/2005;19;Premium;5;Fri, Mon, Sat, Thu, Wed;TRUE;BodyBalance, XCore;10:54:00;13:17:00;143;TRUE;orange, berry_boost;TRUE;Mike;FALSE
+756;Katy;Female;13/12/1996;27;Standard;1;Sun;TRUE;Spinning;15:34:00;17:58:00;144;TRUE;berry_boost;TRUE;Chantal;TRUE
+757;Addison;Female;06/05/2000;24;Premium;1;Mon;FALSE;;13:05:00;15:29:00;144;FALSE;;TRUE;Jeffrey;TRUE
+758;Bertha;Female;25/02/2010;14;Standard;2;Mon, Wed;TRUE;Spinning, Kickboxen, Zumba;10:33:00;12:57:00;144;TRUE;lemon, orange;FALSE;;TRUE
+759;Lorelei;Female;17/09/1987;37;Premium;3;Sun, Tue, Wed;FALSE;;17:33:00;19:57:00;144;TRUE;berry_boost;FALSE;;FALSE
+760;Lindor;Male;12/08/1991;33;Premium;3;Fri, Sat, Tue;TRUE;Kickboxen;10:24:00;12:48:00;144;FALSE;;TRUE;Chantal;FALSE
+761;Increase;Male;08/12/1999;24;Premium;3;Mon, Thu, Wed;FALSE;;09:13:00;11:37:00;144;FALSE;;FALSE;;FALSE
+762;Domenic;Male;24/06/2006;18;Premium;4;Fri, Sat, Sun, Tue;TRUE;Running;19:08:00;21:32:00;144;TRUE;black_currant;FALSE;;FALSE
+763;Carry;Female;24/05/1992;32;Standard;5;Mon, Sat, Sun, Thu, Tue;FALSE;;08:20:00;10:44:00;144;TRUE;coconut_pineapple;FALSE;;FALSE
+764;Lotty;Female;29/09/1993;31;Standard;5;Fri, Sat, Sun, Thu, Wed;FALSE;;09:41:00;12:05:00;144;FALSE;;TRUE;Chantal;FALSE
+765;Adora;Female;01/10/1989;35;Premium;1;Sat;FALSE;;20:12:00;22:37:00;145;TRUE;orange, black_currant;TRUE;Mike;FALSE
+766;Evelyn;Female;15/11/1984;39;Standard;2;Tue, Wed;TRUE;Yoga, BodyPump;15:14:00;17:39:00;145;TRUE;black_currant;FALSE;;FALSE
+767;Ariana;Female;23/03/1990;34;Premium;2;Fri, Mon;FALSE;;09:35:00;12:00:00;145;FALSE;;TRUE;Hanna;TRUE
+768;Barry;Male;20/04/2010;14;Standard;3;Sat, Sun, Tue;FALSE;;14:09:00;16:34:00;145;FALSE;;TRUE;Jeffrey;FALSE
+769;Colleen;Female;14/05/1980;44;Standard;5;Fri, Sun, Thu, Tue, Wed;TRUE;Running;20:04:00;22:29:00;145;FALSE;;TRUE;Mike;TRUE
+770;Angelica;Female;30/11/1996;27;Standard;5;Fri, Mon, Sat, Thu, Tue;FALSE;;09:57:00;12:22:00;145;FALSE;;FALSE;;FALSE
+771;Braden;Female;22/08/1987;37;Standard;1;Sun;FALSE;;16:39:00;19:05:00;146;TRUE;lemon;TRUE;Hanna;FALSE
+772;Calla;Female;26/03/1997;27;Standard;2;Mon, Tue;TRUE;Pilates;09:10:00;11:36:00;146;FALSE;;TRUE;Chantal;TRUE
+773;Aileen;Female;31/12/1997;26;Premium;2;Fri, Mon;FALSE;;08:19:00;10:45:00;146;FALSE;;TRUE;Hanna;FALSE
+774;Cuthbert;Male;22/03/2002;22;Premium;3;Sat, Thu, Tue;TRUE;HIT, Kickboxen, Zumba;18:51:00;21:17:00;146;FALSE;;TRUE;Jeffrey;FALSE
+775;Christine;Female;16/05/1988;36;Standard;4;Fri, Mon, Thu, Wed;FALSE;;14:02:00;16:28:00;146;FALSE;;FALSE;;TRUE
+776;Bruce;Male;17/04/2012;12;Standard;5;Fri, Sat, Sun, Thu, Wed;TRUE;Pilates, Kickboxen, BodyPump;19:49:00;22:15:00;146;TRUE;lemon, orange;TRUE;Mike;FALSE
+777;Leamon;Male;12/11/1998;25;Standard;1;Fri;FALSE;;15:33:00;18:00:00;147;FALSE;;TRUE;Mike;FALSE
+778;Gideon;Male;15/06/2001;23;Standard;1;Tue;FALSE;;10:01:00;12:28:00;147;FALSE;;FALSE;;FALSE
+779;Andrée;Female;21/11/1982;41;Standard;2;Sun, Tue;FALSE;;13:55:00;16:22:00;147;FALSE;;FALSE;;TRUE
+780;Conrad;Male;01/06/1992;32;Premium;3;Sat, Sun, Wed;FALSE;;10:38:00;13:05:00;147;TRUE;lemon, black_currant;FALSE;;FALSE
+781;Kevin;Male;28/03/1997;27;Premium;3;Fri, Sat, Thu;TRUE;Yoga;10:48:00;13:15:00;147;TRUE;coconut_pineapple, lemon;FALSE;;FALSE
+782;Elijah;Male;19/06/1998;26;Standard;4;Mon, Thu, Tue, Wed;FALSE;;08:44:00;11:11:00;147;TRUE;black_currant;FALSE;;FALSE
+783;Helena;Female;26/01/1994;30;Standard;1;Fri;FALSE;;16:34:00;19:02:00;148;FALSE;;FALSE;;TRUE
+784;Haley;Female;15/03/2007;17;Standard;2;Fri, Sat;FALSE;;16:59:00;19:27:00;148;FALSE;;FALSE;;TRUE
+785;Kurt;Male;08/03/1981;43;Standard;3;Thu, Tue, Wed;FALSE;;10:47:00;13:15:00;148;FALSE;;TRUE;Mike;FALSE
+786;Landon;Male;09/03/1982;42;Standard;4;Mon, Sat, Sun, Tue;TRUE;Zumba, Pilates;19:21:00;21:49:00;148;FALSE;;TRUE;Chantal;TRUE
+787;Karin;Female;16/10/1985;38;Standard;1;Fri;TRUE;BodyPump;18:29:00;20:58:00;149;FALSE;;FALSE;;TRUE
+788;Forrest;Male;04/05/2009;15;Standard;1;Thu;TRUE;BodyPump;08:01:00;10:30:00;149;TRUE;lemon;TRUE;Hanna;TRUE
+789;Adel;Male;13/09/1991;33;Premium;2;Sat, Wed;TRUE;BodyPump, Zumba, Pilates;13:55:00;16:24:00;149;FALSE;;FALSE;;FALSE
+790;Clifton;Male;09/10/1988;36;Standard;3;Fri, Thu, Wed;FALSE;;15:28:00;17:57:00;149;TRUE;coconut_pineapple, orange;FALSE;;FALSE
+791;Janelle;Female;30/11/1988;35;Standard;3;Fri, Mon, Sun;TRUE;Pilates;15:00:00;17:29:00;149;TRUE;berry_boost;FALSE;;TRUE
+792;Francine;Female;12/09/1991;33;Standard;3;Mon, Sat, Thu;FALSE;;19:30:00;21:59:00;149;TRUE;berry_boost, orange;FALSE;;TRUE
+793;Isla;Female;07/01/1998;26;Standard;3;Sun, Tue, Wed;TRUE;XCore, BodyPump;13:24:00;15:53:00;149;TRUE;passion_fruit, berry_boost;TRUE;Mike;FALSE
+794;Elon;Male;28/09/1976;48;Premium;4;Mon, Sun, Thu, Tue;TRUE;BodyPump;16:04:00;18:33:00;149;FALSE;;TRUE;Chantal;FALSE
+795;Chip;Male;03/12/2001;22;Premium;4;Fri, Mon, Sat, Thu;FALSE;;18:08:00;20:37:00;149;FALSE;;TRUE;Mike;FALSE
+796;Lorena;Female;15/08/2001;23;Premium;5;Fri, Mon, Sat, Thu, Wed;FALSE;;13:57:00;16:26:00;149;TRUE;lemon;FALSE;;FALSE
+797;Jean;Female;02/05/2011;13;Standard;5;Fri, Sun, Thu, Tue, Wed;FALSE;;09:47:00;12:16:00;149;FALSE;;TRUE;Jeffrey;FALSE
+798;Isabella;Female;03/12/2005;18;Premium;1;Fri;FALSE;;09:13:00;11:43:00;150;TRUE;lemon;TRUE;Hanna;TRUE
+799;Lee;Male;19/05/1978;46;Premium;2;Thu, Tue;FALSE;;08:22:00;10:52:00;150;FALSE;;TRUE;Mike;TRUE
+800;Jordy;Male;07/05/2009;15;Standard;2;Fri, Sun;FALSE;;09:12:00;11:42:00;150;FALSE;;TRUE;Hanna;FALSE
+801;Iris;Female;05/03/1996;28;Standard;3;Sat, Thu, Wed;FALSE;;08:50:00;11:20:00;150;FALSE;;TRUE;Hanna;FALSE
+802;Kitty;Female;08/11/2003;20;Premium;3;Fri, Thu, Tue;FALSE;;15:37:00;18:07:00;150;FALSE;;TRUE;Hanna;FALSE
+803;Jody;Female;09/11/2003;20;Premium;3;Fri, Thu, Wed;FALSE;;15:28:00;17:58:00;150;TRUE;orange;FALSE;;TRUE
+804;Blair;Female;30/08/2004;20;Standard;4;Fri, Thu, Tue, Wed;FALSE;;11:51:00;14:21:00;150;TRUE;passion_fruit;TRUE;Jeffrey;FALSE
+805;Lorraine;Female;08/10/1981;43;Premium;5;Mon, Sat, Sun, Tue, Wed;FALSE;;12:50:00;15:20:00;150;TRUE;berry_boost;TRUE;Jeffrey;TRUE
+806;Gwyneth;Female;09/10/1986;38;Standard;1;Tue;TRUE;Yoga, Kickboxen, Pilates;12:52:00;15:23:00;151;TRUE;black_currant;FALSE;;FALSE
+807;Carol Ann;Female;31/10/1981;42;Premium;2;Mon, Wed;FALSE;;11:03:00;13:34:00;151;TRUE;passion_fruit;TRUE;Hanna;FALSE
+808;Blake;Male;02/02/2002;22;Standard;2;Fri, Sat;FALSE;;14:12:00;16:43:00;151;TRUE;orange;TRUE;Mike;TRUE
+809;Beatrice;Female;28/10/1990;33;Standard;3;Mon, Sat, Thu;FALSE;;09:46:00;12:17:00;151;FALSE;;FALSE;;FALSE
+810;Ivor;Male;02/10/2004;20;Premium;3;Mon, Thu, Wed;TRUE;Yoga, Pilates;10:42:00;13:13:00;151;TRUE;orange;TRUE;Mike;FALSE
+811;Linus;Male;05/10/1984;40;Standard;2;Fri, Tue;FALSE;;17:21:00;19:53:00;152;TRUE;coconut_pineapple, black_currant;TRUE;Jeffrey;TRUE
+812;Kathryn;Female;20/07/1999;25;Premium;5;Fri, Sat, Sun, Thu, Tue;FALSE;;16:13:00;18:45:00;152;FALSE;;FALSE;;FALSE
+813;Grover;Male;17/06/1977;47;Premium;2;Fri, Sun;FALSE;;09:58:00;12:31:00;153;FALSE;;FALSE;;TRUE
+814;Deborah;Female;28/06/1979;45;Premium;2;Mon, Thu;TRUE;LesMiles, Yoga, Zumba;10:37:00;13:10:00;153;TRUE;coconut_pineapple, lemon;TRUE;Hanna;TRUE
+815;Eva;Female;22/02/1998;26;Standard;2;Sat, Wed;TRUE;BodyBalance, LesMiles, BodyPump;15:44:00;18:17:00;153;FALSE;;TRUE;Chantal;TRUE
+816;Cary;Male;08/04/1975;49;Premium;3;Fri, Sun, Thu;TRUE;Pilates, XCore, Spinning;20:01:00;22:34:00;153;FALSE;;TRUE;Mike;FALSE
+817;Kyan;Male;22/02/1984;40;Standard;3;Sun, Thu, Wed;FALSE;;11:58:00;14:31:00;153;TRUE;coconut_pineapple;TRUE;Mike;FALSE
+818;Charlyne;Female;23/01/2012;12;Standard;5;Mon, Sat, Sun, Thu, Wed;TRUE;HIT, Zumba;09:36:00;12:09:00;153;TRUE;lemon, berry_boost;TRUE;Chantal;TRUE
+819;Ethelreda;Female;26/03/1979;45;Standard;1;Sun;FALSE;;20:40:00;23:14:00;154;TRUE;berry_boost;FALSE;;FALSE
+820;Carson;Male;05/03/1979;45;Premium;2;Sun, Tue;FALSE;;12:13:00;14:47:00;154;TRUE;passion_fruit;TRUE;Chantal;TRUE
+821;Cecilia;Female;03/04/1980;44;Standard;2;Fri, Sun;TRUE;Pilates, Zumba, Running;19:30:00;22:04:00;154;FALSE;;FALSE;;FALSE
+822;Ezekiel;Male;22/10/1988;35;Premium;2;Sun, Wed;FALSE;;19:50:00;22:24:00;154;FALSE;;TRUE;Hanna;TRUE
+823;Cordelia;Female;26/02/1996;28;Standard;2;Thu, Tue;TRUE;XCore, Yoga;20:22:00;22:56:00;154;TRUE;lemon, black_currant;FALSE;;FALSE
+824;Lara;Female;05/09/1984;40;Standard;3;Fri, Sun, Thu;TRUE;HIT, Yoga, BodyPump;17:05:00;19:39:00;154;FALSE;;TRUE;Mike;FALSE
+825;Adolf;Male;29/10/1997;26;Premium;3;Fri, Mon, Sat;TRUE;Yoga, BodyBalance, LesMiles;15:06:00;17:40:00;154;TRUE;lemon;FALSE;;TRUE
+826;Eve;Female;18/07/1975;49;Premium;1;Fri;TRUE;Running;08:06:00;10:41:00;155;FALSE;;TRUE;Jeffrey;FALSE
+827;Ember;Female;19/05/2008;16;Standard;1;Mon;TRUE;BodyBalance, Pilates, Yoga;20:02:00;22:37:00;155;FALSE;;TRUE;Mike;FALSE
+828;Hilary;Male;25/11/1983;40;Standard;3;Fri, Sun, Wed;TRUE;HIT, Spinning, XCore;17:58:00;20:33:00;155;TRUE;coconut_pineapple, orange;FALSE;;TRUE
+829;Gaylord;Male;02/10/2003;21;Standard;5;Fri, Mon, Sat, Sun, Wed;TRUE;LesMiles, Running;16:57:00;19:32:00;155;FALSE;;FALSE;;TRUE
+830;Jaime;Male;20/08/1983;41;Standard;1;Sun;TRUE;Yoga;13:41:00;16:17:00;156;TRUE;passion_fruit;TRUE;Mike;FALSE
+831;Damian;Male;30/10/1988;35;Standard;1;Fri;TRUE;BodyBalance, LesMiles;19:27:00;22:03:00;156;FALSE;;FALSE;;FALSE
+832;Elektra;Female;11/04/1989;35;Premium;1;Tue;FALSE;;12:12:00;14:48:00;156;TRUE;black_currant;FALSE;;FALSE
+833;Jerry;Male;30/07/1975;49;Premium;3;Sat, Sun, Tue;TRUE;Zumba, BodyPump;10:53:00;13:29:00;156;FALSE;;TRUE;Mike;FALSE
+834;Giovanni;Male;16/08/1975;49;Premium;3;Fri, Sun, Thu;FALSE;;17:16:00;19:52:00;156;TRUE;passion_fruit;FALSE;;FALSE
+835;Clinton;Male;03/01/1979;45;Standard;3;Fri, Tue, Wed;TRUE;BodyPump;12:48:00;15:24:00;156;FALSE;;TRUE;Jeffrey;TRUE
+836;Cecil;Male;30/09/2000;24;Standard;3;Fri, Mon, Sun;FALSE;;20:08:00;22:44:00;156;TRUE;orange;FALSE;;FALSE
+837;Ashton;Male;06/03/2009;15;Standard;3;Fri, Sun, Wed;TRUE;Pilates, BodyBalance, HIT;16:33:00;19:09:00;156;FALSE;;FALSE;;FALSE
+838;Hedworth;Male;06/05/2009;15;Premium;3;Fri, Sat, Sun;TRUE;Yoga, Pilates, HIT;18:06:00;20:42:00;156;FALSE;;TRUE;Jeffrey;TRUE
+839;Carlie;Female;21/07/1997;27;Standard;4;Sun, Thu, Tue, Wed;FALSE;;11:49:00;14:25:00;156;TRUE;lemon, black_currant;TRUE;Hanna;FALSE
+840;Denise;Female;11/06/1998;26;Standard;4;Mon, Sat, Thu, Wed;TRUE;Pilates, Spinning;13:03:00;15:39:00;156;FALSE;;TRUE;Chantal;TRUE
+841;Jaden;Male;15/05/1981;43;Premium;5;Fri, Mon, Sat, Thu, Wed;TRUE;XCore, Spinning, BodyPump;09:29:00;12:05:00;156;FALSE;;TRUE;Chantal;TRUE
+842;Lilly;Female;29/08/1991;33;Premium;1;Wed;FALSE;;14:09:00;16:46:00;157;FALSE;;FALSE;;FALSE
+843;Grayson;Male;22/07/1996;28;Standard;2;Fri, Mon;FALSE;;09:20:00;11:57:00;157;FALSE;;TRUE;Jeffrey;TRUE
+844;Lauretta;Female;08/12/1984;39;Standard;5;Sat, Sun, Thu, Tue, Wed;TRUE;LesMiles, BodyBalance;16:05:00;18:42:00;157;FALSE;;TRUE;Mike;FALSE
+845;Colman;Male;06/03/1988;36;Standard;1;Sun;FALSE;;19:20:00;21:58:00;158;TRUE;coconut_pineapple;FALSE;;FALSE
+846;Mandy;Female;29/01/1990;34;Standard;1;Sun;TRUE;LesMiles, Zumba, Spinning;09:14:00;11:52:00;158;FALSE;;TRUE;Chantal;FALSE
+847;Jackson;Male;30/12/2003;20;Premium;1;Sun;FALSE;;11:23:00;14:01:00;158;TRUE;coconut_pineapple;FALSE;;TRUE
+848;Alex;Male;19/01/1976;48;Premium;2;Tue, Wed;FALSE;;09:57:00;12:35:00;158;FALSE;;TRUE;Hanna;TRUE
+849;Adelaide;Female;22/04/1994;30;Standard;2;Sun, Wed;TRUE;XCore, HIT, Running;17:04:00;19:42:00;158;TRUE;passion_fruit;FALSE;;TRUE
+850;Lee;Female;09/06/2004;20;Premium;3;Sun, Tue, Wed;FALSE;;14:04:00;16:42:00;158;FALSE;;FALSE;;FALSE
+851;Joan;Female;17/03/2001;23;Premium;5;Mon, Sun, Thu, Tue, Wed;TRUE;Zumba, BodyPump;20:57:00;23:35:00;158;FALSE;;FALSE;;TRUE
+852;Julius;Male;25/11/1993;30;Standard;2;Sun, Wed;FALSE;;12:22:00;15:01:00;159;FALSE;;TRUE;Mike;TRUE
+853;Dickon;Male;23/08/1997;27;Premium;2;Fri, Thu;TRUE;LesMiles;16:29:00;19:08:00;159;TRUE;coconut_pineapple;FALSE;;TRUE
+854;Laurence;Male;17/03/2011;13;Premium;2;Fri, Tue;TRUE;XCore;09:23:00;12:02:00;159;FALSE;;FALSE;;TRUE
+855;Jermaine;Male;16/12/2006;17;Standard;3;Fri, Mon, Tue;TRUE;Pilates, Running, BodyPump;11:51:00;14:30:00;159;FALSE;;FALSE;;TRUE
+856;Alan;Male;06/03/2004;20;Premium;5;Mon, Sun, Thu, Tue, Wed;FALSE;;18:15:00;20:54:00;159;FALSE;;TRUE;Mike;TRUE
+857;Beau;Male;19/03/2003;21;Premium;1;Wed;FALSE;;18:11:00;20:51:00;160;TRUE;orange;TRUE;Hanna;TRUE
+858;Justine;Female;18/04/1980;44;Premium;2;Mon, Sun;FALSE;;14:58:00;17:38:00;160;TRUE;lemon, orange;TRUE;Hanna;TRUE
+859;Alaina;Female;22/10/2010;13;Standard;2;Mon, Tue;TRUE;HIT;20:56:00;23:36:00;160;TRUE;passion_fruit, orange;TRUE;Mike;FALSE
+860;Fabian;Male;09/09/1975;49;Premium;3;Mon, Sat, Sun;FALSE;;15:25:00;18:05:00;160;TRUE;orange;FALSE;;TRUE
+861;Madonna;Female;22/01/1992;32;Standard;3;Fri, Sun, Wed;TRUE;XCore, Kickboxen, Zumba;14:52:00;17:32:00;160;FALSE;;FALSE;;FALSE
+862;Arda;Female;10/05/2012;12;Standard;3;Fri, Thu, Wed;TRUE;BodyBalance;10:10:00;12:50:00;160;TRUE;berry_boost;FALSE;;TRUE
+863;Lindy;Female;28/05/2006;18;Standard;4;Sun, Thu, Tue, Wed;FALSE;;11:23:00;14:03:00;160;TRUE;black_currant;FALSE;;FALSE
+864;Al;Male;02/03/2000;24;Standard;5;Fri, Mon, Sat, Sun, Wed;FALSE;;20:53:00;23:33:00;160;TRUE;black_currant, lemon;FALSE;;FALSE
+865;Charley;Male;06/08/1997;27;Standard;1;Mon;TRUE;Kickboxen, BodyPump, Zumba;12:11:00;14:52:00;161;FALSE;;TRUE;Jeffrey;FALSE
+866;Alvina;Female;29/12/1979;44;Premium;2;Sat, Tue;TRUE;BodyPump, Zumba;08:54:00;11:35:00;161;TRUE;black_currant, passion_fruit;FALSE;;TRUE
+867;Harris;Male;15/08/1981;43;Standard;2;Tue, Wed;FALSE;;18:35:00;21:16:00;161;FALSE;;TRUE;Chantal;TRUE
+868;Coraline;Female;24/09/2003;21;Premium;2;Mon, Wed;TRUE;Kickboxen, HIT, Spinning;18:40:00;21:21:00;161;TRUE;passion_fruit;TRUE;Hanna;TRUE
+869;Jamie;Male;03/12/2005;18;Standard;2;Sun, Wed;FALSE;;14:16:00;16:57:00;161;TRUE;orange, coconut_pineapple;TRUE;Jeffrey;FALSE
+870;Gail;Female;17/07/2009;15;Standard;2;Fri, Sun;TRUE;XCore;14:20:00;17:01:00;161;FALSE;;FALSE;;FALSE
+871;Jordie;Male;16/01/2010;14;Premium;2;Fri, Tue;TRUE;BodyPump, Zumba, Running;13:45:00;16:26:00;161;FALSE;;FALSE;;FALSE
+872;Addison;Male;17/12/1986;37;Premium;3;Fri, Sat, Sun;FALSE;;09:25:00;12:06:00;161;FALSE;;TRUE;Jeffrey;TRUE
+873;Albert;Male;09/03/1990;34;Standard;3;Sat, Sun, Tue;TRUE;XCore;13:39:00;16:20:00;161;TRUE;orange;FALSE;;TRUE
+874;Amanda;Female;27/11/1980;43;Standard;4;Fri, Mon, Sat, Thu;TRUE;Pilates;20:36:00;23:17:00;161;TRUE;orange, berry_boost;TRUE;Mike;FALSE
+875;Marcia;Female;02/10/1985;39;Standard;5;Mon, Sat, Sun, Tue, Wed;TRUE;Running, BodyBalance;09:42:00;12:23:00;161;TRUE;lemon;TRUE;Chantal;FALSE
+876;Bobby;Male;29/01/2004;20;Standard;5;Mon, Sat, Thu, Tue, Wed;FALSE;;17:41:00;20:22:00;161;FALSE;;FALSE;;FALSE
+877;Cedric;Male;30/07/1993;31;Standard;1;Thu;FALSE;;15:01:00;17:43:00;162;FALSE;;FALSE;;FALSE
+878;Laura;Female;30/01/1988;36;Premium;2;Sat, Sun;TRUE;HIT, BodyBalance;10:20:00;13:02:00;162;FALSE;;TRUE;Jeffrey;FALSE
+879;Colette;Female;02/05/1992;32;Standard;2;Sat, Wed;TRUE;LesMiles, BodyPump, Kickboxen;17:04:00;19:46:00;162;FALSE;;TRUE;Jeffrey;FALSE
+880;Alistair;Male;04/01/2000;24;Standard;2;Sun, Thu;TRUE;Spinning, Kickboxen, LesMiles;15:49:00;18:31:00;162;TRUE;black_currant;TRUE;Chantal;TRUE
+881;Delia;Female;21/06/2007;17;Premium;2;Fri, Thu;TRUE;LesMiles, Pilates, Yoga;16:58:00;19:40:00;162;TRUE;orange;FALSE;;TRUE
+882;Amber;Female;12/06/2001;23;Standard;3;Sat, Thu, Wed;FALSE;;08:36:00;11:18:00;162;FALSE;;FALSE;;FALSE
+883;Lynnette;Female;25/03/2010;14;Standard;3;Fri, Sun, Thu;TRUE;Yoga;13:59:00;16:41:00;162;TRUE;lemon;FALSE;;TRUE
+884;Grant;Male;01/01/1978;46;Premium;1;Sun;FALSE;;14:38:00;17:21:00;163;TRUE;orange, passion_fruit;FALSE;;TRUE
+885;Callum;Male;21/03/1978;46;Standard;1;Sun;TRUE;Zumba;18:06:00;20:49:00;163;TRUE;berry_boost, black_currant;FALSE;;FALSE
+886;Clarice;Female;02/03/1993;31;Standard;1;Wed;TRUE;Spinning, Running;09:42:00;12:25:00;163;FALSE;;FALSE;;FALSE
+887;Archie;Male;15/10/1978;45;Standard;2;Mon, Sat;FALSE;;12:35:00;15:18:00;163;TRUE;berry_boost;TRUE;Mike;TRUE
+888;Cheryl;Female;13/08/1997;27;Standard;2;Sat, Thu;FALSE;;11:43:00;14:26:00;163;TRUE;passion_fruit;FALSE;;TRUE
+889;Burt;Male;05/08/1994;30;Premium;3;Fri, Sun, Wed;TRUE;BodyPump, Yoga;13:00:00;15:43:00;163;TRUE;coconut_pineapple;TRUE;Jeffrey;TRUE
+890;Elvis;Male;25/09/2006;18;Premium;3;Mon, Sat, Tue;TRUE;BodyPump, HIT;17:46:00;20:29:00;163;FALSE;;TRUE;Jeffrey;FALSE
+891;Emma;Female;22/04/2006;18;Standard;2;Fri, Tue;FALSE;;18:15:00;20:59:00;164;FALSE;;FALSE;;FALSE
+892;Charlie;Female;06/04/1992;32;Standard;3;Mon, Sun, Wed;FALSE;;17:30:00;20:14:00;164;FALSE;;TRUE;Chantal;TRUE
+893;Devon;Female;19/12/2004;19;Standard;3;Sun, Thu, Wed;FALSE;;18:07:00;20:51:00;164;FALSE;;TRUE;Jeffrey;TRUE
+894;Dexter;Male;10/01/1994;30;Standard;5;Fri, Mon, Sun, Tue, Wed;TRUE;Yoga, Spinning;10:56:00;13:40:00;164;FALSE;;TRUE;Jeffrey;TRUE
+895;Kara;Female;12/01/2004;20;Premium;2;Sun, Tue;FALSE;;14:03:00;16:48:00;165;TRUE;orange;TRUE;Hanna;TRUE
+896;Angela;Female;01/08/1988;36;Premium;3;Fri, Sun, Tue;FALSE;;11:11:00;13:56:00;165;FALSE;;FALSE;;TRUE
+897;Jordan;Female;02/07/1991;33;Standard;3;Fri, Mon, Wed;TRUE;Spinning, Kickboxen, Zumba;13:11:00;15:56:00;165;TRUE;lemon;FALSE;;FALSE
+898;Cliff;Male;12/06/1982;42;Premium;5;Fri, Mon, Sat, Thu, Tue;FALSE;;17:30:00;20:15:00;165;TRUE;coconut_pineapple;FALSE;;TRUE
+899;Conor;Male;18/05/1984;40;Premium;2;Sun, Thu;FALSE;;11:37:00;14:23:00;166;FALSE;;TRUE;Chantal;TRUE
+900;Bruno;Male;12/11/1987;36;Premium;2;Fri, Tue;TRUE;Spinning, XCore;11:28:00;14:14:00;166;FALSE;;FALSE;;TRUE
+901;Anthony;Male;16/12/1995;28;Standard;2;Fri, Sun;FALSE;;20:17:00;23:03:00;166;TRUE;passion_fruit;FALSE;;TRUE
+902;Delbert;Male;09/03/2007;17;Premium;2;Fri, Sat;FALSE;;08:38:00;11:24:00;166;FALSE;;TRUE;Mike;TRUE
+903;Lauryn;Female;29/04/2007;17;Standard;2;Tue, Wed;TRUE;LesMiles;12:09:00;14:55:00;166;TRUE;orange, berry_boost;TRUE;Mike;TRUE
+904;Jodie;Male;11/10/1981;43;Premium;3;Fri, Sat, Thu;TRUE;Kickboxen, LesMiles, BodyPump;13:40:00;16:26:00;166;TRUE;passion_fruit, orange;TRUE;Mike;TRUE
+905;Harmony;Female;24/11/1979;44;Premium;4;Mon, Thu, Tue, Wed;TRUE;Kickboxen;19:09:00;21:55:00;166;TRUE;black_currant, berry_boost;FALSE;;TRUE
+906;Madge;Female;13/11/1995;28;Premium;4;Fri, Mon, Tue, Wed;TRUE;Spinning;11:10:00;13:56:00;166;FALSE;;TRUE;Mike;TRUE
+907;Agnes;Female;29/05/1986;38;Standard;1;Tue;TRUE;Pilates;10:01:00;12:48:00;167;TRUE;orange;TRUE;Hanna;TRUE
+908;Joel;Male;14/01/1979;45;Standard;2;Sat, Tue;TRUE;HIT;15:59:00;18:46:00;167;FALSE;;TRUE;Hanna;TRUE
+909;Janee;Female;18/02/2005;19;Premium;2;Mon, Wed;TRUE;Pilates;10:42:00;13:29:00;167;FALSE;;TRUE;Mike;FALSE
+910;Edris;Female;28/01/1977;47;Premium;3;Sat, Sun, Thu;FALSE;;14:51:00;17:38:00;167;TRUE;orange;FALSE;;TRUE
+911;Bonnie;Female;28/11/1988;35;Premium;3;Fri, Thu, Tue;TRUE;Kickboxen, Spinning, BodyPump;13:32:00;16:19:00;167;FALSE;;FALSE;;FALSE
+912;Lucinda;Female;03/11/2002;21;Premium;5;Fri, Mon, Sat, Tue, Wed;TRUE;HIT, Pilates;11:36:00;14:23:00;167;FALSE;;FALSE;;FALSE
+913;Gage;Female;12/01/1994;30;Premium;1;Fri;FALSE;;17:59:00;20:47:00;168;FALSE;;TRUE;Chantal;TRUE
+914;Lucy;Female;25/06/1977;47;Standard;2;Mon, Wed;TRUE;BodyPump, Zumba;18:47:00;21:35:00;168;TRUE;berry_boost, orange;FALSE;;FALSE
+915;Carlie;Male;18/07/2001;23;Premium;2;Mon, Sun;TRUE;XCore, Zumba;12:58:00;15:46:00;168;FALSE;;FALSE;;FALSE
+916;Denzel;Male;01/04/1979;45;Premium;3;Sun, Tue, Wed;FALSE;;11:20:00;14:08:00;168;FALSE;;TRUE;Mike;TRUE
+917;Daisy;Female;29/07/1995;29;Premium;3;Sat, Sun, Thu;TRUE;BodyPump, LesMiles;20:16:00;23:04:00;168;TRUE;berry_boost, orange;FALSE;;FALSE
+918;Karolyn;Female;19/04/2000;24;Standard;4;Mon, Sat, Sun, Thu;FALSE;;17:17:00;20:05:00;168;TRUE;black_currant, coconut_pineapple;FALSE;;FALSE
+919;Courtney;Female;10/10/1978;46;Premium;5;Fri, Sun, Thu, Tue, Wed;TRUE;Running, BodyPump;11:18:00;14:06:00;168;TRUE;coconut_pineapple, black_currant;TRUE;Jeffrey;TRUE
+920;Carrie Ann;Female;28/05/1992;32;Premium;5;Fri, Mon, Thu, Tue, Wed;TRUE;BodyBalance, Zumba;10:17:00;13:05:00;168;TRUE;berry_boost;FALSE;;FALSE
+921;Bridger;Male;20/12/1996;27;Premium;5;Mon, Sat, Sun, Thu, Tue;TRUE;Kickboxen, XCore;10:50:00;13:38:00;168;TRUE;lemon, black_currant;FALSE;;TRUE
+922;Autumn;Female;01/03/2004;20;Premium;2;Fri, Wed;TRUE;Pilates;17:52:00;20:41:00;169;FALSE;;FALSE;;TRUE
+923;Joanna;Female;24/05/2008;16;Premium;2;Fri, Wed;TRUE;XCore, LesMiles;09:10:00;11:59:00;169;TRUE;passion_fruit;TRUE;Hanna;FALSE
+924;Fred;Male;17/10/1979;44;Premium;3;Sun, Tue, Wed;FALSE;;19:40:00;22:29:00;169;FALSE;;TRUE;Jeffrey;FALSE
+925;Bob;Male;24/11/1987;36;Premium;3;Sat, Thu, Wed;FALSE;;08:42:00;11:31:00;169;TRUE;berry_boost;TRUE;Jeffrey;TRUE
+926;Charlie;Male;27/08/2006;18;Standard;3;Fri, Mon, Sun;FALSE;;13:26:00;16:15:00;169;FALSE;;FALSE;;FALSE
+927;Angel;Female;26/04/2002;22;Premium;1;Sun;TRUE;Running;08:18:00;11:08:00;170;FALSE;;FALSE;;FALSE
+928;Chad;Male;05/03/2007;17;Premium;1;Mon;TRUE;Spinning, HIT;19:05:00;21:55:00;170;TRUE;berry_boost, orange;TRUE;Chantal;FALSE
+929;Lanna;Female;29/10/1998;25;Premium;2;Tue, Wed;FALSE;;20:20:00;23:10:00;170;TRUE;berry_boost, lemon;FALSE;;FALSE
+930;Iona;Female;07/10/2002;22;Premium;4;Fri, Thu, Tue, Wed;FALSE;;19:28:00;22:18:00;170;TRUE;berry_boost, coconut_pineapple;TRUE;Hanna;FALSE
+931;Edwina;Female;29/04/1995;29;Standard;5;Mon, Sat, Sun, Thu, Tue;FALSE;;18:14:00;21:04:00;170;FALSE;;FALSE;;FALSE
+932;Louella;Female;29/11/1975;48;Standard;2;Thu, Wed;FALSE;;17:14:00;20:05:00;171;FALSE;;TRUE;Jeffrey;TRUE
+933;Marcie;Female;23/03/1988;36;Standard;2;Mon, Tue;FALSE;;10:16:00;13:07:00;171;TRUE;berry_boost, black_currant;FALSE;;TRUE
+934;Lottie;Female;21/06/1991;33;Premium;2;Mon, Wed;TRUE;BodyBalance;20:25:00;23:16:00;171;TRUE;coconut_pineapple;FALSE;;FALSE
+935;Hester;Female;05/11/2009;14;Standard;2;Fri, Thu;TRUE;BodyBalance, LesMiles, Pilates;09:21:00;12:12:00;171;FALSE;;TRUE;Mike;FALSE
+936;Courtney;Male;13/06/1984;40;Premium;3;Fri, Sun, Tue;FALSE;;11:18:00;14:09:00;171;FALSE;;TRUE;Hanna;TRUE
+937;Lenna;Female;04/10/2010;14;Premium;3;Fri, Mon, Tue;TRUE;Spinning;15:31:00;18:22:00;171;FALSE;;FALSE;;TRUE
+938;Lester;Male;02/03/1988;36;Premium;4;Fri, Mon, Tue, Wed;TRUE;Pilates;19:22:00;22:13:00;171;TRUE;berry_boost;TRUE;Mike;FALSE
+939;Collin;Male;28/12/1975;48;Standard;1;Tue;TRUE;BodyPump, HIT;19:29:00;22:21:00;172;TRUE;passion_fruit, coconut_pineapple;FALSE;;TRUE
+940;Dirk;Male;27/09/1987;37;Premium;1;Sat;TRUE;Running;13:10:00;16:02:00;172;FALSE;;FALSE;;TRUE
+941;Kirsteen;Female;27/07/2008;16;Premium;1;Wed;FALSE;;08:41:00;11:33:00;172;FALSE;;FALSE;;TRUE
+942;Basil;Male;27/05/1981;43;Premium;2;Sat, Tue;FALSE;;19:40:00;22:32:00;172;FALSE;;TRUE;Chantal;FALSE
+943;Katrina;Female;20/11/1989;34;Premium;2;Fri, Sun;FALSE;;13:25:00;16:17:00;172;TRUE;berry_boost;FALSE;;FALSE
+944;Claire;Female;18/07/1981;43;Premium;3;Mon, Sat, Thu;TRUE;Kickboxen, LesMiles;12:17:00;15:09:00;172;FALSE;;FALSE;;FALSE
+945;Gage;Male;28/06/1985;39;Premium;3;Mon, Thu, Tue;FALSE;;18:07:00;20:59:00;172;TRUE;orange, berry_boost;FALSE;;FALSE
+946;Arnold;Male;24/03/1995;29;Premium;3;Fri, Sun, Wed;FALSE;;14:16:00;17:08:00;172;FALSE;;FALSE;;FALSE
+947;Kenny;Male;09/11/2001;22;Standard;5;Fri, Sun, Thu, Tue, Wed;FALSE;;09:16:00;12:08:00;172;FALSE;;TRUE;Chantal;FALSE
+948;Annabelle;Female;27/04/1992;32;Premium;2;Sat, Sun;TRUE;HIT;19:07:00;22:00:00;173;FALSE;;FALSE;;FALSE
+949;Elmo;Male;10/06/1993;31;Premium;2;Fri, Tue;TRUE;Kickboxen;14:51:00;17:44:00;173;FALSE;;TRUE;Mike;TRUE
+950;Caleb;Male;29/05/1982;42;Premium;3;Fri, Sat, Thu;FALSE;;09:57:00;12:50:00;173;TRUE;lemon;TRUE;Chantal;FALSE
+951;Lindsay;Male;29/01/2007;17;Standard;4;Mon, Sun, Thu, Tue;TRUE;LesMiles, BodyPump;19:50:00;22:43:00;173;TRUE;coconut_pineapple, passion_fruit;TRUE;Hanna;FALSE
+952;Chet;Male;05/07/1976;48;Standard;5;Fri, Mon, Sat, Sun, Thu;FALSE;;15:42:00;18:35:00;173;FALSE;;TRUE;Hanna;TRUE
+953;Edison;Male;02/05/1989;35;Standard;1;Tue;FALSE;;16:19:00;19:13:00;174;TRUE;berry_boost;FALSE;;FALSE
+954;Bubba;Male;23/10/1992;31;Premium;2;Mon, Wed;FALSE;;13:48:00;16:42:00;174;FALSE;;FALSE;;FALSE
+955;Deanna;Female;14/05/2007;17;Premium;2;Fri, Tue;FALSE;;09:30:00;12:24:00;174;TRUE;black_currant;TRUE;Hanna;TRUE
+956;Belinda;Female;30/06/2009;15;Standard;2;Mon, Tue;FALSE;;16:51:00;19:45:00;174;TRUE;coconut_pineapple;FALSE;;FALSE
+957;Frederick;Male;18/02/1979;45;Standard;3;Mon, Sat, Tue;TRUE;HIT;17:42:00;20:36:00;174;FALSE;;FALSE;;TRUE
+958;Juliet;Female;31/07/1995;29;Standard;4;Fri, Sun, Thu, Wed;TRUE;HIT, LesMiles;13:25:00;16:19:00;174;TRUE;lemon;FALSE;;TRUE
+959;Charisse;Female;24/04/1982;42;Premium;5;Fri, Sat, Sun, Thu, Wed;FALSE;;09:49:00;12:43:00;174;TRUE;berry_boost;FALSE;;TRUE
+960;Emmett;Male;12/02/2000;24;Standard;1;Thu;TRUE;Yoga, Kickboxen;08:58:00;11:53:00;175;FALSE;;TRUE;Hanna;TRUE
+961;Brynlee;Female;15/08/2001;23;Premium;1;Tue;FALSE;;16:54:00;19:49:00;175;TRUE;passion_fruit, berry_boost;FALSE;;FALSE
+962;Laurie;Female;03/02/1979;45;Standard;2;Fri, Wed;TRUE;BodyBalance, Zumba;18:26:00;21:21:00;175;TRUE;orange, passion_fruit;TRUE;Mike;FALSE
+963;Ingram;Male;16/12/1982;41;Premium;2;Mon, Thu;TRUE;Zumba, BodyPump, HIT;20:54:00;23:49:00;175;FALSE;;TRUE;Chantal;TRUE
+964;Donald;Male;23/06/2009;15;Premium;2;Mon, Thu;TRUE;XCore, Yoga;19:07:00;22:02:00;175;TRUE;black_currant, orange;FALSE;;TRUE
+965;Alison;Female;22/05/1981;43;Standard;4;Fri, Mon, Sat, Tue;TRUE;Spinning;18:41:00;21:36:00;175;FALSE;;TRUE;Hanna;FALSE
+966;Kim;Female;21/07/1986;38;Standard;5;Fri, Sat, Sun, Thu, Tue;FALSE;;17:59:00;20:54:00;175;TRUE;passion_fruit;FALSE;;TRUE
+967;James;Male;09/11/1997;26;Standard;1;Thu;FALSE;;14:21:00;17:17:00;176;TRUE;orange;FALSE;;FALSE
+968;Hannah;Female;05/07/1991;33;Standard;2;Thu, Wed;FALSE;;09:56:00;12:52:00;176;FALSE;;TRUE;Hanna;TRUE
+969;Booth;Male;22/05/1995;29;Standard;2;Fri, Sat;TRUE;Zumba;14:45:00;17:41:00;176;FALSE;;TRUE;Chantal;TRUE
+970;Dorian;Male;01/06/1999;25;Premium;2;Thu, Tue;FALSE;;10:55:00;13:51:00;176;TRUE;lemon;FALSE;;TRUE
+971;Edward;Male;23/03/2005;19;Standard;3;Sun, Tue, Wed;TRUE;LesMiles, Kickboxen, Yoga;12:56:00;15:52:00;176;FALSE;;TRUE;Jeffrey;FALSE
+972;Bridget;Female;16/02/2010;14;Standard;3;Mon, Sun, Wed;TRUE;XCore;09:01:00;11:57:00;176;FALSE;;TRUE;Chantal;TRUE
+973;Christy;Female;07/10/2005;19;Premium;5;Fri, Sat, Thu, Tue, Wed;TRUE;Running, HIT, Kickboxen;09:53:00;12:49:00;176;FALSE;;TRUE;Mike;TRUE
+974;Arnie;Male;10/04/1984;40;Standard;1;Sat;FALSE;;10:28:00;13:25:00;177;FALSE;;FALSE;;TRUE
+975;Hudson;Male;12/06/2005;19;Standard;1;Sun;FALSE;;11:29:00;14:26:00;177;TRUE;orange, coconut_pineapple;TRUE;Jeffrey;FALSE
+976;Dan;Male;25/02/2007;17;Standard;1;Tue;TRUE;Running, Zumba;12:17:00;15:14:00;177;TRUE;lemon, berry_boost;TRUE;Chantal;FALSE
+977;Andy;Male;13/03/2007;17;Premium;1;Wed;FALSE;;10:30:00;13:27:00;177;TRUE;black_currant;TRUE;Mike;TRUE
+978;Dustin;Male;25/07/2000;24;Premium;2;Sat, Tue;TRUE;Zumba, LesMiles, Spinning;11:46:00;14:43:00;177;FALSE;;FALSE;;TRUE
+979;Clare;Male;02/04/2010;14;Standard;2;Thu, Tue;TRUE;LesMiles;11:21:00;14:18:00;177;FALSE;;FALSE;;TRUE
+980;Karlie;Female;26/06/1977;47;Standard;3;Sat, Thu, Tue;FALSE;;16:49:00;19:46:00;177;TRUE;berry_boost, orange;FALSE;;FALSE
+981;Jim;Male;28/03/2010;14;Standard;3;Sat, Sun, Wed;FALSE;;19:16:00;22:13:00;177;TRUE;passion_fruit;TRUE;Hanna;FALSE
+982;Jedediah;Male;21/01/1978;46;Standard;5;Fri, Mon, Sat, Tue, Wed;TRUE;Spinning, Yoga;09:41:00;12:38:00;177;TRUE;orange;TRUE;Chantal;TRUE
+983;Hugh;Male;03/09/1997;27;Premium;1;Mon;TRUE;BodyPump;18:22:00;21:20:00;178;TRUE;berry_boost, lemon;FALSE;;TRUE
+984;Lana;Female;17/08/1989;35;Standard;4;Mon, Thu, Tue, Wed;FALSE;;15:43:00;18:41:00;178;FALSE;;TRUE;Hanna;TRUE
+985;August;Male;17/03/1991;33;Premium;4;Fri, Thu, Tue, Wed;FALSE;;19:08:00;22:06:00;178;TRUE;orange;FALSE;;TRUE
+986;Carly;Female;08/04/1989;35;Standard;5;Fri, Sat, Thu, Tue, Wed;TRUE;BodyPump;15:45:00;18:43:00;178;FALSE;;FALSE;;FALSE
+987;Jemmy;Male;15/06/2005;19;Premium;1;Wed;TRUE;LesMiles;14:30:00;17:29:00;179;FALSE;;TRUE;Hanna;TRUE
+988;Hilda;Female;20/02/1989;35;Standard;2;Tue, Wed;FALSE;;18:42:00;21:41:00;179;FALSE;;TRUE;Jeffrey;TRUE
+989;Ivy;Female;02/11/2005;18;Premium;2;Mon, Sat;FALSE;;19:45:00;22:44:00;179;FALSE;;TRUE;Chantal;FALSE
+990;Mabel;Female;23/02/1993;31;Standard;3;Fri, Sat, Tue;FALSE;;10:14:00;13:13:00;179;FALSE;;TRUE;Chantal;TRUE
+991;Kaylee;Female;14/11/2003;20;Standard;3;Fri, Thu, Tue;FALSE;;08:23:00;11:22:00;179;FALSE;;FALSE;;FALSE
+992;Carol;Female;25/06/2003;21;Premium;5;Fri, Mon, Sat, Sun, Thu;TRUE;Pilates, BodyPump, BodyBalance;20:15:00;23:14:00;179;TRUE;coconut_pineapple, passion_fruit;FALSE;;TRUE
+993;Elaine;Female;17/05/1994;30;Standard;1;Sat;FALSE;;14:08:00;17:08:00;180;FALSE;;TRUE;Hanna;FALSE
+994;Ada;Female;29/06/2009;15;Standard;1;Mon;FALSE;;17:19:00;20:19:00;180;FALSE;;FALSE;;TRUE
+995;David;Male;06/12/1978;45;Premium;2;Mon, Wed;TRUE;HIT, Spinning;14:20:00;17:20:00;180;TRUE;black_currant;TRUE;Hanna;TRUE
+996;Jodi;Female;05/02/1991;33;Standard;2;Fri, Tue;TRUE;HIT;09:24:00;12:24:00;180;FALSE;;TRUE;Jeffrey;FALSE
+997;Derwin;Male;02/05/2010;14;Premium;3;Fri, Mon, Sun;FALSE;;16:05:00;19:05:00;180;TRUE;black_currant;TRUE;Mike;FALSE
+998;Angie;Female;24/04/1981;43;Standard;5;Fri, Sat, Thu, Tue, Wed;TRUE;XCore;12:44:00;15:44:00;180;FALSE;;FALSE;;FALSE
+999;Eadwulf;Male;25/04/1981;43;Premium;5;Fri, Mon, Sat, Thu, Wed;FALSE;;17:52:00;20:52:00;180;FALSE;;TRUE;Mike;FALSE
+1000;Harriet;Female;26/08/1989;35;Premium;5;Sat, Sun, Thu, Tue, Wed;FALSE;;10:41:00;13:41:00;180;FALSE;;FALSE;;TRUE
